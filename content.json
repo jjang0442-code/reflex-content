@@ -1,5 +1,5 @@
 {
-    "content_version":  "2026-07-11-03",
+    "content_version":  "2026-07-11-04",
     "cards":  [
                   {
                       "id":  "beg_talk_001",
@@ -3608,6 +3608,576 @@
                                               {
                                                   "en":  "missed call",
                                                   "ko":  "부재중 전화"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_001",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "나 지금 너무 신나.",
+                      "sentence_en":  "I\u0027m so excited right now.",
+                      "hint_chunk":  "I\u0027m so + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "thrilled",
+                                                  "ko":  "정말 신난"
+                                              },
+                                              {
+                                                  "en":  "pumped",
+                                                  "ko":  "들떠 있는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_002",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "그 말 듣고 좀 슬펐어.",
+                      "sentence_en":  "That made me kind of sad.",
+                      "hint_chunk":  "That made me + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "upset",
+                                                  "ko":  "속상한"
+                                              },
+                                              {
+                                                  "en":  "down",
+                                                  "ko":  "기분이 가라앉은"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_003",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "나 완전 화났어.",
+                      "sentence_en":  "I\u0027m really mad.",
+                      "hint_chunk":  "I\u0027m really + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "furious",
+                                                  "ko":  "엄청 화난"
+                                              },
+                                              {
+                                                  "en":  "annoyed",
+                                                  "ko":  "짜증난"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_004",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "좀 긴장돼.",
+                      "sentence_en":  "I\u0027m a little nervous.",
+                      "hint_chunk":  "I\u0027m a little + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "anxious",
+                                                  "ko":  "불안한"
+                                              },
+                                              {
+                                                  "en":  "jittery",
+                                                  "ko":  "초조한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_005",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "진짜 창피했어.",
+                      "sentence_en":  "I was so embarrassed.",
+                      "hint_chunk":  "I was so + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "awkward",
+                                                  "ko":  "어색한"
+                                              },
+                                              {
+                                                  "en":  "humiliated",
+                                                  "ko":  "굴욕적인"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_006",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "오늘 기분 되게 좋아.",
+                      "sentence_en":  "I\u0027m in a really good mood today.",
+                      "hint_chunk":  "I\u0027m in a good mood",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "bad mood",
+                                                  "ko":  "기분이 안 좋은 상태"
+                                              },
+                                              {
+                                                  "en":  "great mood",
+                                                  "ko":  "아주 좋은 기분"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_007",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "완전 실망했어.",
+                      "sentence_en":  "I\u0027m really disappointed.",
+                      "hint_chunk":  "I\u0027m really + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "let down",
+                                                  "ko":  "실망한"
+                                              },
+                                              {
+                                                  "en":  "bummed",
+                                                  "ko":  "속상한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_008",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "이제 좀 안심이 된다.",
+                      "sentence_en":  "I feel relieved now.",
+                      "hint_chunk":  "I feel + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "reassured",
+                                                  "ko":  "안심되는"
+                                              },
+                                              {
+                                                  "en":  "at ease",
+                                                  "ko":  "편안한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_009",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "걔 좀 부러워.",
+                      "sentence_en":  "I\u0027m a bit jealous of him.",
+                      "hint_chunk":  "I\u0027m jealous of + 사람",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "envious",
+                                                  "ko":  "부러운"
+                                              },
+                                              {
+                                                  "en":  "kind of jealous",
+                                                  "ko":  "약간 질투나는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_010",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "나 완전 자랑스러워.",
+                      "sentence_en":  "I\u0027m so proud of you.",
+                      "hint_chunk":  "I\u0027m so proud of + 사람",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "impressed",
+                                                  "ko":  "감명받은"
+                                              },
+                                              {
+                                                  "en":  "amazed",
+                                                  "ko":  "놀란"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_011",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "좀 무서웠어.",
+                      "sentence_en":  "I was pretty scared.",
+                      "hint_chunk":  "I was pretty + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "terrified",
+                                                  "ko":  "엄청 무서운"
+                                              },
+                                              {
+                                                  "en":  "freaked out",
+                                                  "ko":  "깜짝 놀란"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_012",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "뭔 말인지 헷갈려.",
+                      "sentence_en":  "I\u0027m confused.",
+                      "hint_chunk":  "I\u0027m confused",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "lost",
+                                                  "ko":  "못 따라가는"
+                                              },
+                                              {
+                                                  "en":  "unsure",
+                                                  "ko":  "확신이 안 서는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_013",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "그 얘기 듣고 감동했어.",
+                      "sentence_en":  "I was really touched by that.",
+                      "hint_chunk":  "I was touched by + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "moved",
+                                                  "ko":  "감동받은"
+                                              },
+                                              {
+                                                  "en":  "heartwarming",
+                                                  "ko":  "마음 따뜻해지는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_014",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "좀 짜증나.",
+                      "sentence_en":  "I\u0027m a bit annoyed.",
+                      "hint_chunk":  "I\u0027m a bit + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "irritated",
+                                                  "ko":  "짜증나는"
+                                              },
+                                              {
+                                                  "en":  "fed up",
+                                                  "ko":  "질린"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_015",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "요즘 좀 외로워.",
+                      "sentence_en":  "I feel lonely these days.",
+                      "hint_chunk":  "I feel lonely these days",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "isolated",
+                                                  "ko":  "고립된 느낌"
+                                              },
+                                              {
+                                                  "en":  "alone",
+                                                  "ko":  "혼자인"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_001",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "그 얘기 들었을 때 나도 모르게 눈물이 났어.",
+                      "sentence_en":  "When I heard that, I couldn\u0027t help crying.",
+                      "hint_chunk":  "couldn\u0027t help + -ing (나도 모르게 ~하게 되다)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "couldn\u0027t help laughing",
+                                                  "ko":  "웃음을 참을 수 없었다"
+                                              },
+                                              {
+                                                  "en":  "couldn\u0027t help but smile",
+                                                  "ko":  "미소 짓지 않을 수 없었다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_002",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "걔가 그렇게 말할 줄은 몰랐어서 좀 당황했어.",
+                      "sentence_en":  "I was kind of thrown off because I didn\u0027t expect him to say that.",
+                      "hint_chunk":  "be thrown off + because절",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "caught off guard",
+                                                  "ko":  "허를 찔린"
+                                              },
+                                              {
+                                                  "en":  "taken aback",
+                                                  "ko":  "놀란"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_003",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "시간이 지나면 지날수록 점점 더 화가 났어.",
+                      "sentence_en":  "The more time passed, the angrier I got.",
+                      "hint_chunk":  "The more~, the 비교급~ (~할수록 더 ~하다)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the more I think about it",
+                                                  "ko":  "생각하면 할수록"
+                                              },
+                                              {
+                                                  "en":  "the worse it gets",
+                                                  "ko":  "점점 더 나빠지다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_004",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "만약 걔가 미리 말해줬더라면 이렇게까지 서운하진 않았을 거야.",
+                      "sentence_en":  "If he had told me earlier, I wouldn\u0027t have felt this hurt.",
+                      "hint_chunk":  "If + had p.p, would have p.p (가정법 과거완료)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "wouldn\u0027t have been so upset",
+                                                  "ko":  "그렇게까지 속상하지 않았을 것"
+                                              },
+                                              {
+                                                  "en":  "if only he had said something",
+                                                  "ko":  "말이라도 해줬더라면"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_005",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "그 소식을 듣고 나서부터 계속 마음이 불편해.",
+                      "sentence_en":  "I\u0027ve felt uneasy ever since I heard the news.",
+                      "hint_chunk":  "have p.p + ever since (그 이후로 계속 ~하다)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "haven\u0027t been able to relax",
+                                                  "ko":  "마음을 놓을 수가 없다"
+                                              },
+                                              {
+                                                  "en":  "it keeps bothering me",
+                                                  "ko":  "계속 신경쓰인다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_006",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "걔가 사과할 줄은 상상도 못했는데 그래서 더 감동받았어.",
+                      "sentence_en":  "I never imagined he\u0027d apologize, so it touched me even more.",
+                      "hint_chunk":  "never imagined that + 절 (전혀 예상 못했다)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "caught me off guard in a good way",
+                                                  "ko":  "좋은 의미로 놀랐다"
+                                              },
+                                              {
+                                                  "en":  "it meant a lot to me",
+                                                  "ko":  "나한테 큰 의미였다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_007",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "계속 무시당하는 느낌이 들어서 점점 지쳐가고 있어.",
+                      "sentence_en":  "I keep feeling ignored, and it\u0027s wearing me down.",
+                      "hint_chunk":  "keep -ing / wear 사람 down (점점 지치게 만들다)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "it\u0027s draining",
+                                                  "ko":  "진 빠지게 하는"
+                                              },
+                                              {
+                                                  "en":  "it\u0027s taking a toll on me",
+                                                  "ko":  "나에게 타격을 주는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_008",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "그 결정이 나 대신 내려졌다는 걸 알고 나니 더 화가 났어.",
+                      "sentence_en":  "It turned out the decision had been made without me, which made me even angrier.",
+                      "hint_chunk":  "had been p.p (과거완료 수동태)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "left out of the loop",
+                                                  "ko":  "소외된"
+                                              },
+                                              {
+                                                  "en":  "blindsided",
+                                                  "ko":  "뒤통수 맞은 느낌"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_009",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "걔랑 화해하고 나니까 마음이 훨씬 가벼워졌어.",
+                      "sentence_en":  "After making up with him, I felt so much lighter.",
+                      "hint_chunk":  "after -ing, 형용사 비교급",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "a weight off my shoulders",
+                                                  "ko":  "마음의 짐을 던 느낌"
+                                              },
+                                              {
+                                                  "en":  "at peace",
+                                                  "ko":  "마음이 편안한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_010",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "겉으로는 괜찮은 척했지만 사실 속으로는 무너지고 있었어.",
+                      "sentence_en":  "I pretended to be fine on the outside, but inside I was falling apart.",
+                      "hint_chunk":  "pretend to be + 형용사, but 속마음",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "putting on a brave face",
+                                                  "ko":  "강한 척하다"
+                                              },
+                                              {
+                                                  "en":  "barely holding it together",
+                                                  "ko":  "간신히 버티다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_011",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "그 얘기를 듣자마자 왠지 모르게 눈물이 핑 돌았어.",
+                      "sentence_en":  "As soon as I heard that, my eyes welled up for some reason.",
+                      "hint_chunk":  "as soon as + 절",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "got teary-eyed",
+                                                  "ko":  "눈물이 그렁그렁해지다"
+                                              },
+                                              {
+                                                  "en":  "choked up",
+                                                  "ko":  "목이 메다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_012",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "만약 나였다면 그렇게 침착하게 반응하지 못했을 거야.",
+                      "sentence_en":  "If I were him, I don\u0027t think I could\u0027ve stayed that calm.",
+                      "hint_chunk":  "혼합 가정법 (If I were~, couldn\u0027t have p.p)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "put myself in his shoes",
+                                                  "ko":  "그의 입장이 되어보다"
+                                              },
+                                              {
+                                                  "en":  "stayed composed",
+                                                  "ko":  "침착함을 유지하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_013",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "계속 참다 보니까 나도 모르게 폭발해버렸어.",
+                      "sentence_en":  "After holding it in for so long, I ended up snapping without realizing it.",
+                      "hint_chunk":  "end up -ing (결국 ~하게 되다)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "bottled it up",
+                                                  "ko":  "감정을 억눌러왔다"
+                                              },
+                                              {
+                                                  "en":  "lost my temper",
+                                                  "ko":  "화를 못 참고 터뜨렸다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_014",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "걔가 그렇게까지 신경 써줄 줄은 몰랐어서 괜히 미안해졌어.",
+                      "sentence_en":  "I didn\u0027t expect him to care that much, so I ended up feeling kind of guilty.",
+                      "hint_chunk":  "didn\u0027t expect + 목적어 + to부정사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "it made me feel guilty",
+                                                  "ko":  "미안하게 만들었다"
+                                              },
+                                              {
+                                                  "en":  "feel bad about it",
+                                                  "ko":  "그것에 대해 미안함을 느끼다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_015",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "아무리 괜찮은 척해봐도 사람들은 다 눈치채는 것 같아.",
+                      "sentence_en":  "No matter how much I try to act okay, people always seem to notice.",
+                      "hint_chunk":  "no matter how + 형용사/부사 (아무리 ~해도)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "no matter what I do",
+                                                  "ko":  "내가 뭘 해도"
+                                              },
+                                              {
+                                                  "en":  "they can always tell",
+                                                  "ko":  "사람들은 항상 알아챈다"
                                               }
                                           ]
                   }

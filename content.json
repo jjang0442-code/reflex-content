@@ -1,5 +1,5 @@
 {
-    "content_version":  "2026-07-11-02",
+    "content_version":  "2026-07-11-03",
     "cards":  [
                   {
                       "id":  "beg_talk_001",
@@ -3038,6 +3038,576 @@
                                               {
                                                   "en":  "get ahead of schedule",
                                                   "ko":  "일정보다 앞서다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_001",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "여보세요?",
+                      "sentence_en":  "Hello?",
+                      "hint_chunk":  "전화 받을 때 쓰는 인사말",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "who\u0027s calling",
+                                                  "ko":  "누구세요"
+                                              },
+                                              {
+                                                  "en":  "hold on",
+                                                  "ko":  "잠깐만요"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_002",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "지금 통화 괜찮아?",
+                      "sentence_en":  "Is now a good time to talk?",
+                      "hint_chunk":  "Is now a good time to + 동사?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "busy right now",
+                                                  "ko":  "지금 바쁜"
+                                              },
+                                              {
+                                                  "en":  "free to talk",
+                                                  "ko":  "통화 가능한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_003",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "나 잠깐 후에 다시 전화할게.",
+                      "sentence_en":  "I\u0027ll call you back in a bit.",
+                      "hint_chunk":  "I\u0027ll call you back + 시간 표현",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "give you a call",
+                                                  "ko":  "전화하다"
+                                              },
+                                              {
+                                                  "en":  "in a minute",
+                                                  "ko":  "곧"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_004",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "목소리가 잘 안 들려.",
+                      "sentence_en":  "I can\u0027t hear you well.",
+                      "hint_chunk":  "I can\u0027t hear + 목적어 + well",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "breaking up",
+                                                  "ko":  "소리가 끊기는"
+                                              },
+                                              {
+                                                  "en":  "static",
+                                                  "ko":  "잡음"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_005",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "나 지금 밖이야.",
+                      "sentence_en":  "I\u0027m outside right now.",
+                      "hint_chunk":  "I\u0027m + 장소 + right now",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "on the subway",
+                                                  "ko":  "지하철 안인"
+                                              },
+                                              {
+                                                  "en":  "in the car",
+                                                  "ko":  "차 안인"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_006",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화 좀 받아줘.",
+                      "sentence_en":  "Please pick up the phone.",
+                      "hint_chunk":  "Please + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "answer the phone",
+                                                  "ko":  "전화를 받다"
+                                              },
+                                              {
+                                                  "en":  "call me back",
+                                                  "ko":  "다시 전화하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_007",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "문자로 보내줄게.",
+                      "sentence_en":  "I\u0027ll send it by text.",
+                      "hint_chunk":  "I\u0027ll send it by + 방법",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "email",
+                                                  "ko":  "이메일로"
+                                              },
+                                              {
+                                                  "en":  "message",
+                                                  "ko":  "메시지로"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_008",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "나중에 전화해도 돼?",
+                      "sentence_en":  "Can I call you later?",
+                      "hint_chunk":  "Can I + 동사 + later?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "text you",
+                                                  "ko":  "문자하다"
+                                              },
+                                              {
+                                                  "en":  "reach you",
+                                                  "ko":  "연락하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_009",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "잠깐만 기다려줘.",
+                      "sentence_en":  "Just wait a second.",
+                      "hint_chunk":  "Just + 동사 + a second",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "hold on",
+                                                  "ko":  "잠깐만"
+                                              },
+                                              {
+                                                  "en":  "hang on",
+                                                  "ko":  "잠깐 기다려"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_010",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화 끊지 마.",
+                      "sentence_en":  "Don\u0027t hang up.",
+                      "hint_chunk":  "Don\u0027t + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "stay on the line",
+                                                  "ko":  "전화 끊지 않고 있다"
+                                              },
+                                              {
+                                                  "en":  "hold the line",
+                                                  "ko":  "전화 유지하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_011",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "나 배터리가 없어.",
+                      "sentence_en":  "My phone is dying.",
+                      "hint_chunk":  "My phone is + ~ing (배터리 상황)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "out of battery",
+                                                  "ko":  "배터리가 없는"
+                                              },
+                                              {
+                                                  "en":  "fully charged",
+                                                  "ko":  "완충된"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_012",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "신호가 안 좋아.",
+                      "sentence_en":  "The signal is bad.",
+                      "hint_chunk":  "The signal is + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "weak",
+                                                  "ko":  "약한"
+                                              },
+                                              {
+                                                  "en":  "strong",
+                                                  "ko":  "강한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_013",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "다시 한 번 말해줄래?",
+                      "sentence_en":  "Can you say that again?",
+                      "hint_chunk":  "Can you + 동사 + again?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "repeat that",
+                                                  "ko":  "그거 반복해줘"
+                                              },
+                                              {
+                                                  "en":  "speak slower",
+                                                  "ko":  "천천히 말하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_014",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "나 지금 회의 중이야.",
+                      "sentence_en":  "I\u0027m in a meeting right now.",
+                      "hint_chunk":  "I\u0027m in a + 명사 + right now",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "on a call",
+                                                  "ko":  "통화 중인"
+                                              },
+                                              {
+                                                  "en":  "in class",
+                                                  "ko":  "수업 중인"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_015",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "나한테 전화 왔었어?",
+                      "sentence_en":  "Did I get a call?",
+                      "hint_chunk":  "Did I get a + 명사?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "missed call",
+                                                  "ko":  "부재중 전화"
+                                              },
+                                              {
+                                                  "en":  "voicemail",
+                                                  "ko":  "음성 메시지"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_001",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화 왔을 때 마침 회의 중이라 못 받았어.",
+                      "sentence_en":  "When you called, I happened to be in a meeting, so I couldn\u0027t pick up.",
+                      "hint_chunk":  "When + 절, 주어 + happened to be + ~ing, so + 동사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "step out",
+                                                  "ko":  "잠깐 자리를 비우다"
+                                              },
+                                              {
+                                                  "en":  "return a call",
+                                                  "ko":  "다시 전화하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_002",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화가 계속 와서 확인해보니까 스팸이었어.",
+                      "sentence_en":  "I kept getting calls, so I checked, and it turned out to be spam.",
+                      "hint_chunk":  "주어 + kept + ~ing, so + 동사, and it turned out + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "spam call",
+                                                  "ko":  "스팸 전화"
+                                              },
+                                              {
+                                                  "en":  "block a number",
+                                                  "ko":  "번호를 차단하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_003",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "통화 중에 갑자기 전화가 끊겨서 다시 걸었어.",
+                      "sentence_en":  "The call suddenly dropped, so I called back.",
+                      "hint_chunk":  "주어 + 동사(dropped), so + 동사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the call dropped",
+                                                  "ko":  "전화가 끊겼다"
+                                              },
+                                              {
+                                                  "en":  "reconnect",
+                                                  "ko":  "다시 연결하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_004",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화하기 전에 문자로 먼저 물어보는 게 나을 것 같아.",
+                      "sentence_en":  "I think it\u0027d be better to text first before calling.",
+                      "hint_chunk":  "I think it\u0027d be better to + 동사 + before + ~ing",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "give a heads-up",
+                                                  "ko":  "미리 알려주다"
+                                              },
+                                              {
+                                                  "en":  "catch someone off guard",
+                                                  "ko":  "누군가를 당황하게 하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_005",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "그 사람한테 전화가 왔었는데 나도 모르게 놓쳤어.",
+                      "sentence_en":  "He called me, but I missed it without even realizing.",
+                      "hint_chunk":  "주어+동사, but + 주어+동사+without + ~ing",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "miss a call",
+                                                  "ko":  "전화를 놓치다"
+                                              },
+                                              {
+                                                  "en":  "without realizing",
+                                                  "ko":  "알아채지 못한 채"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_006",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화를 안 받으면 문자라도 남겨줘.",
+                      "sentence_en":  "If you don\u0027t answer the phone, at least leave a text.",
+                      "hint_chunk":  "If you don\u0027t + 동사, at least + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "leave a message",
+                                                  "ko":  "메시지를 남기다"
+                                              },
+                                              {
+                                                  "en":  "at least",
+                                                  "ko":  "적어도"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_007",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "그 전화번호는 이미 차단해놨어.",
+                      "sentence_en":  "I\u0027ve already blocked that number.",
+                      "hint_chunk":  "I\u0027ve already + 과거분사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "unblock",
+                                                  "ko":  "차단 해제하다"
+                                              },
+                                              {
+                                                  "en":  "report as spam",
+                                                  "ko":  "스팸으로 신고하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_008",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화가 오면 바로 받을 수 있게 손에 들고 있었어.",
+                      "sentence_en":  "I was holding my phone so I could answer right away if it rang.",
+                      "hint_chunk":  "주어 + was + ~ing + so + 주어 + could + 동사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "right away",
+                                                  "ko":  "바로"
+                                              },
+                                              {
+                                                  "en":  "on standby",
+                                                  "ko":  "대기 중인"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_009",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "통화 연결이 될 때까지 계속 다시 걸었어.",
+                      "sentence_en":  "I kept calling again and again until it connected.",
+                      "hint_chunk":  "주어 + kept + ~ing + until + 절",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "get through",
+                                                  "ko":  "연결이 되다"
+                                              },
+                                              {
+                                                  "en":  "busy signal",
+                                                  "ko":  "통화 중 신호"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_010",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "그 사람이 전화를 안 받아서 결국 문자로 남겼어.",
+                      "sentence_en":  "Since he wasn\u0027t answering the phone, I ended up leaving a text instead.",
+                      "hint_chunk":  "Since + 절, 주어 + ended up + ~ing",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "end up doing",
+                                                  "ko":  "결국 ~하게 되다"
+                                              },
+                                              {
+                                                  "en":  "instead",
+                                                  "ko":  "대신에"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_011",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화기가 꺼져 있어서 연락이 안 됐어.",
+                      "sentence_en":  "His phone was off, so I couldn\u0027t reach him.",
+                      "hint_chunk":  "주어 + was off, so + 주어 + couldn\u0027t + 동사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "unreachable",
+                                                  "ko":  "연락이 닿지 않는"
+                                              },
+                                              {
+                                                  "en":  "turned off",
+                                                  "ko":  "꺼져 있는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_012",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화 목소리를 들어보니까 뭔가 화가 난 것 같았어.",
+                      "sentence_en":  "Judging from his voice on the phone, he seemed a bit upset.",
+                      "hint_chunk":  "Judging from + 명사, 주어 + seemed + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "judging from",
+                                                  "ko":  "~을 보아하니"
+                                              },
+                                              {
+                                                  "en":  "sound upset",
+                                                  "ko":  "화난 것처럼 들리다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_013",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "급한 일이 아니면 문자로 남겨줘도 될 것 같아.",
+                      "sentence_en":  "Unless it\u0027s urgent, you can just leave a text instead.",
+                      "hint_chunk":  "Unless + 절, 주어 + can + 동사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "urgent",
+                                                  "ko":  "급한"
+                                              },
+                                              {
+                                                  "en":  "non-urgent",
+                                                  "ko":  "급하지 않은"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_014",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화가 하도 많이 와서 무음으로 해놨어.",
+                      "sentence_en":  "I got so many calls that I put my phone on silent.",
+                      "hint_chunk":  "주어 + got so many + 명사 + that + 절",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "put on silent",
+                                                  "ko":  "무음으로 하다"
+                                              },
+                                              {
+                                                  "en":  "vibrate mode",
+                                                  "ko":  "진동 모드"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_015",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "통화 목록을 보니까 부재중 전화가 다섯 통이나 있었어.",
+                      "sentence_en":  "When I checked my call log, I had five missed calls.",
+                      "hint_chunk":  "When + 절, 주어 + had + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "call log",
+                                                  "ko":  "통화 목록"
+                                              },
+                                              {
+                                                  "en":  "missed call",
+                                                  "ko":  "부재중 전화"
                                               }
                                           ]
                   }

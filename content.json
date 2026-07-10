@@ -1,5 +1,5 @@
 {
-    "content_version":  "2026-07-11-01",
+    "content_version":  "2026-07-11-02",
     "cards":  [
                   {
                       "id":  "beg_talk_001",
@@ -2468,6 +2468,576 @@
                                               {
                                                   "en":  "tax refund form",
                                                   "ko":  "세금 환급 서류"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_019",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "나 완전 배불러.",
+                      "sentence_en":  "I\u0027m so full.",
+                      "hint_chunk":  "I\u0027m so + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "stuffed",
+                                                  "ko":  "너무 배부른"
+                                              },
+                                              {
+                                                  "en":  "hungry",
+                                                  "ko":  "배고픈"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_020",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "그거 진짜 웃기다.",
+                      "sentence_en":  "That\u0027s so funny.",
+                      "hint_chunk":  "That\u0027s so + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "hilarious",
+                                                  "ko":  "너무 웃긴"
+                                              },
+                                              {
+                                                  "en":  "boring",
+                                                  "ko":  "지루한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_021",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "나 지금 나가는 중이야.",
+                      "sentence_en":  "I\u0027m heading out.",
+                      "hint_chunk":  "I\u0027m heading out (지금 나가는 중)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "on my way",
+                                                  "ko":  "가는 중인"
+                                              },
+                                              {
+                                                  "en":  "leaving now",
+                                                  "ko":  "지금 떠나는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_022",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "너 그거 봤어?",
+                      "sentence_en":  "Did you see that?",
+                      "hint_chunk":  "Did you + 동사?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "hear that",
+                                                  "ko":  "그거 들었어"
+                                              },
+                                              {
+                                                  "en":  "check that out",
+                                                  "ko":  "그거 확인해봤어"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_023",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "나 지금 집이야.",
+                      "sentence_en":  "I\u0027m home.",
+                      "hint_chunk":  "I\u0027m + 장소 (지금 ~에 있다)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "at work",
+                                                  "ko":  "직장에 있는"
+                                              },
+                                              {
+                                                  "en":  "outside",
+                                                  "ko":  "밖에 있는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_024",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "오늘 좀 춥다.",
+                      "sentence_en":  "It\u0027s a bit cold today.",
+                      "hint_chunk":  "It\u0027s a bit + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "chilly",
+                                                  "ko":  "쌀쌀한"
+                                              },
+                                              {
+                                                  "en":  "breezy",
+                                                  "ko":  "바람 부는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_025",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "나 그거 몰라.",
+                      "sentence_en":  "I don\u0027t know that.",
+                      "hint_chunk":  "I don\u0027t know + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "have no clue",
+                                                  "ko":  "전혀 모르다"
+                                              },
+                                              {
+                                                  "en":  "not sure",
+                                                  "ko":  "확신이 없는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_026",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "너 배 안 고파?",
+                      "sentence_en":  "Aren\u0027t you hungry?",
+                      "hint_chunk":  "Aren\u0027t you + 형용사?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "tired",
+                                                  "ko":  "피곤한"
+                                              },
+                                              {
+                                                  "en":  "thirsty",
+                                                  "ko":  "목마른"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_027",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "이거 어떻게 하는 거야?",
+                      "sentence_en":  "How do you do this?",
+                      "hint_chunk":  "How do you + 동사?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "work",
+                                                  "ko":  "작동하다"
+                                              },
+                                              {
+                                                  "en":  "open",
+                                                  "ko":  "열다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_028",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "나 지금 준비하고 있어.",
+                      "sentence_en":  "I\u0027m getting ready.",
+                      "hint_chunk":  "I\u0027m + ~ing (지금 ~하는 중)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "running late",
+                                                  "ko":  "늦어지고 있는"
+                                              },
+                                              {
+                                                  "en":  "almost done",
+                                                  "ko":  "거의 다 된"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_029",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "나 완전 신났어.",
+                      "sentence_en":  "I\u0027m so excited.",
+                      "hint_chunk":  "I\u0027m so + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "nervous",
+                                                  "ko":  "긴장되는"
+                                              },
+                                              {
+                                                  "en":  "thrilled",
+                                                  "ko":  "아주 신난"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_030",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "이거 너무 비싸다.",
+                      "sentence_en":  "This is way too expensive.",
+                      "hint_chunk":  "This is way too + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "cheap",
+                                                  "ko":  "저렴한"
+                                              },
+                                              {
+                                                  "en":  "overpriced",
+                                                  "ko":  "너무 비싼"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_031",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "나 곧 도착해.",
+                      "sentence_en":  "I\u0027ll be there soon.",
+                      "hint_chunk":  "I\u0027ll be there + 시간 표현",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "in five minutes",
+                                                  "ko":  "5분 후에"
+                                              },
+                                              {
+                                                  "en":  "shortly",
+                                                  "ko":  "곧"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_032",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "너 지금 어디야?",
+                      "sentence_en":  "Where are you right now?",
+                      "hint_chunk":  "Where are you + 시간 표현?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "on your way",
+                                                  "ko":  "오는 중인"
+                                              },
+                                              {
+                                                  "en":  "still at home",
+                                                  "ko":  "아직 집인"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_033",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "나 오늘 일찍 일어났어.",
+                      "sentence_en":  "I woke up early today.",
+                      "hint_chunk":  "I + 과거동사 + today",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "overslept",
+                                                  "ko":  "늦잠 잤다"
+                                              },
+                                              {
+                                                  "en":  "got up late",
+                                                  "ko":  "늦게 일어났다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_talk_018",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "나 어제부터 계속 두통이 있어.",
+                      "sentence_en":  "I\u0027ve had a headache since yesterday.",
+                      "hint_chunk":  "I\u0027ve had + 명사 + since + 시간",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "come and go",
+                                                  "ko":  "왔다 갔다 하다"
+                                              },
+                                              {
+                                                  "en":  "get worse",
+                                                  "ko":  "심해지다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_talk_019",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "이걸 끝내려면 시간이 좀 더 필요할 것 같아.",
+                      "sentence_en":  "I think I\u0027ll need a bit more time to finish this.",
+                      "hint_chunk":  "I think I\u0027ll need + 명사 + to + 동사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "wrap up",
+                                                  "ko":  "마무리하다"
+                                              },
+                                              {
+                                                  "en":  "push back",
+                                                  "ko":  "미루다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_talk_020",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "그가 왜 늦게 왔는지 아직도 모르겠어.",
+                      "sentence_en":  "I still don\u0027t know why he came late.",
+                      "hint_chunk":  "I still don\u0027t know why + 주어+동사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "show up",
+                                                  "ko":  "나타나다"
+                                              },
+                                              {
+                                                  "en":  "without notice",
+                                                  "ko":  "예고 없이"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_talk_021",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "시간이 좀 더 있으면 나도 같이 갈 텐데.",
+                      "sentence_en":  "If I had a bit more time, I\u0027d go with you.",
+                      "hint_chunk":  "If I had + 명사, I\u0027d + 동사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "join you",
+                                                  "ko":  "너와 함께하다"
+                                              },
+                                              {
+                                                  "en":  "tag along",
+                                                  "ko":  "따라가다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_talk_022",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "마감이 다가오고 있어서 요즘 잠을 잘 못 자.",
+                      "sentence_en":  "Since the deadline is coming up, I haven\u0027t been sleeping well lately.",
+                      "hint_chunk":  "Since + 주어+동사, 주어 + haven\u0027t been + ~ing",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "coming up",
+                                                  "ko":  "다가오는"
+                                              },
+                                              {
+                                                  "en":  "pull an all-nighter",
+                                                  "ko":  "밤새다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_talk_023",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "예약을 안 하면 그 식당은 자리가 없을 수도 있어.",
+                      "sentence_en":  "If you don\u0027t make a reservation, that restaurant might not have a table.",
+                      "hint_chunk":  "If you don\u0027t + 동사, 주어 + might not + 동사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "fully booked",
+                                                  "ko":  "예약이 꽉 찬"
+                                              },
+                                              {
+                                                  "en":  "walk-in",
+                                                  "ko":  "예약 없이 온 손님"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_talk_024",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "나 그거 하다가 중간에 그만뒀어.",
+                      "sentence_en":  "I started that but gave up halfway through.",
+                      "hint_chunk":  "주어 + started + 명사 + but + 동사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "give up",
+                                                  "ko":  "포기하다"
+                                              },
+                                              {
+                                                  "en":  "halfway",
+                                                  "ko":  "중간에"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_talk_025",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "나 요즘 스마트폰을 너무 많이 보는 것 같아.",
+                      "sentence_en":  "I feel like I\u0027ve been staring at my phone too much lately.",
+                      "hint_chunk":  "I feel like + 주어 + have been + ~ing",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "stare at",
+                                                  "ko":  "뚫어지게 보다"
+                                              },
+                                              {
+                                                  "en":  "cut back on",
+                                                  "ko":  "줄이다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_talk_026",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "그 얘기를 듣고 나니까 좀 안심이 됐어.",
+                      "sentence_en":  "After hearing that, I felt a bit relieved.",
+                      "hint_chunk":  "After + ~ing, 주어 + felt + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "relieved",
+                                                  "ko":  "안도한"
+                                              },
+                                              {
+                                                  "en":  "reassured",
+                                                  "ko":  "안심된"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_talk_027",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "이 노래를 들을 때마다 옛날 생각이 나.",
+                      "sentence_en":  "Whenever I hear this song, it reminds me of the old days.",
+                      "hint_chunk":  "Whenever + 주어+동사, 주어 + reminds me of + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "bring back memories",
+                                                  "ko":  "추억을 떠올리게 하다"
+                                              },
+                                              {
+                                                  "en":  "nostalgic",
+                                                  "ko":  "그리운"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_talk_028",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "내가 먼저 사과했어야 했는데 그러지 못했어.",
+                      "sentence_en":  "I should have apologized first, but I didn\u0027t.",
+                      "hint_chunk":  "주어 + should have + 과거분사, but + 동사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "make things right",
+                                                  "ko":  "상황을 바로잡다"
+                                              },
+                                              {
+                                                  "en":  "hold a grudge",
+                                                  "ko":  "앙심을 품다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_talk_029",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "이 드라마는 볼수록 더 재밌어지는 것 같아.",
+                      "sentence_en":  "This drama seems to get more interesting the more I watch it.",
+                      "hint_chunk":  "the more + 주어+동사, the more + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "get hooked on",
+                                                  "ko":  "빠져들다"
+                                              },
+                                              {
+                                                  "en":  "binge-watch",
+                                                  "ko":  "몰아서 보다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_talk_030",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "나 요즘 아침에 일어나는 게 점점 힘들어지고 있어.",
+                      "sentence_en":  "Getting up in the morning has been getting harder for me lately.",
+                      "hint_chunk":  "~ing + has been getting + 비교급",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "hit the snooze button",
+                                                  "ko":  "알람을 다시 미루다"
+                                              },
+                                              {
+                                                  "en":  "drag myself out of bed",
+                                                  "ko":  "억지로 몸을 일으키다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_talk_031",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "그 사람 얘기를 들어보니까 사정이 있었더라.",
+                      "sentence_en":  "Once I heard his side of the story, it turned out he had a good reason.",
+                      "hint_chunk":  "Once + 주어+동사, it turned out + 주어+동사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "his side of the story",
+                                                  "ko":  "그 사람 입장"
+                                              },
+                                              {
+                                                  "en":  "misunderstanding",
+                                                  "ko":  "오해"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_talk_032",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "이거 다음 주까지 끝내 놓으면 좀 여유가 생길 거야.",
+                      "sentence_en":  "If I get this done by next week, I\u0027ll have some breathing room.",
+                      "hint_chunk":  "If I get + 명사 + done by + 시간, I\u0027ll have + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "breathing room",
+                                                  "ko":  "여유"
+                                              },
+                                              {
+                                                  "en":  "get ahead of schedule",
+                                                  "ko":  "일정보다 앞서다"
                                               }
                                           ]
                   }

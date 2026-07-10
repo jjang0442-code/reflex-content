@@ -1,5 +1,5 @@
 {
-    "content_version":  "2026-07-11-04",
+    "content_version":  "2026-07-11-05",
     "cards":  [
                   {
                       "id":  "beg_talk_001",
@@ -4178,6 +4178,576 @@
                                               {
                                                   "en":  "they can always tell",
                                                   "ko":  "사람들은 항상 알아챈다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_001",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "저 오늘 병원 가야 돼.",
+                      "sentence_en":  "I have to go to the doctor today.",
+                      "hint_chunk":  "have to + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "go to the hospital",
+                                                  "ko":  "병원에 가다"
+                                              },
+                                              {
+                                                  "en":  "see a doctor",
+                                                  "ko":  "진료를 받다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_002",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "배가 좀 아파요.",
+                      "sentence_en":  "My stomach hurts a little.",
+                      "hint_chunk":  "신체부위 + hurts",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "my head hurts",
+                                                  "ko":  "머리가 아프다"
+                                              },
+                                              {
+                                                  "en":  "my back hurts",
+                                                  "ko":  "허리가 아프다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_003",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "열이 좀 나는 것 같아요.",
+                      "sentence_en":  "I think I have a slight fever.",
+                      "hint_chunk":  "I think I have + 증상",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "a cold",
+                                                  "ko":  "감기"
+                                              },
+                                              {
+                                                  "en":  "a sore throat",
+                                                  "ko":  "목이 아픈 것"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_004",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "이 약 하루에 몇 번 먹어요?",
+                      "sentence_en":  "How many times a day do I take this medicine?",
+                      "hint_chunk":  "How many times a day + do I + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "before meals",
+                                                  "ko":  "식전에"
+                                              },
+                                              {
+                                                  "en":  "after meals",
+                                                  "ko":  "식후에"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_005",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "여기 좀 눌러보면 아파요.",
+                      "sentence_en":  "It hurts when I press here.",
+                      "hint_chunk":  "It hurts when + 절",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "it hurts when I move",
+                                                  "ko":  "움직이면 아프다"
+                                              },
+                                              {
+                                                  "en":  "it hurts when I swallow",
+                                                  "ko":  "삼킬 때 아프다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_006",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "이 약 먹으면 졸려요?",
+                      "sentence_en":  "Does this medicine make me sleepy?",
+                      "hint_chunk":  "Does + 주어 + make + 목적어 + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "make me dizzy",
+                                                  "ko":  "어지럽게 만들다"
+                                              },
+                                              {
+                                                  "en":  "make me thirsty",
+                                                  "ko":  "목마르게 만들다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_007",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "약국이 어디 있어요?",
+                      "sentence_en":  "Where is the pharmacy?",
+                      "hint_chunk":  "Where is + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the nearest pharmacy",
+                                                  "ko":  "가장 가까운 약국"
+                                              },
+                                              {
+                                                  "en":  "a 24-hour pharmacy",
+                                                  "ko":  "24시간 약국"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_008",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "소화제 좀 주세요.",
+                      "sentence_en":  "Can I get some digestive medicine?",
+                      "hint_chunk":  "Can I get + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "painkillers",
+                                                  "ko":  "진통제"
+                                              },
+                                              {
+                                                  "en":  "cold medicine",
+                                                  "ko":  "감기약"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_009",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "저 기침 계속 해요.",
+                      "sentence_en":  "I keep coughing.",
+                      "hint_chunk":  "keep + -ing (계속 ~하다)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "keep sneezing",
+                                                  "ko":  "계속 재채기하다"
+                                              },
+                                              {
+                                                  "en":  "keep feeling tired",
+                                                  "ko":  "계속 피곤하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_010",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "이 연고 상처에 발라도 돼요?",
+                      "sentence_en":  "Can I put this ointment on the wound?",
+                      "hint_chunk":  "Can I put + 명사 + on + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "put on the cut",
+                                                  "ko":  "상처에 바르다"
+                                              },
+                                              {
+                                                  "en":  "put on the burn",
+                                                  "ko":  "화상에 바르다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_011",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "진통제 있어요?",
+                      "sentence_en":  "Do you have any painkillers?",
+                      "hint_chunk":  "Do you have any + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "any band-aids",
+                                                  "ko":  "밴드"
+                                              },
+                                              {
+                                                  "en":  "any cold medicine",
+                                                  "ko":  "감기약"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_012",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "처방전 가져왔어요.",
+                      "sentence_en":  "I brought my prescription.",
+                      "hint_chunk":  "I brought + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "my insurance card",
+                                                  "ko":  "보험증"
+                                              },
+                                              {
+                                                  "en":  "my ID",
+                                                  "ko":  "신분증"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_013",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "저 알레르기 있어요.",
+                      "sentence_en":  "I have an allergy.",
+                      "hint_chunk":  "I have an allergy",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "allergic to penicillin",
+                                                  "ko":  "페니실린 알레르기가 있는"
+                                              },
+                                              {
+                                                  "en":  "allergic to nuts",
+                                                  "ko":  "견과류 알레르기가 있는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_014",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "이 약은 하루 세 번 먹어야 해요.",
+                      "sentence_en":  "You need to take this medicine three times a day.",
+                      "hint_chunk":  "need to + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "twice a day",
+                                                  "ko":  "하루 두 번"
+                                              },
+                                              {
+                                                  "en":  "once a day",
+                                                  "ko":  "하루 한 번"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_015",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "저 예약하고 왔어요.",
+                      "sentence_en":  "I made an appointment.",
+                      "hint_chunk":  "I made an appointment",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "I need an appointment",
+                                                  "ko":  "예약이 필요하다"
+                                              },
+                                              {
+                                                  "en":  "I have an appointment at 3",
+                                                  "ko":  "3시에 예약이 있다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_001",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "어제부터 계속 열이 안 떨어져서 병원에 가보려고.",
+                      "sentence_en":  "My fever hasn\u0027t gone down since yesterday, so I\u0027m thinking about seeing a doctor.",
+                      "hint_chunk":  "hasn\u0027t p.p + since (현재완료)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "it hasn\u0027t gotten any better",
+                                                  "ko":  "전혀 나아지지 않았다"
+                                              },
+                                              {
+                                                  "en":  "it keeps coming back",
+                                                  "ko":  "계속 재발하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_002",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "이 약을 먹은 후로 오히려 더 어지러워졌어요.",
+                      "sentence_en":  "Ever since I started taking this medicine, I\u0027ve actually felt more dizzy.",
+                      "hint_chunk":  "ever since + 절, 현재완료",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "it\u0027s made things worse",
+                                                  "ko":  "오히려 더 안 좋아지게 만들었다"
+                                              },
+                                              {
+                                                  "en":  "the side effects kicked in",
+                                                  "ko":  "부작용이 나타났다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_003",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "만약 증상이 계속되면 다시 오라고 하셨어요.",
+                      "sentence_en":  "The doctor said to come back if the symptoms continue.",
+                      "hint_chunk":  "접속사 if + 명령/제안",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "if it doesn\u0027t get better",
+                                                  "ko":  "나아지지 않으면"
+                                              },
+                                              {
+                                                  "en":  "if the pain gets worse",
+                                                  "ko":  "통증이 심해지면"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_004",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "이 약은 공복에 먹으면 속이 쓰릴 수 있대요.",
+                      "sentence_en":  "I heard this medicine can upset your stomach if you take it on an empty stomach.",
+                      "hint_chunk":  "can + 동사원형 + if절",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "can cause dizziness",
+                                                  "ko":  "어지럼증을 유발할 수 있다"
+                                              },
+                                              {
+                                                  "en":  "can make you drowsy",
+                                                  "ko":  "졸리게 만들 수 있다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_005",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "검사 결과가 나올 때까지 좀 기다려야 한다고 하셨어요.",
+                      "sentence_en":  "The doctor said I\u0027d have to wait until the test results came out.",
+                      "hint_chunk":  "have to + until절 (간접화법)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "wait for the results",
+                                                  "ko":  "결과를 기다리다"
+                                              },
+                                              {
+                                                  "en":  "take a few more tests",
+                                                  "ko":  "검사를 더 받다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_006",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "그 약을 끊고 나서부터 오히려 몸이 더 편해졌어요.",
+                      "sentence_en":  "Ever since I stopped taking that medicine, I\u0027ve actually felt much better.",
+                      "hint_chunk":  "ever since + 과거, 현재완료",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "after cutting it out",
+                                                  "ko":  "끊고 나서"
+                                              },
+                                              {
+                                                  "en":  "things improved a lot",
+                                                  "ko":  "많이 좋아졌다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_007",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "만약 이 증상이 일주일 넘게 계속되면 큰 병원에 가보는 게 좋대요.",
+                      "sentence_en":  "If these symptoms last more than a week, it\u0027s better to go to a bigger hospital.",
+                      "hint_chunk":  "If + 현재, it\u0027s better to + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "get it checked out",
+                                                  "ko":  "검사를 받아보다"
+                                              },
+                                              {
+                                                  "en":  "see a specialist",
+                                                  "ko":  "전문의를 만나다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_008",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "이 처방전은 이미 다른 약국에서 조제됐다고 하더라고요.",
+                      "sentence_en":  "They told me this prescription had already been filled at another pharmacy.",
+                      "hint_chunk":  "had already been p.p (과거완료 수동태)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "already been used",
+                                                  "ko":  "이미 사용된"
+                                              },
+                                              {
+                                                  "en":  "already been processed",
+                                                  "ko":  "이미 처리된"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_009",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "통증이 참을 수 없을 정도로 심해져서 결국 응급실에 갔어요.",
+                      "sentence_en":  "The pain got so bad that I couldn\u0027t stand it, so I ended up going to the ER.",
+                      "hint_chunk":  "so + 형용사 + that + 절",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "so severe that I couldn\u0027t sleep",
+                                                  "ko":  "너무 심해서 잠을 못 잤다"
+                                              },
+                                              {
+                                                  "en":  "ended up calling an ambulance",
+                                                  "ko":  "결국 구급차를 불렀다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_010",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "의사 선생님이 설명해 주기 전까지는 그게 부작용인 줄 몰랐어요.",
+                      "sentence_en":  "I didn\u0027t know it was a side effect until the doctor explained it to me.",
+                      "hint_chunk":  "didn\u0027t know ~ until + 절",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "until I looked it up",
+                                                  "ko":  "찾아보기 전까지"
+                                              },
+                                              {
+                                                  "en":  "until someone told me",
+                                                  "ko":  "누가 말해주기 전까지"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_011",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "이 약을 계속 먹다 보면 내성이 생길 수도 있대요.",
+                      "sentence_en":  "Apparently, if you keep taking this medicine, you can build up a tolerance to it.",
+                      "hint_chunk":  "if you keep -ing, can + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "become resistant to it",
+                                                  "ko":  "내성이 생기다"
+                                              },
+                                              {
+                                                  "en":  "stop working as well",
+                                                  "ko":  "효과가 떨어지다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_012",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "미리 검사받길 잘했어. 안 그랬으면 더 심해질 뻔했어.",
+                      "sentence_en":  "I\u0027m glad I got checked early — otherwise it could have gotten a lot worse.",
+                      "hint_chunk":  "otherwise + could have p.p",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "it could have been worse",
+                                                  "ko":  "더 나빠질 수도 있었다"
+                                              },
+                                              {
+                                                  "en":  "if I hadn\u0027t caught it early",
+                                                  "ko":  "미리 발견하지 못했더라면"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_013",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "약을 제때 안 먹어서 그런지 증상이 좀처럼 나아지질 않아요.",
+                      "sentence_en":  "Maybe it\u0027s because I haven\u0027t been taking the medicine on time, but the symptoms just aren\u0027t improving.",
+                      "hint_chunk":  "maybe it\u0027s because + 절 (이유 추측)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "not getting any better",
+                                                  "ko":  "전혀 나아지지 않다"
+                                              },
+                                              {
+                                                  "en":  "still lingering",
+                                                  "ko":  "아직도 남아있다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_014",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "그 약사분이 자세히 설명해준 덕분에 부작용을 미리 알 수 있었어요.",
+                      "sentence_en":  "Thanks to the pharmacist explaining it in detail, I was able to know about the side effects in advance.",
+                      "hint_chunk":  "thanks to + 명사(구), 결과절",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "thanks to the doctor\u0027s advice",
+                                                  "ko":  "의사의 조언 덕분에"
+                                              },
+                                              {
+                                                  "en":  "I was able to avoid it",
+                                                  "ko":  "피할 수 있었다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_015",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "이 약이 듣기 시작하면서부터 통증이 서서히 가라앉고 있어요.",
+                      "sentence_en":  "Ever since this medicine started working, the pain has been gradually easing up.",
+                      "hint_chunk":  "ever since + 절, 현재완료진행",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "has been improving",
+                                                  "ko":  "점점 나아지고 있다"
+                                              },
+                                              {
+                                                  "en":  "the swelling is going down",
+                                                  "ko":  "부기가 가라앉고 있다"
                                               }
                                           ]
                   }

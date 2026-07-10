@@ -1,0 +1,135 @@
+{
+  "content_version": "2026-07-10-01",
+  "cards": [
+    {
+      "id": "beg_talk_001",
+      "content_type": "sentence",
+      "level": "초급",
+      "category": "일상 스몰토크",
+      "sentence_ko": "나 지금 배고파 죽겠어.",
+      "sentence_en": "I'm starving.",
+      "hint_chunk": "I'm + 형용사 (상태를 강하게 표현)",
+      "extension_words": [
+        { "en": "freezing", "ko": "얼어 죽을 것 같은" },
+        { "en": "bored", "ko": "지루해 죽겠는" }
+      ]
+    },
+    {
+      "id": "beg_talk_002",
+      "content_type": "sentence",
+      "level": "초급",
+      "category": "일상 스몰토크",
+      "sentence_ko": "오늘 날씨 진짜 좋다.",
+      "sentence_en": "The weather is really nice today.",
+      "hint_chunk": "The weather is + 형용사",
+      "extension_words": [
+        { "en": "perfect", "ko": "완벽한" },
+        { "en": "awful", "ko": "최악인" }
+      ]
+    },
+    {
+      "id": "beg_talk_003",
+      "content_type": "sentence",
+      "level": "초급",
+      "category": "일상 스몰토크",
+      "sentence_ko": "좀 이따 봐.",
+      "sentence_en": "See you in a bit.",
+      "hint_chunk": "See you + 시간 표현",
+      "extension_words": [
+        { "en": "later", "ko": "나중에" },
+        { "en": "tomorrow", "ko": "내일" }
+      ]
+    },
+    {
+      "id": "mid_talk_001",
+      "content_type": "sentence",
+      "level": "중급",
+      "category": "일상 스몰토크",
+      "sentence_ko": "그거 생각보다 훨씬 오래 걸렸어.",
+      "sentence_en": "It took way longer than I expected.",
+      "hint_chunk": "It took way longer than + 주어 + expected",
+      "extension_words": [
+        { "en": "cost way more", "ko": "훨씬 더 많이 들었어" },
+        { "en": "turned out better", "ko": "생각보다 훨씬 잘 됐어" }
+      ]
+    },
+    {
+      "id": "mid_talk_002",
+      "content_type": "sentence",
+      "level": "중급",
+      "category": "일상 스몰토크",
+      "sentence_ko": "요즘 되게 바쁘게 지내고 있어.",
+      "sentence_en": "I've been swamped lately.",
+      "hint_chunk": "I've been + 형용사/분사 + lately",
+      "extension_words": [
+        { "en": "stressed", "ko": "스트레스 받고 있어" },
+        { "en": "slammed", "ko": "너무 바빠서 정신없어" }
+      ]
+    },
+    {
+      "id": "word_beg_001",
+      "content_type": "word",
+      "level": "초급",
+      "category": "일상 스몰토크",
+      "sentence_ko": "짧게 잡다, 가볍게 먹다",
+      "sentence_en": "grab",
+      "hint_chunk": "grab + 명사 (가볍게 ~하다)",
+      "extension_words": [
+        { "en": "grab coffee", "ko": "커피 한 잔 하다" },
+        { "en": "grab a bite", "ko": "간단히 뭔가 먹다" }
+      ]
+    },
+    {
+      "id": "word_beg_002",
+      "content_type": "word",
+      "level": "초급",
+      "category": "일상 스몰토크",
+      "sentence_ko": "같이 어울리다, 놀다",
+      "sentence_en": "hang out",
+      "hint_chunk": "hang out with + 사람 / hang out at + 장소",
+      "extension_words": [
+        { "en": "hang out with friends", "ko": "친구들이랑 놀다" },
+        { "en": "just hanging out", "ko": "그냥 어울리는 중" }
+      ]
+    },
+    {
+      "id": "word_beg_003",
+      "content_type": "word",
+      "level": "초급",
+      "category": "일상 스몰토크",
+      "sentence_ko": "근황 나누다; 따라잡다",
+      "sentence_en": "catch up",
+      "hint_chunk": "catch up with + 사람 / catch up on + 일·뉴스",
+      "extension_words": [
+        { "en": "catch up over coffee", "ko": "커피 마시며 근황 얘기하다" },
+        { "en": "catch up on work", "ko": "밀린 일 처리하다" }
+      ]
+    },
+    {
+      "id": "word_mid_001",
+      "content_type": "word",
+      "level": "중급",
+      "category": "일상 스몰토크",
+      "sentence_ko": "우연히 마주치다",
+      "sentence_en": "run into",
+      "hint_chunk": "run into + 사람/상황 (예상 못한 만남·문제)",
+      "extension_words": [
+        { "en": "run into an old friend", "ko": "옛 친구를 우연히 만나다" },
+        { "en": "run into trouble", "ko": "문제에 부딪히다" }
+      ]
+    },
+    {
+      "id": "word_mid_002",
+      "content_type": "word",
+      "level": "중급",
+      "category": "일상 스몰토크",
+      "sentence_ko": "정신없이 바쁜",
+      "sentence_en": "swamped",
+      "hint_chunk": "be swamped (with + 명사) — 일·요청이 넘쳐나는 상태",
+      "extension_words": [
+        { "en": "totally swamped", "ko": "완전 정신없이 바빠" },
+        { "en": "swamped with emails", "ko": "이메일이 쏟아져 정신없어" }
+      ]
+    }
+  ]
+}

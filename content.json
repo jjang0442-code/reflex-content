@@ -1,5 +1,5 @@
 {
-    "content_version":  "2026-07-11-06",
+    "content_version":  "2026-07-11-07",
     "cards":  [
                   {
                       "id":  "beg_talk_001",
@@ -5318,6 +5318,576 @@
                                               {
                                                   "en":  "come to a new agreement",
                                                   "ko":  "새로운 합의에 이르다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_001",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이거 인스타에 올려도 돼?",
+                      "sentence_en":  "Can I post this on Instagram?",
+                      "hint_chunk":  "Can I post this on + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "on Twitter",
+                                                  "ko":  "트위터에"
+                                              },
+                                              {
+                                                  "en":  "on Facebook",
+                                                  "ko":  "페이스북에"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_002",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "나 팔로우 좀 해줘.",
+                      "sentence_en":  "Follow me, okay?",
+                      "hint_chunk":  "Follow me",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "follow back",
+                                                  "ko":  "맞팔하다"
+                                              },
+                                              {
+                                                  "en":  "unfollow",
+                                                  "ko":  "언팔로우하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_003",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이 사진 진짜 잘 나왔다.",
+                      "sentence_en":  "This photo came out really well.",
+                      "hint_chunk":  "명사 + came out + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "came out blurry",
+                                                  "ko":  "흐릿하게 나왔다"
+                                              },
+                                              {
+                                                  "en":  "came out great",
+                                                  "ko":  "잘 나왔다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_004",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "좋아요 눌러줘.",
+                      "sentence_en":  "Give it a like.",
+                      "hint_chunk":  "Give it a like",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "leave a comment",
+                                                  "ko":  "댓글 남기다"
+                                              },
+                                              {
+                                                  "en":  "share this",
+                                                  "ko":  "공유하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_005",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "와이파이 비밀번호 뭐예요?",
+                      "sentence_en":  "What\u0027s the wifi password?",
+                      "hint_chunk":  "What\u0027s + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the wifi",
+                                                  "ko":  "와이파이"
+                                              },
+                                              {
+                                                  "en":  "the network name",
+                                                  "ko":  "네트워크 이름"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_006",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "인터넷이 너무 느려요.",
+                      "sentence_en":  "The internet is really slow.",
+                      "hint_chunk":  "명사 + is + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the connection",
+                                                  "ko":  "연결"
+                                              },
+                                              {
+                                                  "en":  "the wifi signal",
+                                                  "ko":  "와이파이 신호"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_007",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이 앱 다운 받았어?",
+                      "sentence_en":  "Did you download this app?",
+                      "hint_chunk":  "Did you download + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "install",
+                                                  "ko":  "설치하다"
+                                              },
+                                              {
+                                                  "en":  "update",
+                                                  "ko":  "업데이트하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_008",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "나 방금 문자 보냈어.",
+                      "sentence_en":  "I just sent you a text.",
+                      "hint_chunk":  "I just + 과거동사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "sent an email",
+                                                  "ko":  "이메일을 보냈다"
+                                              },
+                                              {
+                                                  "en":  "sent a message",
+                                                  "ko":  "메시지를 보냈다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_009",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이거 링크 좀 보내줘.",
+                      "sentence_en":  "Send me the link.",
+                      "hint_chunk":  "Send me + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the file",
+                                                  "ko":  "파일"
+                                              },
+                                              {
+                                                  "en":  "the address",
+                                                  "ko":  "주소"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_010",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "계정 로그인이 안 돼요.",
+                      "sentence_en":  "I can\u0027t log in to my account.",
+                      "hint_chunk":  "I can\u0027t + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "log out",
+                                                  "ko":  "로그아웃하다"
+                                              },
+                                              {
+                                                  "en":  "sign up",
+                                                  "ko":  "회원가입하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_011",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이 동영상 봤어?",
+                      "sentence_en":  "Did you watch this video?",
+                      "hint_chunk":  "Did you watch + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "watch it later",
+                                                  "ko":  "나중에 보다"
+                                              },
+                                              {
+                                                  "en":  "watch the whole thing",
+                                                  "ko":  "전체를 다 보다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_012",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "배터리가 다 됐어요.",
+                      "sentence_en":  "My battery is dead.",
+                      "hint_chunk":  "명사 + is dead",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "my phone is dead",
+                                                  "ko":  "휴대폰 배터리가 다 됐다"
+                                              },
+                                              {
+                                                  "en":  "it\u0027s fully charged",
+                                                  "ko":  "완충됐다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_013",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이거 캡처해놨어.",
+                      "sentence_en":  "I took a screenshot of this.",
+                      "hint_chunk":  "I took a screenshot of + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "took a picture",
+                                                  "ko":  "사진을 찍었다"
+                                              },
+                                              {
+                                                  "en":  "saved it",
+                                                  "ko":  "저장했다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_014",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "알림 좀 꺼줘.",
+                      "sentence_en":  "Turn off the notifications.",
+                      "hint_chunk":  "Turn off + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "turn on",
+                                                  "ko":  "켜다"
+                                              },
+                                              {
+                                                  "en":  "mute it",
+                                                  "ko":  "음소거하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_015",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "비밀번호 까먹었어요.",
+                      "sentence_en":  "I forgot my password.",
+                      "hint_chunk":  "I forgot + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "forgot my ID",
+                                                  "ko":  "아이디를 까먹었다"
+                                              },
+                                              {
+                                                  "en":  "reset the password",
+                                                  "ko":  "비밀번호를 재설정하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_001",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "그 게시물이 너무 빨리 퍼지는 바람에 순식간에 난리가 났어요.",
+                      "sentence_en":  "Because that post spread so quickly, everything blew up in no time.",
+                      "hint_chunk":  "because + 절, blew up (일이 커지다)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "went viral",
+                                                  "ko":  "입소문이 나다"
+                                              },
+                                              {
+                                                  "en":  "got out of hand",
+                                                  "ko":  "감당이 안 되다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_002",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "만약 그 댓글을 안 지웠더라면 더 큰 논란이 됐을 거예요.",
+                      "sentence_en":  "If I hadn\u0027t deleted that comment, it would have caused a much bigger controversy.",
+                      "hint_chunk":  "If + had p.p, would have p.p (가정법 과거완료)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "stirred up more controversy",
+                                                  "ko":  "더 큰 논란을 일으켰다"
+                                              },
+                                              {
+                                                  "en":  "blown out of proportion",
+                                                  "ko":  "과장되게 커졌다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_003",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "계정이 해킹당한 걸 알고 나서부터 계속 불안했어요.",
+                      "sentence_en":  "Ever since I found out my account had been hacked, I\u0027ve felt anxious.",
+                      "hint_chunk":  "ever since + 절, had been p.p (과거완료 수동태)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "got compromised",
+                                                  "ko":  "침해당했다"
+                                              },
+                                              {
+                                                  "en":  "changed all my passwords",
+                                                  "ko":  "모든 비밀번호를 바꿨다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_004",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이 앱이 업데이트된 후로 오히려 더 느려졌어요.",
+                      "sentence_en":  "Ever since this app was updated, it\u0027s actually gotten slower.",
+                      "hint_chunk":  "ever since + 절, 현재완료",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "got buggy",
+                                                  "ko":  "버그가 생겼다"
+                                              },
+                                              {
+                                                  "en":  "started crashing",
+                                                  "ko":  "다운되기 시작했다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_005",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "팔로워 수가 갑자기 줄어서 뭔가 문제가 있나 싶었어요.",
+                      "sentence_en":  "Since my follower count suddenly dropped, I wondered if something was wrong.",
+                      "hint_chunk":  "since + 절, wondered if + 절",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "lost followers",
+                                                  "ko":  "팔로워를 잃었다"
+                                              },
+                                              {
+                                                  "en":  "got flagged",
+                                                  "ko":  "신고당하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_006",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "그 영상이 삭제되기 전에 미리 저장해뒀어야 했는데.",
+                      "sentence_en":  "I should have saved that video before it got deleted.",
+                      "hint_chunk":  "should have p.p (후회)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "should have downloaded it",
+                                                  "ko":  "다운받아뒀어야 했다"
+                                              },
+                                              {
+                                                  "en":  "too late now",
+                                                  "ko":  "이제는 너무 늦었다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_007",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "만약 개인정보가 유출되지 않았더라면 이렇게까지 걱정하지 않았을 거예요.",
+                      "sentence_en":  "If my personal information hadn\u0027t been leaked, I wouldn\u0027t have worried this much.",
+                      "hint_chunk":  "If + had been p.p (수동태), wouldn\u0027t have p.p",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "data breach",
+                                                  "ko":  "정보 유출"
+                                              },
+                                              {
+                                                  "en":  "got exposed",
+                                                  "ko":  "노출됐다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_008",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "댓글 반응이 생각보다 안 좋아서 결국 그 게시물을 내렸어요.",
+                      "sentence_en":  "Since the comments weren\u0027t as positive as expected, I ended up taking down the post.",
+                      "hint_chunk":  "since + 절, ended up -ing",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "got backlash",
+                                                  "ko":  "반발을 샀다"
+                                              },
+                                              {
+                                                  "en":  "deleted the post",
+                                                  "ko":  "게시물을 삭제했다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_009",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이 플랫폼은 알고리즘이 계속 바뀌어서 따라가기가 점점 힘들어져요.",
+                      "sentence_en":  "Since this platform\u0027s algorithm keeps changing, it\u0027s getting harder and harder to keep up.",
+                      "hint_chunk":  "since + 절, it\u0027s getting harder to + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "keep up with the trend",
+                                                  "ko":  "트렌드를 따라가다"
+                                              },
+                                              {
+                                                  "en":  "fall behind",
+                                                  "ko":  "뒤처지다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_010",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "그 인플루언서가 광고인 걸 숨겼다는 게 밝혀지면서 논란이 커졌어요.",
+                      "sentence_en":  "As it came out that the influencer had hidden the fact it was an ad, the controversy grew.",
+                      "hint_chunk":  "as it came out that + 절 (과거완료)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "got called out",
+                                                  "ko":  "비난받다"
+                                              },
+                                              {
+                                                  "en":  "lost credibility",
+                                                  "ko":  "신뢰를 잃다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_011",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "와이파이가 계속 끊겨서 화상회의 도중에 몇 번이나 다시 접속해야 했어요.",
+                      "sentence_en":  "Because the wifi kept cutting out, I had to reconnect several times during the video call.",
+                      "hint_chunk":  "because + 절, had to + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "kept dropping",
+                                                  "ko":  "계속 끊기다"
+                                              },
+                                              {
+                                                  "en":  "lost connection",
+                                                  "ko":  "연결이 끊겼다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_012",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "아무리 조심해도 피싱 문자에 속을 뻔했어요.",
+                      "sentence_en":  "No matter how careful I am, I almost got fooled by a phishing text.",
+                      "hint_chunk":  "no matter how + 형용사, almost got p.p",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "almost fell for it",
+                                                  "ko":  "거의 속을 뻔했다"
+                                              },
+                                              {
+                                                  "en":  "clicked on a suspicious link",
+                                                  "ko":  "수상한 링크를 클릭했다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_013",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "그 앱을 삭제하고 나서부터 오히려 집중이 훨씬 잘 돼요.",
+                      "sentence_en":  "Ever since I deleted that app, I\u0027ve actually been able to focus much better.",
+                      "hint_chunk":  "ever since + 과거, 현재완료",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "cut back on screen time",
+                                                  "ko":  "스크린 타임을 줄였다"
+                                              },
+                                              {
+                                                  "en":  "felt less distracted",
+                                                  "ko":  "덜 산만해졌다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_014",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이 사이트가 자꾸 다운되는 바람에 결제를 세 번이나 다시 시도했어요.",
+                      "sentence_en":  "Because this site kept crashing, I had to try to pay three separate times.",
+                      "hint_chunk":  "because + 절, had to try to + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "server error",
+                                                  "ko":  "서버 오류"
+                                              },
+                                              {
+                                                  "en":  "payment failed",
+                                                  "ko":  "결제가 실패했다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_015",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "만약 미리 백업해두지 않았더라면 그 사진들을 전부 잃어버렸을 거예요.",
+                      "sentence_en":  "If I hadn\u0027t backed it up in advance, I would have lost all those photos.",
+                      "hint_chunk":  "If + had p.p, would have p.p (가정법 과거완료)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "backed up the files",
+                                                  "ko":  "파일을 백업했다"
+                                              },
+                                              {
+                                                  "en":  "lost everything",
+                                                  "ko":  "모든 것을 잃었다"
                                               }
                                           ]
                   }

@@ -1,5 +1,5 @@
 {
-    "content_version":  "2026-07-11-05",
+    "content_version":  "2026-07-11-06",
     "cards":  [
                   {
                       "id":  "beg_talk_001",
@@ -4748,6 +4748,576 @@
                                               {
                                                   "en":  "the swelling is going down",
                                                   "ko":  "부기가 가라앉고 있다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_biz_001",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "저 오늘 회의 있어요.",
+                      "sentence_en":  "I have a meeting today.",
+                      "hint_chunk":  "I have a meeting",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "a call",
+                                                  "ko":  "전화 회의"
+                                              },
+                                              {
+                                                  "en":  "a presentation",
+                                                  "ko":  "발표"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_biz_002",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "이거 언제까지 해야 돼요?",
+                      "sentence_en":  "When is this due?",
+                      "hint_chunk":  "When is + 명사 + due",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the deadline",
+                                                  "ko":  "마감일"
+                                              },
+                                              {
+                                                  "en":  "due tomorrow",
+                                                  "ko":  "내일까지인"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_biz_003",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "이메일 보냈어요.",
+                      "sentence_en":  "I sent the email.",
+                      "hint_chunk":  "I sent + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the file",
+                                                  "ko":  "파일"
+                                              },
+                                              {
+                                                  "en":  "the report",
+                                                  "ko":  "보고서"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_biz_004",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "지금 좀 바빠요.",
+                      "sentence_en":  "I\u0027m a bit busy right now.",
+                      "hint_chunk":  "I\u0027m a bit + 형용사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "swamped",
+                                                  "ko":  "정신없이 바쁜"
+                                              },
+                                              {
+                                                  "en":  "tied up",
+                                                  "ko":  "꼼짝 못하는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_biz_005",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "이 부분 좀 봐주세요.",
+                      "sentence_en":  "Could you take a look at this part?",
+                      "hint_chunk":  "Could you take a look at + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "check this",
+                                                  "ko":  "이거 확인해주다"
+                                              },
+                                              {
+                                                  "en":  "review this",
+                                                  "ko":  "이거 검토해주다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_biz_006",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "회의 몇 시에 시작해요?",
+                      "sentence_en":  "What time does the meeting start?",
+                      "hint_chunk":  "What time does + 명사 + start",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "end",
+                                                  "ko":  "끝나다"
+                                              },
+                                              {
+                                                  "en":  "begin",
+                                                  "ko":  "시작하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_biz_007",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "자료 준비했어요.",
+                      "sentence_en":  "I prepared the materials.",
+                      "hint_chunk":  "I prepared + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the slides",
+                                                  "ko":  "슬라이드"
+                                              },
+                                              {
+                                                  "en":  "the report",
+                                                  "ko":  "보고서"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_biz_008",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "이거 승인받았어요?",
+                      "sentence_en":  "Did you get this approved?",
+                      "hint_chunk":  "Did you get + 명사 + approved",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "signed off",
+                                                  "ko":  "승인 사인 받다"
+                                              },
+                                              {
+                                                  "en":  "confirmed",
+                                                  "ko":  "확정받다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_biz_009",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "오늘 야근해야 돼요.",
+                      "sentence_en":  "I have to work late today.",
+                      "hint_chunk":  "have to + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "work overtime",
+                                                  "ko":  "초과근무하다"
+                                              },
+                                              {
+                                                  "en":  "stay late",
+                                                  "ko":  "늦게까지 남다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_biz_010",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "제가 담당할게요.",
+                      "sentence_en":  "I\u0027ll take care of it.",
+                      "hint_chunk":  "I\u0027ll take care of + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "handle it",
+                                                  "ko":  "처리하다"
+                                              },
+                                              {
+                                                  "en":  "be in charge of it",
+                                                  "ko":  "담당하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_biz_011",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "이 프로젝트 언제 끝나요?",
+                      "sentence_en":  "When does this project end?",
+                      "hint_chunk":  "When does + 명사 + end",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "wrap up",
+                                                  "ko":  "마무리되다"
+                                              },
+                                              {
+                                                  "en":  "finish",
+                                                  "ko":  "끝나다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_biz_012",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "팀장님이 찾으세요.",
+                      "sentence_en":  "The team leader is looking for you.",
+                      "hint_chunk":  "주어 + is looking for + 목적어",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the manager",
+                                                  "ko":  "매니저"
+                                              },
+                                              {
+                                                  "en":  "the boss",
+                                                  "ko":  "상사"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_biz_013",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "이거 다시 확인해볼게요.",
+                      "sentence_en":  "I\u0027ll double-check this.",
+                      "hint_chunk":  "I\u0027ll double-check + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "verify this",
+                                                  "ko":  "확인하다"
+                                              },
+                                              {
+                                                  "en":  "go over this again",
+                                                  "ko":  "다시 검토하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_biz_014",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "예산이 부족해요.",
+                      "sentence_en":  "We\u0027re short on budget.",
+                      "hint_chunk":  "We\u0027re short on + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "short on time",
+                                                  "ko":  "시간이 부족한"
+                                              },
+                                              {
+                                                  "en":  "short on staff",
+                                                  "ko":  "인력이 부족한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_biz_015",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "계약서에 서명했어요.",
+                      "sentence_en":  "I signed the contract.",
+                      "hint_chunk":  "I signed + 명사",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the agreement",
+                                                  "ko":  "계약서/합의서"
+                                              },
+                                              {
+                                                  "en":  "the form",
+                                                  "ko":  "양식"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_001",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "이 프로젝트가 예정보다 늦어지고 있어서 팀장님께 미리 말씀드려야 할 것 같아요.",
+                      "sentence_en":  "Since this project is running behind schedule, I think I should let the team leader know in advance.",
+                      "hint_chunk":  "since + 절, I think I should + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "falling behind",
+                                                  "ko":  "뒤처지고 있는"
+                                              },
+                                              {
+                                                  "en":  "give a heads-up",
+                                                  "ko":  "미리 귀띔해주다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_002",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "만약 예산이 승인되지 않으면 일정을 다시 짜야 할 수도 있어요.",
+                      "sentence_en":  "If the budget isn\u0027t approved, we might have to rearrange the schedule.",
+                      "hint_chunk":  "If + 현재, might have to + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "push back the timeline",
+                                                  "ko":  "일정을 미루다"
+                                              },
+                                              {
+                                                  "en":  "scale down the plan",
+                                                  "ko":  "계획을 축소하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_003",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "그 클라이언트가 갑자기 요구사항을 바꾸는 바람에 다시 작업해야 했어요.",
+                      "sentence_en":  "Because the client suddenly changed the requirements, we had to redo the work.",
+                      "hint_chunk":  "because + 절, had to + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "go back to the drawing board",
+                                                  "ko":  "처음부터 다시 시작하다"
+                                              },
+                                              {
+                                                  "en":  "scrap the plan",
+                                                  "ko":  "계획을 폐기하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_004",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "이 계약은 검토가 끝나는 대로 바로 서명될 예정이에요.",
+                      "sentence_en":  "This contract is going to be signed as soon as the review is finished.",
+                      "hint_chunk":  "as soon as + 절, be going to be p.p (수동태)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "pending approval",
+                                                  "ko":  "승인 대기 중인"
+                                              },
+                                              {
+                                                  "en":  "once it\u0027s finalized",
+                                                  "ko":  "확정되는 대로"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_005",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "회의가 길어지는 바람에 다음 일정에 늦을 것 같아요.",
+                      "sentence_en":  "Since the meeting is running long, I think I\u0027m going to be late for my next appointment.",
+                      "hint_chunk":  "since + 절, be going to be late",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "running over time",
+                                                  "ko":  "시간을 초과하다"
+                                              },
+                                              {
+                                                  "en":  "behind schedule",
+                                                  "ko":  "일정이 늦어진"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_006",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "만약 이 제안이 받아들여지지 않으면 다른 대안을 준비해야 해요.",
+                      "sentence_en":  "If this proposal doesn\u0027t get accepted, we\u0027ll need to prepare an alternative.",
+                      "hint_chunk":  "If + 현재, we\u0027ll need to + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "back-up plan",
+                                                  "ko":  "대안"
+                                              },
+                                              {
+                                                  "en":  "plan B",
+                                                  "ko":  "차선책"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_007",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "그 보고서가 이미 검토된 걸로 알고 있었는데 다시 확인해보니 아니었어요.",
+                      "sentence_en":  "I thought the report had already been reviewed, but it turned out it hadn\u0027t.",
+                      "hint_chunk":  "had already been p.p, turned out (과거완료 수동태)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "got overlooked",
+                                                  "ko":  "간과되었다"
+                                              },
+                                              {
+                                                  "en":  "slipped through the cracks",
+                                                  "ko":  "누락되다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_008",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "예산을 초과하지 않는 선에서 최대한 빨리 진행해야 해요.",
+                      "sentence_en":  "We need to move forward as quickly as possible without going over budget.",
+                      "hint_chunk":  "without + -ing (~하지 않고)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "stay within budget",
+                                                  "ko":  "예산 내에서 유지하다"
+                                              },
+                                              {
+                                                  "en":  "cut corners",
+                                                  "ko":  "대충 하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_009",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "담당자가 갑자기 퇴사하는 바람에 인수인계가 제대로 안 됐어요.",
+                      "sentence_en":  "Because the person in charge suddenly quit, the handover wasn\u0027t done properly.",
+                      "hint_chunk":  "because + 절, wasn\u0027t done properly (수동태)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "left in a hurry",
+                                                  "ko":  "급하게 그만두다"
+                                              },
+                                              {
+                                                  "en":  "things fell through the cracks",
+                                                  "ko":  "제대로 처리가 안 됐다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_010",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "이 자료가 없었더라면 발표를 제대로 준비하지 못했을 거예요.",
+                      "sentence_en":  "If it hadn\u0027t been for this data, I wouldn\u0027t have been able to prepare the presentation properly.",
+                      "hint_chunk":  "If it hadn\u0027t been for + 명사, wouldn\u0027t have p.p (가정법 과거완료)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "thanks to this data",
+                                                  "ko":  "이 자료 덕분에"
+                                              },
+                                              {
+                                                  "en":  "it made all the difference",
+                                                  "ko":  "그게 큰 차이를 만들었다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_011",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "그 거래처와 계약을 맺은 지 벌써 3년이 넘었어요.",
+                      "sentence_en":  "It\u0027s been more than three years since we signed the contract with that client.",
+                      "hint_chunk":  "It\u0027s been + 기간 + since + 절 (현재완료)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "it\u0027s been a while since",
+                                                  "ko":  "~한 지 꽤 됐다"
+                                              },
+                                              {
+                                                  "en":  "the relationship has grown",
+                                                  "ko":  "관계가 발전해왔다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_012",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "그 프로젝트가 성공적으로 끝나서 다행이에요, 안 그랬으면 예산이 삭감될 뻔했거든요.",
+                      "sentence_en":  "I\u0027m glad the project ended successfully — otherwise our budget could have been cut.",
+                      "hint_chunk":  "otherwise + could have p.p",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "it could have been worse",
+                                                  "ko":  "더 나빠질 수도 있었다"
+                                              },
+                                              {
+                                                  "en":  "a close call",
+                                                  "ko":  "아슬아슬했던 상황"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_013",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "그 이메일에 회신이 늦어지는 바람에 일정이 다 꼬여버렸어요.",
+                      "sentence_en":  "Because the reply to that email was delayed, the whole schedule got messed up.",
+                      "hint_chunk":  "because + 절, got + p.p (수동태)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "got pushed back",
+                                                  "ko":  "밀리다"
+                                              },
+                                              {
+                                                  "en":  "things got out of order",
+                                                  "ko":  "순서가 엉망이 되다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_014",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "아무리 바빠도 이 보고서는 오늘 안에 끝내야 해요.",
+                      "sentence_en":  "No matter how busy I am, I have to finish this report by today.",
+                      "hint_chunk":  "no matter how + 형용사, have to + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "no matter what happens",
+                                                  "ko":  "무슨 일이 있어도"
+                                              },
+                                              {
+                                                  "en":  "come what may",
+                                                  "ko":  "어떤 일이 있어도"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_015",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "그 계약 조건에 대해 다시 협상해볼 필요가 있을 것 같아요.",
+                      "sentence_en":  "I think we need to renegotiate the terms of that contract.",
+                      "hint_chunk":  "I think we need to + 동사원형",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "revisit the terms",
+                                                  "ko":  "조건을 재검토하다"
+                                              },
+                                              {
+                                                  "en":  "come to a new agreement",
+                                                  "ko":  "새로운 합의에 이르다"
                                               }
                                           ]
                   }

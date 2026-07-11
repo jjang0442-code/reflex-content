@@ -1,5 +1,5 @@
 {
-    "content_version":  "2026-07-11-08",
+    "content_version":  "2026-07-11-09",
     "cards":  [
                   {
                       "id":  "beg_talk_001",
@@ -6458,6 +6458,1386 @@
                                               {
                                                   "en":  "take a while to process",
                                                   "ko":  "받아들이는 데 시간이 걸리다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_031",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "창가 자리로 주세요.",
+                      "sentence_en":  "Can I get a window seat?",
+                      "hint_chunk":  "Can I get + 명사? (원하는 것 요청할 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "window seat",
+                                                  "ko":  "창가 자리"
+                                              },
+                                              {
+                                                  "en":  "aisle seat",
+                                                  "ko":  "통로 자리"
+                                              },
+                                              {
+                                                  "en":  "seat number",
+                                                  "ko":  "좌석 번호"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_032",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "이 버스 종점이 어디예요?",
+                      "sentence_en":  "What\u0027s the last stop on this bus?",
+                      "hint_chunk":  "What\u0027s the last stop on ~? (종점 물어볼 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "last stop",
+                                                  "ko":  "종점"
+                                              },
+                                              {
+                                                  "en":  "bus route",
+                                                  "ko":  "버스 노선"
+                                              },
+                                              {
+                                                  "en":  "get off",
+                                                  "ko":  "내리다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_033",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "주차장이 어디예요?",
+                      "sentence_en":  "Where\u0027s the parking lot?",
+                      "hint_chunk":  "Where\u0027s the + 장소? (위치 물을 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "parking lot",
+                                                  "ko":  "주차장"
+                                              },
+                                              {
+                                                  "en":  "parking fee",
+                                                  "ko":  "주차 요금"
+                                              },
+                                              {
+                                                  "en":  "parking space",
+                                                  "ko":  "주차 공간"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_034",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "기름 좀 넣어야 될 것 같아요.",
+                      "sentence_en":  "We should probably fill up the tank.",
+                      "hint_chunk":  "fill up the tank (기름을 넣다)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "gas station",
+                                                  "ko":  "주유소"
+                                              },
+                                              {
+                                                  "en":  "full tank",
+                                                  "ko":  "가득 채운 기름통"
+                                              },
+                                              {
+                                                  "en":  "refuel",
+                                                  "ko":  "재급유하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_035",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "여기서 내려주세요.",
+                      "sentence_en":  "Can you drop me off here?",
+                      "hint_chunk":  "drop ~ off (내려주다)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "pull over",
+                                                  "ko":  "차를 세우다"
+                                              },
+                                              {
+                                                  "en":  "right here",
+                                                  "ko":  "바로 여기"
+                                              },
+                                              {
+                                                  "en":  "get out",
+                                                  "ko":  "내리다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_036",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "제 짐이 안 보여요.",
+                      "sentence_en":  "I can\u0027t find my luggage.",
+                      "hint_chunk":  "I can\u0027t find + 명사 (못 찾겠다)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "luggage",
+                                                  "ko":  "짐"
+                                              },
+                                              {
+                                                  "en":  "baggage claim",
+                                                  "ko":  "수하물 찾는 곳"
+                                              },
+                                              {
+                                                  "en":  "suitcase",
+                                                  "ko":  "여행 가방"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_037",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "이거 몇 번 게이트예요?",
+                      "sentence_en":  "What gate is this?",
+                      "hint_chunk":  "What ~ is this? (이게 뭔지 물을 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "gate",
+                                                  "ko":  "게이트"
+                                              },
+                                              {
+                                                  "en":  "boarding pass",
+                                                  "ko":  "탑승권"
+                                              },
+                                              {
+                                                  "en":  "departure",
+                                                  "ko":  "출발"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_038",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "제 비행기가 지연됐어요.",
+                      "sentence_en":  "My flight got delayed.",
+                      "hint_chunk":  "~ got delayed (지연되다)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "delayed",
+                                                  "ko":  "지연된"
+                                              },
+                                              {
+                                                  "en":  "on time",
+                                                  "ko":  "제시간에"
+                                              },
+                                              {
+                                                  "en":  "cancelled",
+                                                  "ko":  "취소된"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_039",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "환승 시간이 얼마 안 남았어요.",
+                      "sentence_en":  "We don\u0027t have much time for the layover.",
+                      "hint_chunk":  "don\u0027t have much time for ~ (시간이 얼마 안 남았다)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "layover",
+                                                  "ko":  "환승"
+                                              },
+                                              {
+                                                  "en":  "connecting flight",
+                                                  "ko":  "연결 항공편"
+                                              },
+                                              {
+                                                  "en":  "boarding time",
+                                                  "ko":  "탑승 시간"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_040",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "여권 좀 보여주세요.",
+                      "sentence_en":  "Can I see your passport, please?",
+                      "hint_chunk":  "Can I see your ~? (제시해달라고 할 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "passport",
+                                                  "ko":  "여권"
+                                              },
+                                              {
+                                                  "en":  "immigration",
+                                                  "ko":  "출입국 심사"
+                                              },
+                                              {
+                                                  "en":  "visa",
+                                                  "ko":  "비자"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_041",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "택시비가 얼마 나왔어요?",
+                      "sentence_en":  "How much was the taxi fare?",
+                      "hint_chunk":  "How much was ~? (얼마였는지 물을 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "taxi fare",
+                                                  "ko":  "택시 요금"
+                                              },
+                                              {
+                                                  "en":  "meter",
+                                                  "ko":  "미터기"
+                                              },
+                                              {
+                                                  "en":  "tip",
+                                                  "ko":  "팁"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_042",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "영수증 주세요.",
+                      "sentence_en":  "Can I get a receipt?",
+                      "hint_chunk":  "Can I get a ~? (달라고 요청할 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "receipt",
+                                                  "ko":  "영수증"
+                                              },
+                                              {
+                                                  "en":  "change",
+                                                  "ko":  "거스름돈"
+                                              },
+                                              {
+                                                  "en":  "cash",
+                                                  "ko":  "현금"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_043",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "이 열차 몇 시에 출발해요?",
+                      "sentence_en":  "What time does this train leave?",
+                      "hint_chunk":  "What time does ~ leave? (출발 시간 물을 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "train",
+                                                  "ko":  "열차"
+                                              },
+                                              {
+                                                  "en":  "platform",
+                                                  "ko":  "승강장"
+                                              },
+                                              {
+                                                  "en":  "departure time",
+                                                  "ko":  "출발 시간"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_044",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "다음 정류장이 어디예요?",
+                      "sentence_en":  "What\u0027s the next stop?",
+                      "hint_chunk":  "What\u0027s the next ~? (다음 것 물을 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "stop",
+                                                  "ko":  "정류장"
+                                              },
+                                              {
+                                                  "en":  "station",
+                                                  "ko":  "역"
+                                              },
+                                              {
+                                                  "en":  "route",
+                                                  "ko":  "노선"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_045",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "여기 지도 있어요?",
+                      "sentence_en":  "Do you have a map here?",
+                      "hint_chunk":  "Do you have ~ here? (있는지 물을 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "map",
+                                                  "ko":  "지도"
+                                              },
+                                              {
+                                                  "en":  "brochure",
+                                                  "ko":  "안내 책자"
+                                              },
+                                              {
+                                                  "en":  "guide",
+                                                  "ko":  "가이드"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_046",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "관광 안내소가 어디예요?",
+                      "sentence_en":  "Where\u0027s the tourist information center?",
+                      "hint_chunk":  "Where\u0027s the ~? (장소 위치 물을 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "tourist information center",
+                                                  "ko":  "관광 안내소"
+                                              },
+                                              {
+                                                  "en":  "information desk",
+                                                  "ko":  "안내 데스크"
+                                              },
+                                              {
+                                                  "en":  "local guide",
+                                                  "ko":  "현지 가이드"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_047",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "체크아웃은 몇 시예요?",
+                      "sentence_en":  "What time is checkout?",
+                      "hint_chunk":  "What time is ~? (시간 물을 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "checkout",
+                                                  "ko":  "체크아웃"
+                                              },
+                                              {
+                                                  "en":  "check-in",
+                                                  "ko":  "체크인"
+                                              },
+                                              {
+                                                  "en":  "front desk",
+                                                  "ko":  "프런트 데스크"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_048",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "와이파이 비밀번호가 뭐예요?",
+                      "sentence_en":  "What\u0027s the wifi password?",
+                      "hint_chunk":  "What\u0027s the ~? (정보 물을 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "wifi password",
+                                                  "ko":  "와이파이 비밀번호"
+                                              },
+                                              {
+                                                  "en":  "connection",
+                                                  "ko":  "연결"
+                                              },
+                                              {
+                                                  "en":  "network",
+                                                  "ko":  "네트워크"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_049",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "수건 좀 더 주세요.",
+                      "sentence_en":  "Can I get some more towels?",
+                      "hint_chunk":  "Can I get some more ~? (더 달라고 요청할 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "towel",
+                                                  "ko":  "수건"
+                                              },
+                                              {
+                                                  "en":  "extra",
+                                                  "ko":  "여분의"
+                                              },
+                                              {
+                                                  "en":  "room service",
+                                                  "ko":  "룸서비스"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_travel_050",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "저 아직 시차 적응이 안 됐어요.",
+                      "sentence_en":  "I\u0027m still jet-lagged.",
+                      "hint_chunk":  "I\u0027m still ~ (아직 ~한 상태)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "jet-lagged",
+                                                  "ko":  "시차 적응이 안 된"
+                                              },
+                                              {
+                                                  "en":  "exhausted",
+                                                  "ko":  "지친"
+                                              },
+                                              {
+                                                  "en":  "time difference",
+                                                  "ko":  "시차"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_031",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "여기 자리 있어요?",
+                      "sentence_en":  "Is there a table available?",
+                      "hint_chunk":  "Is there a ~ available? (있는지 물을 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "table",
+                                                  "ko":  "테이블/자리"
+                                              },
+                                              {
+                                                  "en":  "reservation",
+                                                  "ko":  "예약"
+                                              },
+                                              {
+                                                  "en":  "wait list",
+                                                  "ko":  "대기자 명단"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_032",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "메뉴 좀 보여주세요.",
+                      "sentence_en":  "Can I see the menu, please?",
+                      "hint_chunk":  "Can I see the ~, please?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "menu",
+                                                  "ko":  "메뉴"
+                                              },
+                                              {
+                                                  "en":  "special",
+                                                  "ko":  "특선메뉴"
+                                              },
+                                              {
+                                                  "en":  "price",
+                                                  "ko":  "가격"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_033",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "이거 많이 매워요?",
+                      "sentence_en":  "Is this really spicy?",
+                      "hint_chunk":  "Is this ~? (상태 물을 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "spicy",
+                                                  "ko":  "매운"
+                                              },
+                                              {
+                                                  "en":  "mild",
+                                                  "ko":  "순한"
+                                              },
+                                              {
+                                                  "en":  "taste",
+                                                  "ko":  "맛"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_034",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "덜 맵게 해주세요.",
+                      "sentence_en":  "Can you make it less spicy?",
+                      "hint_chunk":  "Can you make it ~? (조정 요청)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "less spicy",
+                                                  "ko":  "덜 맵게"
+                                              },
+                                              {
+                                                  "en":  "extra spicy",
+                                                  "ko":  "더 맵게"
+                                              },
+                                              {
+                                                  "en":  "mild",
+                                                  "ko":  "순하게"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_035",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "포장되나요?",
+                      "sentence_en":  "Can I get this to go?",
+                      "hint_chunk":  "Can I get this to go? (포장 요청)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "to go",
+                                                  "ko":  "포장"
+                                              },
+                                              {
+                                                  "en":  "take out",
+                                                  "ko":  "테이크아웃"
+                                              },
+                                              {
+                                                  "en":  "container",
+                                                  "ko":  "용기"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_036",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "여기서 먹고 갈게요.",
+                      "sentence_en":  "I\u0027ll eat here.",
+                      "hint_chunk":  "I\u0027ll ~ here. (매장 식사 의사 표현)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "eat in",
+                                                  "ko":  "매장에서 먹다"
+                                              },
+                                              {
+                                                  "en":  "dine in",
+                                                  "ko":  "매장 식사"
+                                              },
+                                              {
+                                                  "en":  "for here",
+                                                  "ko":  "여기서 먹을"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_037",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "물 좀 더 주세요.",
+                      "sentence_en":  "Can I get some more water?",
+                      "hint_chunk":  "Can I get some more ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "water",
+                                                  "ko":  "물"
+                                              },
+                                              {
+                                                  "en":  "napkin",
+                                                  "ko":  "냅킨"
+                                              },
+                                              {
+                                                  "en":  "ice",
+                                                  "ko":  "얼음"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_038",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "얼음 빼주세요.",
+                      "sentence_en":  "Can I get that without ice?",
+                      "hint_chunk":  "without ~ (빼달라고 할 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "ice",
+                                                  "ko":  "얼음"
+                                              },
+                                              {
+                                                  "en":  "sugar",
+                                                  "ko":  "설탕"
+                                              },
+                                              {
+                                                  "en":  "cream",
+                                                  "ko":  "크림"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_039",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "저 이거 알레르기 있어요.",
+                      "sentence_en":  "I\u0027m allergic to this.",
+                      "hint_chunk":  "I\u0027m allergic to ~",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "allergic",
+                                                  "ko":  "알레르기 있는"
+                                              },
+                                              {
+                                                  "en":  "nuts",
+                                                  "ko":  "견과류"
+                                              },
+                                              {
+                                                  "en":  "seafood",
+                                                  "ko":  "해산물"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_040",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "채식 메뉴 있어요?",
+                      "sentence_en":  "Do you have vegetarian options?",
+                      "hint_chunk":  "Do you have ~ options?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "vegetarian",
+                                                  "ko":  "채식"
+                                              },
+                                              {
+                                                  "en":  "vegan",
+                                                  "ko":  "비건"
+                                              },
+                                              {
+                                                  "en":  "gluten-free",
+                                                  "ko":  "글루텐 프리"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_041",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "이거 몇 인분이에요?",
+                      "sentence_en":  "How many servings is this?",
+                      "hint_chunk":  "How many servings is ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "servings",
+                                                  "ko":  "인분"
+                                              },
+                                              {
+                                                  "en":  "portion",
+                                                  "ko":  "1인분"
+                                              },
+                                              {
+                                                  "en":  "share",
+                                                  "ko":  "나눠먹다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_042",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "계산서 주세요.",
+                      "sentence_en":  "Can I get the check?",
+                      "hint_chunk":  "Can I get the check? (계산 요청)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "check",
+                                                  "ko":  "계산서"
+                                              },
+                                              {
+                                                  "en":  "bill",
+                                                  "ko":  "청구서"
+                                              },
+                                              {
+                                                  "en":  "pay",
+                                                  "ko":  "계산하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_043",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "따로따로 계산해 주세요.",
+                      "sentence_en":  "Can we pay separately?",
+                      "hint_chunk":  "Can we ~ separately?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "separately",
+                                                  "ko":  "따로"
+                                              },
+                                              {
+                                                  "en":  "split",
+                                                  "ko":  "나누다"
+                                              },
+                                              {
+                                                  "en":  "together",
+                                                  "ko":  "같이"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_044",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "예약했는데요.",
+                      "sentence_en":  "I have a reservation.",
+                      "hint_chunk":  "I have a ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "reservation",
+                                                  "ko":  "예약"
+                                              },
+                                              {
+                                                  "en":  "under the name",
+                                                  "ko":  "~ 이름으로"
+                                              },
+                                              {
+                                                  "en":  "party of",
+                                                  "ko":  "~명"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_045",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "얼마나 기다려야 돼요?",
+                      "sentence_en":  "How long is the wait?",
+                      "hint_chunk":  "How long is the ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "wait",
+                                                  "ko":  "대기 시간"
+                                              },
+                                              {
+                                                  "en":  "line",
+                                                  "ko":  "줄"
+                                              },
+                                              {
+                                                  "en":  "table",
+                                                  "ko":  "테이블"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_046",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "디저트 메뉴 있어요?",
+                      "sentence_en":  "Do you have a dessert menu?",
+                      "hint_chunk":  "Do you have a ~ menu?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "dessert",
+                                                  "ko":  "디저트"
+                                              },
+                                              {
+                                                  "en":  "drink",
+                                                  "ko":  "음료"
+                                              },
+                                              {
+                                                  "en":  "kids",
+                                                  "ko":  "어린이"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_047",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "소스 좀 더 주세요.",
+                      "sentence_en":  "Can I get some extra sauce?",
+                      "hint_chunk":  "Can I get some extra ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "sauce",
+                                                  "ko":  "소스"
+                                              },
+                                              {
+                                                  "en":  "dressing",
+                                                  "ko":  "드레싱"
+                                              },
+                                              {
+                                                  "en":  "cheese",
+                                                  "ko":  "치즈"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_048",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "이거 리필 되나요?",
+                      "sentence_en":  "Can I get a refill on this?",
+                      "hint_chunk":  "Can I get a refill on ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "refill",
+                                                  "ko":  "리필"
+                                              },
+                                              {
+                                                  "en":  "coffee",
+                                                  "ko":  "커피"
+                                              },
+                                              {
+                                                  "en":  "soda",
+                                                  "ko":  "탄산음료"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_049",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "테이블 좀 닦아주세요.",
+                      "sentence_en":  "Can you wipe down the table?",
+                      "hint_chunk":  "Can you ~? (요청할 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "wipe down",
+                                                  "ko":  "닦다"
+                                              },
+                                              {
+                                                  "en":  "clean",
+                                                  "ko":  "청소하다"
+                                              },
+                                              {
+                                                  "en":  "table",
+                                                  "ko":  "테이블"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_cafe_050",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "아이스로 주세요.",
+                      "sentence_en":  "Can I get that iced?",
+                      "hint_chunk":  "Can I get that ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "iced",
+                                                  "ko":  "아이스로"
+                                              },
+                                              {
+                                                  "en":  "hot",
+                                                  "ko":  "뜨겁게"
+                                              },
+                                              {
+                                                  "en":  "on the side",
+                                                  "ko":  "따로"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_031",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "이거 다른 사이즈 있어요?",
+                      "sentence_en":  "Do you have this in another size?",
+                      "hint_chunk":  "Do you have this in another ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "size",
+                                                  "ko":  "사이즈"
+                                              },
+                                              {
+                                                  "en":  "small",
+                                                  "ko":  "작은"
+                                              },
+                                              {
+                                                  "en":  "large",
+                                                  "ko":  "큰"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_032",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "입어봐도 돼요?",
+                      "sentence_en":  "Can I try this on?",
+                      "hint_chunk":  "Can I try this on?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "try on",
+                                                  "ko":  "입어보다"
+                                              },
+                                              {
+                                                  "en":  "fitting room",
+                                                  "ko":  "탈의실"
+                                              },
+                                              {
+                                                  "en":  "mirror",
+                                                  "ko":  "거울"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_033",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "탈의실이 어디예요?",
+                      "sentence_en":  "Where\u0027s the fitting room?",
+                      "hint_chunk":  "Where\u0027s the ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "fitting room",
+                                                  "ko":  "탈의실"
+                                              },
+                                              {
+                                                  "en":  "cashier",
+                                                  "ko":  "계산대"
+                                              },
+                                              {
+                                                  "en":  "exit",
+                                                  "ko":  "출구"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_034",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "이거 얼마예요?",
+                      "sentence_en":  "How much is this?",
+                      "hint_chunk":  "How much is ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "price",
+                                                  "ko":  "가격"
+                                              },
+                                              {
+                                                  "en":  "total",
+                                                  "ko":  "총액"
+                                              },
+                                              {
+                                                  "en":  "tag",
+                                                  "ko":  "가격표"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_035",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "할인 되나요?",
+                      "sentence_en":  "Can I get a discount?",
+                      "hint_chunk":  "Can I get a ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "discount",
+                                                  "ko":  "할인"
+                                              },
+                                              {
+                                                  "en":  "coupon",
+                                                  "ko":  "쿠폰"
+                                              },
+                                              {
+                                                  "en":  "deal",
+                                                  "ko":  "할인 혜택"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_036",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "이거 세일해요?",
+                      "sentence_en":  "Is this on sale?",
+                      "hint_chunk":  "Is this on ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "sale",
+                                                  "ko":  "세일"
+                                              },
+                                              {
+                                                  "en":  "clearance",
+                                                  "ko":  "재고정리"
+                                              },
+                                              {
+                                                  "en":  "promotion",
+                                                  "ko":  "프로모션"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_037",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "다른 색깔 있어요?",
+                      "sentence_en":  "Do you have this in another color?",
+                      "hint_chunk":  "Do you have this in another ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "color",
+                                                  "ko":  "색깔"
+                                              },
+                                              {
+                                                  "en":  "pattern",
+                                                  "ko":  "무늬"
+                                              },
+                                              {
+                                                  "en":  "style",
+                                                  "ko":  "스타일"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_038",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "이거 환불 되나요?",
+                      "sentence_en":  "Can I return this?",
+                      "hint_chunk":  "Can I return ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "return",
+                                                  "ko":  "환불하다"
+                                              },
+                                              {
+                                                  "en":  "refund",
+                                                  "ko":  "환불"
+                                              },
+                                              {
+                                                  "en":  "exchange",
+                                                  "ko":  "교환"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_039",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "교환하고 싶어요.",
+                      "sentence_en":  "I\u0027d like to exchange this.",
+                      "hint_chunk":  "I\u0027d like to ~ this.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "exchange",
+                                                  "ko":  "교환하다"
+                                              },
+                                              {
+                                                  "en":  "swap",
+                                                  "ko":  "바꾸다"
+                                              },
+                                              {
+                                                  "en":  "size up",
+                                                  "ko":  "사이즈를 올리다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_040",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "영수증 있어요.",
+                      "sentence_en":  "I have the receipt.",
+                      "hint_chunk":  "I have the ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "receipt",
+                                                  "ko":  "영수증"
+                                              },
+                                              {
+                                                  "en":  "proof of purchase",
+                                                  "ko":  "구매 증빙"
+                                              },
+                                              {
+                                                  "en":  "warranty",
+                                                  "ko":  "보증서"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_041",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "카드로 계산할게요.",
+                      "sentence_en":  "I\u0027ll pay by card.",
+                      "hint_chunk":  "I\u0027ll pay by ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "card",
+                                                  "ko":  "카드"
+                                              },
+                                              {
+                                                  "en":  "credit card",
+                                                  "ko":  "신용카드"
+                                              },
+                                              {
+                                                  "en":  "debit card",
+                                                  "ko":  "체크카드"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_042",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "현금으로 할게요.",
+                      "sentence_en":  "I\u0027ll pay in cash.",
+                      "hint_chunk":  "I\u0027ll pay in ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "cash",
+                                                  "ko":  "현금"
+                                              },
+                                              {
+                                                  "en":  "coins",
+                                                  "ko":  "동전"
+                                              },
+                                              {
+                                                  "en":  "bill",
+                                                  "ko":  "지폐"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_043",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "봉투 필요 없어요.",
+                      "sentence_en":  "I don\u0027t need a bag.",
+                      "hint_chunk":  "I don\u0027t need a ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "bag",
+                                                  "ko":  "봉투"
+                                              },
+                                              {
+                                                  "en":  "receipt",
+                                                  "ko":  "영수증"
+                                              },
+                                              {
+                                                  "en":  "straw",
+                                                  "ko":  "빨대"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_044",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "선물 포장 되나요?",
+                      "sentence_en":  "Can you gift-wrap this?",
+                      "hint_chunk":  "Can you ~ this?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "gift-wrap",
+                                                  "ko":  "선물 포장하다"
+                                              },
+                                              {
+                                                  "en":  "wrap",
+                                                  "ko":  "포장하다"
+                                              },
+                                              {
+                                                  "en":  "box",
+                                                  "ko":  "상자에 담다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_045",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "이거 품절이에요?",
+                      "sentence_en":  "Is this sold out?",
+                      "hint_chunk":  "Is this ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "sold out",
+                                                  "ko":  "품절된"
+                                              },
+                                              {
+                                                  "en":  "in stock",
+                                                  "ko":  "재고 있는"
+                                              },
+                                              {
+                                                  "en":  "available",
+                                                  "ko":  "구매 가능한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_046",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "더 싼 거 있어요?",
+                      "sentence_en":  "Do you have a cheaper one?",
+                      "hint_chunk":  "Do you have a ~ one?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "cheaper",
+                                                  "ko":  "더 싼"
+                                              },
+                                              {
+                                                  "en":  "better",
+                                                  "ko":  "더 좋은"
+                                              },
+                                              {
+                                                  "en":  "different",
+                                                  "ko":  "다른"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_047",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "이 세일 언제까지예요?",
+                      "sentence_en":  "Until when is this sale?",
+                      "hint_chunk":  "Until when is ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "sale",
+                                                  "ko":  "세일"
+                                              },
+                                              {
+                                                  "en":  "promotion",
+                                                  "ko":  "프로모션"
+                                              },
+                                              {
+                                                  "en":  "discount",
+                                                  "ko":  "할인"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_048",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "멤버십 가입하고 싶어요.",
+                      "sentence_en":  "I\u0027d like to sign up for a membership.",
+                      "hint_chunk":  "I\u0027d like to sign up for ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "membership",
+                                                  "ko":  "멤버십"
+                                              },
+                                              {
+                                                  "en":  "loyalty program",
+                                                  "ko":  "적립 프로그램"
+                                              },
+                                              {
+                                                  "en":  "newsletter",
+                                                  "ko":  "뉴스레터"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_049",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "세금 환급 되나요?",
+                      "sentence_en":  "Can I get a tax refund?",
+                      "hint_chunk":  "Can I get a ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "tax refund",
+                                                  "ko":  "세금 환급"
+                                              },
+                                              {
+                                                  "en":  "receipt",
+                                                  "ko":  "영수증"
+                                              },
+                                              {
+                                                  "en":  "form",
+                                                  "ko":  "신청서"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_shop_050",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "낱개로 살 수 있어요?",
+                      "sentence_en":  "Can I buy these individually?",
+                      "hint_chunk":  "Can I buy these ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "individually",
+                                                  "ko":  "낱개로"
+                                              },
+                                              {
+                                                  "en":  "in a set",
+                                                  "ko":  "세트로"
+                                              },
+                                              {
+                                                  "en":  "in bulk",
+                                                  "ko":  "대량으로"
                                               }
                                           ]
                   }

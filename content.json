@@ -1,5 +1,5 @@
 {
-    "content_version":  "2026-07-11-09",
+    "content_version":  "2026-07-11-10",
     "cards":  [
                   {
                       "id":  "beg_talk_001",
@@ -7838,6 +7838,1386 @@
                                               {
                                                   "en":  "in bulk",
                                                   "ko":  "대량으로"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_031",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 오늘 기분 좋아요.",
+                      "sentence_en":  "I\u0027m in a good mood today.",
+                      "hint_chunk":  "I\u0027m in a ~ mood.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "good mood",
+                                                  "ko":  "좋은 기분"
+                                              },
+                                              {
+                                                  "en":  "bad mood",
+                                                  "ko":  "나쁜 기분"
+                                              },
+                                              {
+                                                  "en":  "mood",
+                                                  "ko":  "기분"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_032",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 좀 슬퍼요.",
+                      "sentence_en":  "I\u0027m feeling a little sad.",
+                      "hint_chunk":  "I\u0027m feeling a little ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "sad",
+                                                  "ko":  "슬픈"
+                                              },
+                                              {
+                                                  "en":  "down",
+                                                  "ko":  "우울한"
+                                              },
+                                              {
+                                                  "en":  "blue",
+                                                  "ko":  "우울한(구어)"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_033",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 너무 피곤해요.",
+                      "sentence_en":  "I\u0027m so tired.",
+                      "hint_chunk":  "I\u0027m so ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "tired",
+                                                  "ko":  "피곤한"
+                                              },
+                                              {
+                                                  "en":  "exhausted",
+                                                  "ko":  "지친"
+                                              },
+                                              {
+                                                  "en":  "sleepy",
+                                                  "ko":  "졸린"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_034",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 요즘 스트레스 많이 받아요.",
+                      "sentence_en":  "I\u0027m really stressed these days.",
+                      "hint_chunk":  "I\u0027m really ~ these days.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "stressed",
+                                                  "ko":  "스트레스 받는"
+                                              },
+                                              {
+                                                  "en":  "overwhelmed",
+                                                  "ko":  "벅찬"
+                                              },
+                                              {
+                                                  "en":  "busy",
+                                                  "ko":  "바쁜"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_035",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 좀 긴장돼요.",
+                      "sentence_en":  "I\u0027m a little nervous.",
+                      "hint_chunk":  "I\u0027m a little ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "nervous",
+                                                  "ko":  "긴장한"
+                                              },
+                                              {
+                                                  "en":  "anxious",
+                                                  "ko":  "불안한"
+                                              },
+                                              {
+                                                  "en":  "jittery",
+                                                  "ko":  "초조한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_036",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 완전 신나요!",
+                      "sentence_en":  "I\u0027m so excited!",
+                      "hint_chunk":  "I\u0027m so ~!",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "excited",
+                                                  "ko":  "신난"
+                                              },
+                                              {
+                                                  "en":  "thrilled",
+                                                  "ko":  "아주 신난"
+                                              },
+                                              {
+                                                  "en":  "pumped",
+                                                  "ko":  "들뜬"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_037",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 걱정돼요.",
+                      "sentence_en":  "I\u0027m worried.",
+                      "hint_chunk":  "I\u0027m ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "worried",
+                                                  "ko":  "걱정되는"
+                                              },
+                                              {
+                                                  "en":  "concerned",
+                                                  "ko":  "염려하는"
+                                              },
+                                              {
+                                                  "en":  "anxious",
+                                                  "ko":  "불안한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_038",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 화났어요.",
+                      "sentence_en":  "I\u0027m angry.",
+                      "hint_chunk":  "I\u0027m ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "angry",
+                                                  "ko":  "화난"
+                                              },
+                                              {
+                                                  "en":  "mad",
+                                                  "ko":  "화난(구어)"
+                                              },
+                                              {
+                                                  "en":  "furious",
+                                                  "ko":  "격노한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_039",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 좀 심심해요.",
+                      "sentence_en":  "I\u0027m a little bored.",
+                      "hint_chunk":  "I\u0027m a little ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "bored",
+                                                  "ko":  "심심한"
+                                              },
+                                              {
+                                                  "en":  "uninterested",
+                                                  "ko":  "관심없는"
+                                              },
+                                              {
+                                                  "en":  "restless",
+                                                  "ko":  "안절부절한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_040",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 외로워요.",
+                      "sentence_en":  "I feel lonely.",
+                      "hint_chunk":  "I feel ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "lonely",
+                                                  "ko":  "외로운"
+                                              },
+                                              {
+                                                  "en":  "isolated",
+                                                  "ko":  "고립된"
+                                              },
+                                              {
+                                                  "en":  "alone",
+                                                  "ko":  "혼자인"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_041",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 완전 뿌듯해요.",
+                      "sentence_en":  "I feel so proud.",
+                      "hint_chunk":  "I feel so ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "proud",
+                                                  "ko":  "뿌듯한"
+                                              },
+                                              {
+                                                  "en":  "accomplished",
+                                                  "ko":  "성취감있는"
+                                              },
+                                              {
+                                                  "en":  "satisfied",
+                                                  "ko":  "만족한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_042",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 완전 창피해요.",
+                      "sentence_en":  "I\u0027m so embarrassed.",
+                      "hint_chunk":  "I\u0027m so ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "embarrassed",
+                                                  "ko":  "창피한"
+                                              },
+                                              {
+                                                  "en":  "awkward",
+                                                  "ko":  "어색한"
+                                              },
+                                              {
+                                                  "en":  "ashamed",
+                                                  "ko":  "부끄러운"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_043",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 실망했어요.",
+                      "sentence_en":  "I\u0027m disappointed.",
+                      "hint_chunk":  "I\u0027m ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "disappointed",
+                                                  "ko":  "실망한"
+                                              },
+                                              {
+                                                  "en":  "let down",
+                                                  "ko":  "실망한(구어)"
+                                              },
+                                              {
+                                                  "en":  "unsatisfied",
+                                                  "ko":  "불만족스러운"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_044",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 이제 마음이 놓여요.",
+                      "sentence_en":  "I feel relieved now.",
+                      "hint_chunk":  "I feel ~ now.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "relieved",
+                                                  "ko":  "마음이 놓이는"
+                                              },
+                                              {
+                                                  "en":  "at ease",
+                                                  "ko":  "편안한"
+                                              },
+                                              {
+                                                  "en":  "calm",
+                                                  "ko":  "차분한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_045",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 무서워요.",
+                      "sentence_en":  "I\u0027m scared.",
+                      "hint_chunk":  "I\u0027m ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "scared",
+                                                  "ko":  "무서운"
+                                              },
+                                              {
+                                                  "en":  "frightened",
+                                                  "ko":  "겁먹은"
+                                              },
+                                              {
+                                                  "en":  "terrified",
+                                                  "ko":  "극도로 무서운"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_046",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 좀 질투나요.",
+                      "sentence_en":  "I\u0027m a little jealous.",
+                      "hint_chunk":  "I\u0027m a little ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "jealous",
+                                                  "ko":  "질투나는"
+                                              },
+                                              {
+                                                  "en":  "envious",
+                                                  "ko":  "부러운"
+                                              },
+                                              {
+                                                  "en":  "insecure",
+                                                  "ko":  "불안정한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_047",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 헷갈려요.",
+                      "sentence_en":  "I\u0027m confused.",
+                      "hint_chunk":  "I\u0027m ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "confused",
+                                                  "ko":  "헷갈리는"
+                                              },
+                                              {
+                                                  "en":  "puzzled",
+                                                  "ko":  "당혹스러운"
+                                              },
+                                              {
+                                                  "en":  "lost",
+                                                  "ko":  "갈피를 못잡는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_048",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 정말 감사해요.",
+                      "sentence_en":  "I\u0027m really grateful.",
+                      "hint_chunk":  "I\u0027m really ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "grateful",
+                                                  "ko":  "감사한"
+                                              },
+                                              {
+                                                  "en":  "thankful",
+                                                  "ko":  "고마운"
+                                              },
+                                              {
+                                                  "en":  "appreciative",
+                                                  "ko":  "감사하는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_049",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 좀 짜증나요.",
+                      "sentence_en":  "I\u0027m a little annoyed.",
+                      "hint_chunk":  "I\u0027m a little ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "annoyed",
+                                                  "ko":  "짜증나는"
+                                              },
+                                              {
+                                                  "en":  "irritated",
+                                                  "ko":  "짜증난"
+                                              },
+                                              {
+                                                  "en":  "frustrated",
+                                                  "ko":  "답답한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_emotion_050",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저 완전 놀랐어요.",
+                      "sentence_en":  "I\u0027m so surprised.",
+                      "hint_chunk":  "I\u0027m so ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "surprised",
+                                                  "ko":  "놀란"
+                                              },
+                                              {
+                                                  "en":  "shocked",
+                                                  "ko":  "충격받은"
+                                              },
+                                              {
+                                                  "en":  "amazed",
+                                                  "ko":  "놀라운"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_031",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "여보세요?",
+                      "sentence_en":  "Hello?",
+                      "hint_chunk":  "Hello? (전화 받을 때)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "answer the phone",
+                                                  "ko":  "전화를 받다"
+                                              },
+                                              {
+                                                  "en":  "caller",
+                                                  "ko":  "전화 건 사람"
+                                              },
+                                              {
+                                                  "en":  "ring",
+                                                  "ko":  "울리다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_032",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "누구세요?",
+                      "sentence_en":  "Who\u0027s calling?",
+                      "hint_chunk":  "Who\u0027s calling?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "caller ID",
+                                                  "ko":  "발신자 표시"
+                                              },
+                                              {
+                                                  "en":  "unknown number",
+                                                  "ko":  "모르는 번호"
+                                              },
+                                              {
+                                                  "en":  "call",
+                                                  "ko":  "전화"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_033",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화 잘못 거셨어요.",
+                      "sentence_en":  "You have the wrong number.",
+                      "hint_chunk":  "You have the wrong ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "wrong number",
+                                                  "ko":  "잘못된 번호"
+                                              },
+                                              {
+                                                  "en":  "mistake",
+                                                  "ko":  "실수"
+                                              },
+                                              {
+                                                  "en":  "dial",
+                                                  "ko":  "전화를 걸다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_034",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "소리가 안 들려요.",
+                      "sentence_en":  "I can\u0027t hear you.",
+                      "hint_chunk":  "I can\u0027t hear ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "hear",
+                                                  "ko":  "들리다"
+                                              },
+                                              {
+                                                  "en":  "reception",
+                                                  "ko":  "수신 상태"
+                                              },
+                                              {
+                                                  "en":  "static",
+                                                  "ko":  "잡음"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_035",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "잠깐만요.",
+                      "sentence_en":  "Hold on a second.",
+                      "hint_chunk":  "Hold on a second.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "hold on",
+                                                  "ko":  "잠깐 기다리다"
+                                              },
+                                              {
+                                                  "en":  "one moment",
+                                                  "ko":  "잠시만"
+                                              },
+                                              {
+                                                  "en":  "wait",
+                                                  "ko":  "기다리다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_036",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "나중에 다시 전화할게요.",
+                      "sentence_en":  "I\u0027ll call you back later.",
+                      "hint_chunk":  "I\u0027ll ~ later.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "call back",
+                                                  "ko":  "다시 전화하다"
+                                              },
+                                              {
+                                                  "en":  "return a call",
+                                                  "ko":  "회신전화하다"
+                                              },
+                                              {
+                                                  "en":  "later",
+                                                  "ko":  "나중에"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_037",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "음성 메시지 남겨주세요.",
+                      "sentence_en":  "Please leave a voicemail.",
+                      "hint_chunk":  "Please leave a ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "voicemail",
+                                                  "ko":  "음성 메시지"
+                                              },
+                                              {
+                                                  "en":  "message",
+                                                  "ko":  "메시지"
+                                              },
+                                              {
+                                                  "en":  "beep",
+                                                  "ko":  "삐 소리"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_038",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화 끊을게요.",
+                      "sentence_en":  "I\u0027m going to hang up now.",
+                      "hint_chunk":  "I\u0027m going to ~ now.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "hang up",
+                                                  "ko":  "전화를 끊다"
+                                              },
+                                              {
+                                                  "en":  "end the call",
+                                                  "ko":  "통화를 종료하다"
+                                              },
+                                              {
+                                                  "en":  "disconnect",
+                                                  "ko":  "연결을 끊다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_039",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화 놓쳤어요.",
+                      "sentence_en":  "I missed your call.",
+                      "hint_chunk":  "I missed your ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "missed call",
+                                                  "ko":  "부재중 전화"
+                                              },
+                                              {
+                                                  "en":  "call",
+                                                  "ko":  "전화"
+                                              },
+                                              {
+                                                  "en":  "notification",
+                                                  "ko":  "알림"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_040",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "배터리가 없어요.",
+                      "sentence_en":  "My phone is dead.",
+                      "hint_chunk":  "My phone is ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "dead",
+                                                  "ko":  "방전된"
+                                              },
+                                              {
+                                                  "en":  "low battery",
+                                                  "ko":  "배터리 부족"
+                                              },
+                                              {
+                                                  "en":  "charger",
+                                                  "ko":  "충전기"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_041",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "스피커폰으로 할게요.",
+                      "sentence_en":  "I\u0027ll put you on speaker.",
+                      "hint_chunk":  "I\u0027ll put you on ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "speaker",
+                                                  "ko":  "스피커폰"
+                                              },
+                                              {
+                                                  "en":  "mute",
+                                                  "ko":  "음소거"
+                                              },
+                                              {
+                                                  "en":  "headphones",
+                                                  "ko":  "헤드폰"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_042",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "통화 중이에요.",
+                      "sentence_en":  "The line is busy.",
+                      "hint_chunk":  "The line is ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "busy",
+                                                  "ko":  "통화 중인"
+                                              },
+                                              {
+                                                  "en":  "engaged",
+                                                  "ko":  "통화 중인(영국식)"
+                                              },
+                                              {
+                                                  "en":  "available",
+                                                  "ko":  "통화 가능한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_043",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "문자로 보낼게요.",
+                      "sentence_en":  "I\u0027ll text you instead.",
+                      "hint_chunk":  "I\u0027ll ~ you instead.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "text",
+                                                  "ko":  "문자를 보내다"
+                                              },
+                                              {
+                                                  "en":  "message",
+                                                  "ko":  "메시지를 보내다"
+                                              },
+                                              {
+                                                  "en":  "email",
+                                                  "ko":  "이메일을 보내다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_044",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "국제전화 되나요?",
+                      "sentence_en":  "Can I make an international call?",
+                      "hint_chunk":  "Can I make an ~ call?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "international",
+                                                  "ko":  "국제"
+                                              },
+                                              {
+                                                  "en":  "local",
+                                                  "ko":  "국내"
+                                              },
+                                              {
+                                                  "en":  "collect call",
+                                                  "ko":  "수신자 부담 전화"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_045",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "벨소리를 못 들었어요.",
+                      "sentence_en":  "I didn\u0027t hear the ringtone.",
+                      "hint_chunk":  "I didn\u0027t hear the ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "ringtone",
+                                                  "ko":  "벨소리"
+                                              },
+                                              {
+                                                  "en":  "alarm",
+                                                  "ko":  "알람"
+                                              },
+                                              {
+                                                  "en":  "notification sound",
+                                                  "ko":  "알림음"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_046",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "휴대폰을 무음으로 해놨어요.",
+                      "sentence_en":  "I put my phone on silent.",
+                      "hint_chunk":  "I put my phone on ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "silent",
+                                                  "ko":  "무음"
+                                              },
+                                              {
+                                                  "en":  "vibrate",
+                                                  "ko":  "진동"
+                                              },
+                                              {
+                                                  "en":  "airplane mode",
+                                                  "ko":  "비행기 모드"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_047",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "다른 전화가 왔어요.",
+                      "sentence_en":  "I have another call coming in.",
+                      "hint_chunk":  "I have another ~ coming in.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "call",
+                                                  "ko":  "전화"
+                                              },
+                                              {
+                                                  "en":  "message",
+                                                  "ko":  "메시지"
+                                              },
+                                              {
+                                                  "en":  "notification",
+                                                  "ko":  "알림"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_048",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "영상통화 할 수 있어요?",
+                      "sentence_en":  "Can we video call?",
+                      "hint_chunk":  "Can we ~ call?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "video",
+                                                  "ko":  "영상"
+                                              },
+                                              {
+                                                  "en":  "voice",
+                                                  "ko":  "음성"
+                                              },
+                                              {
+                                                  "en":  "group",
+                                                  "ko":  "그룹"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_049",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "신호가 안 좋아요.",
+                      "sentence_en":  "The signal isn\u0027t good.",
+                      "hint_chunk":  "The ~ isn\u0027t good.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "signal",
+                                                  "ko":  "신호"
+                                              },
+                                              {
+                                                  "en":  "connection",
+                                                  "ko":  "연결"
+                                              },
+                                              {
+                                                  "en":  "reception",
+                                                  "ko":  "수신 상태"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_call_050",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "문자 확인 못 했어요.",
+                      "sentence_en":  "I didn\u0027t check my texts.",
+                      "hint_chunk":  "I didn\u0027t check my ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "texts",
+                                                  "ko":  "문자"
+                                              },
+                                              {
+                                                  "en":  "messages",
+                                                  "ko":  "메시지"
+                                              },
+                                              {
+                                                  "en":  "email",
+                                                  "ko":  "이메일"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_031",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "와이파이가 안 터져요.",
+                      "sentence_en":  "The wifi isn\u0027t working.",
+                      "hint_chunk":  "The ~ isn\u0027t working.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "wifi",
+                                                  "ko":  "와이파이"
+                                              },
+                                              {
+                                                  "en":  "connection",
+                                                  "ko":  "연결"
+                                              },
+                                              {
+                                                  "en":  "signal",
+                                                  "ko":  "신호"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_032",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "인터넷 연결이 안 돼요.",
+                      "sentence_en":  "I\u0027m not connected to the internet.",
+                      "hint_chunk":  "I\u0027m not connected to ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "internet",
+                                                  "ko":  "인터넷"
+                                              },
+                                              {
+                                                  "en":  "network",
+                                                  "ko":  "네트워크"
+                                              },
+                                              {
+                                                  "en":  "wifi",
+                                                  "ko":  "와이파이"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_033",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이 사진 태그해도 돼요?",
+                      "sentence_en":  "Can I tag you in this photo?",
+                      "hint_chunk":  "Can I tag you in ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "tag",
+                                                  "ko":  "태그하다"
+                                              },
+                                              {
+                                                  "en":  "photo",
+                                                  "ko":  "사진"
+                                              },
+                                              {
+                                                  "en":  "post",
+                                                  "ko":  "게시물"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_034",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이거 좋아요 눌렀어요.",
+                      "sentence_en":  "I liked this post.",
+                      "hint_chunk":  "I liked this ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "like",
+                                                  "ko":  "좋아요"
+                                              },
+                                              {
+                                                  "en":  "post",
+                                                  "ko":  "게시물"
+                                              },
+                                              {
+                                                  "en":  "comment",
+                                                  "ko":  "댓글"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_035",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "저 이 사람 팔로우해요.",
+                      "sentence_en":  "I follow this person.",
+                      "hint_chunk":  "I follow ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "follow",
+                                                  "ko":  "팔로우하다"
+                                              },
+                                              {
+                                                  "en":  "follower",
+                                                  "ko":  "팔로워"
+                                              },
+                                              {
+                                                  "en":  "account",
+                                                  "ko":  "계정"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_036",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "댓글 남겨주세요.",
+                      "sentence_en":  "Please leave a comment.",
+                      "hint_chunk":  "Please leave a ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "comment",
+                                                  "ko":  "댓글"
+                                              },
+                                              {
+                                                  "en":  "reply",
+                                                  "ko":  "답글"
+                                              },
+                                              {
+                                                  "en":  "review",
+                                                  "ko":  "후기"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_037",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이거 공유해도 돼요?",
+                      "sentence_en":  "Can I share this?",
+                      "hint_chunk":  "Can I share this?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "share",
+                                                  "ko":  "공유하다"
+                                              },
+                                              {
+                                                  "en":  "repost",
+                                                  "ko":  "재게시하다"
+                                              },
+                                              {
+                                                  "en":  "forward",
+                                                  "ko":  "전달하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_038",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "비밀번호를 잊어버렸어요.",
+                      "sentence_en":  "I forgot my password.",
+                      "hint_chunk":  "I forgot my ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "password",
+                                                  "ko":  "비밀번호"
+                                              },
+                                              {
+                                                  "en":  "username",
+                                                  "ko":  "사용자 이름"
+                                              },
+                                              {
+                                                  "en":  "login",
+                                                  "ko":  "로그인 정보"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_039",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "앱이 계속 멈춰요.",
+                      "sentence_en":  "The app keeps freezing.",
+                      "hint_chunk":  "The app keeps ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "freezing",
+                                                  "ko":  "멈추는"
+                                              },
+                                              {
+                                                  "en":  "crashing",
+                                                  "ko":  "다운되는"
+                                              },
+                                              {
+                                                  "en":  "lagging",
+                                                  "ko":  "느려지는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_040",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "알림을 꺼놨어요.",
+                      "sentence_en":  "I turned off notifications.",
+                      "hint_chunk":  "I turned off ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "notifications",
+                                                  "ko":  "알림"
+                                              },
+                                              {
+                                                  "en":  "sound",
+                                                  "ko":  "소리"
+                                              },
+                                              {
+                                                  "en":  "autoplay",
+                                                  "ko":  "자동재생"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_041",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이 사진 업로드할게요.",
+                      "sentence_en":  "I\u0027ll upload this photo.",
+                      "hint_chunk":  "I\u0027ll upload ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "upload",
+                                                  "ko":  "업로드하다"
+                                              },
+                                              {
+                                                  "en":  "file",
+                                                  "ko":  "파일"
+                                              },
+                                              {
+                                                  "en":  "photo",
+                                                  "ko":  "사진"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_042",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "파일을 다운로드했어요.",
+                      "sentence_en":  "I downloaded the file.",
+                      "hint_chunk":  "I downloaded ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "download",
+                                                  "ko":  "다운로드하다"
+                                              },
+                                              {
+                                                  "en":  "app",
+                                                  "ko":  "앱"
+                                              },
+                                              {
+                                                  "en":  "update",
+                                                  "ko":  "업데이트"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_043",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "화면 캡처해주세요.",
+                      "sentence_en":  "Can you take a screenshot?",
+                      "hint_chunk":  "Can you take a ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "screenshot",
+                                                  "ko":  "화면 캡처"
+                                              },
+                                              {
+                                                  "en":  "photo",
+                                                  "ko":  "사진"
+                                              },
+                                              {
+                                                  "en":  "video",
+                                                  "ko":  "영상"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_044",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "저 그 사람 차단했어요.",
+                      "sentence_en":  "I blocked that person.",
+                      "hint_chunk":  "I blocked ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "block",
+                                                  "ko":  "차단하다"
+                                              },
+                                              {
+                                                  "en":  "report",
+                                                  "ko":  "신고하다"
+                                              },
+                                              {
+                                                  "en":  "mute",
+                                                  "ko":  "음소거하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_045",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "팔로우 취소했어요.",
+                      "sentence_en":  "I unfollowed them.",
+                      "hint_chunk":  "I unfollowed ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "unfollow",
+                                                  "ko":  "팔로우 취소하다"
+                                              },
+                                              {
+                                                  "en":  "follow",
+                                                  "ko":  "팔로우하다"
+                                              },
+                                              {
+                                                  "en":  "remove",
+                                                  "ko":  "삭제하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_046",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "스토리 봤어요?",
+                      "sentence_en":  "Did you see my story?",
+                      "hint_chunk":  "Did you see my ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "story",
+                                                  "ko":  "스토리"
+                                              },
+                                              {
+                                                  "en":  "post",
+                                                  "ko":  "게시물"
+                                              },
+                                              {
+                                                  "en":  "update",
+                                                  "ko":  "업데이트"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_047",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "저 지금 라이브 방송해요.",
+                      "sentence_en":  "I\u0027m livestreaming right now.",
+                      "hint_chunk":  "I\u0027m ~ing right now.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "livestream",
+                                                  "ko":  "라이브 방송하다"
+                                              },
+                                              {
+                                                  "en":  "broadcast",
+                                                  "ko":  "방송하다"
+                                              },
+                                              {
+                                                  "en":  "stream",
+                                                  "ko":  "스트리밍하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_048",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이 해시태그 인기 많아요.",
+                      "sentence_en":  "This hashtag is really popular.",
+                      "hint_chunk":  "This ~ is really popular.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "hashtag",
+                                                  "ko":  "해시태그"
+                                              },
+                                              {
+                                                  "en":  "trend",
+                                                  "ko":  "트렌드"
+                                              },
+                                              {
+                                                  "en":  "meme",
+                                                  "ko":  "밈"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_049",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이 영상 완전 떡상했어요.",
+                      "sentence_en":  "This video totally blew up.",
+                      "hint_chunk":  "This ~ totally blew up.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "video",
+                                                  "ko":  "영상"
+                                              },
+                                              {
+                                                  "en":  "post",
+                                                  "ko":  "게시물"
+                                              },
+                                              {
+                                                  "en":  "trend",
+                                                  "ko":  "트렌드"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_sns_050",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "로딩이 너무 느려요.",
+                      "sentence_en":  "It\u0027s buffering so slowly.",
+                      "hint_chunk":  "It\u0027s ~ so slowly.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "buffering",
+                                                  "ko":  "로딩되는"
+                                              },
+                                              {
+                                                  "en":  "loading",
+                                                  "ko":  "불러오는"
+                                              },
+                                              {
+                                                  "en":  "streaming",
+                                                  "ko":  "스트리밍되는"
                                               }
                                           ]
                   }

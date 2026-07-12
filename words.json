@@ -1,5 +1,5 @@
 {
-    "words_version":  "2026-07-12-02",
+    "words_version":  "2026-07-12-03",
     "words":  [
                   {
                       "id":  "w_beg_verb_001",
@@ -1143,6 +1143,816 @@
                       "level":  "int",
                       "example_kr":  "결정하기 전에 전문가랑 상담해보는 게 좋겠어.",
                       "example_en":  "It\u0027d be good to consult an expert before deciding."
+                  },
+                  {
+                      "id":  "w_beg_noun_003",
+                      "word_en":  "schedule",
+                      "word_kr":  "일정",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이번 주 일정이 너무 빡빡해.",
+                      "example_en":  "My schedule is really packed this week."
+                  },
+                  {
+                      "id":  "w_beg_noun_004",
+                      "word_en":  "appointment",
+                      "word_kr":  "예약",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "치과 예약을 깜빡했어.",
+                      "example_en":  "I forgot about my dentist appointment."
+                  },
+                  {
+                      "id":  "w_beg_noun_005",
+                      "word_en":  "decision",
+                      "word_kr":  "결정",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이건 정말 어려운 결정이야.",
+                      "example_en":  "This is such a difficult decision."
+                  },
+                  {
+                      "id":  "w_beg_noun_006",
+                      "word_en":  "situation",
+                      "word_kr":  "상황",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "지금 상황이 좀 복잡해.",
+                      "example_en":  "The situation right now is a bit complicated."
+                  },
+                  {
+                      "id":  "w_beg_noun_007",
+                      "word_en":  "problem",
+                      "word_kr":  "문제",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "그게 진짜 문제인 것 같아.",
+                      "example_en":  "That seems to be the real problem."
+                  },
+                  {
+                      "id":  "w_beg_noun_008",
+                      "word_en":  "solution",
+                      "word_kr":  "해결책",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이 문제엔 다른 해결책이 필요해.",
+                      "example_en":  "This problem needs a different solution."
+                  },
+                  {
+                      "id":  "w_beg_noun_009",
+                      "word_en":  "reason",
+                      "word_kr":  "이유",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "네가 화난 이유를 알 것 같아.",
+                      "example_en":  "I think I know the reason you\u0027re upset."
+                  },
+                  {
+                      "id":  "w_beg_noun_010",
+                      "word_en":  "result",
+                      "word_kr":  "결과",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "시험 결과가 아직 안 나왔어.",
+                      "example_en":  "The exam results haven\u0027t come out yet."
+                  },
+                  {
+                      "id":  "w_beg_noun_011",
+                      "word_en":  "experience",
+                      "word_kr":  "경험",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "정말 잊지 못할 경험이었어.",
+                      "example_en":  "That was such an unforgettable experience."
+                  },
+                  {
+                      "id":  "w_beg_noun_012",
+                      "word_en":  "mistake",
+                      "word_kr":  "실수",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "누구나 실수는 하는 거야.",
+                      "example_en":  "Everyone makes mistakes sometimes."
+                  },
+                  {
+                      "id":  "w_beg_noun_013",
+                      "word_en":  "chance",
+                      "word_kr":  "기회",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이번이 마지막 기회일지도 몰라.",
+                      "example_en":  "This might be your last chance."
+                  },
+                  {
+                      "id":  "w_beg_noun_014",
+                      "word_en":  "idea",
+                      "word_kr":  "아이디어",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "괜찮은 아이디어가 하나 떠올랐어.",
+                      "example_en":  "I just came up with a good idea."
+                  },
+                  {
+                      "id":  "w_beg_noun_015",
+                      "word_en":  "plan",
+                      "word_kr":  "계획",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "주말 계획 있어?",
+                      "example_en":  "Do you have any plans for the weekend?"
+                  },
+                  {
+                      "id":  "w_beg_noun_016",
+                      "word_en":  "habit",
+                      "word_kr":  "습관",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "그거 진짜 안 좋은 습관이야.",
+                      "example_en":  "That\u0027s really a bad habit."
+                  },
+                  {
+                      "id":  "w_beg_noun_017",
+                      "word_en":  "memory",
+                      "word_kr":  "추억",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "여기 오니까 옛날 추억이 떠오르네.",
+                      "example_en":  "Coming here brings back old memories."
+                  },
+                  {
+                      "id":  "w_beg_noun_018",
+                      "word_en":  "relationship",
+                      "word_kr":  "관계",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "우리 관계가 요즘 좀 서먹해.",
+                      "example_en":  "Our relationship has felt a bit distant lately."
+                  },
+                  {
+                      "id":  "w_beg_noun_019",
+                      "word_en":  "favor",
+                      "word_kr":  "부탁",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "부탁 하나만 들어줄 수 있어?",
+                      "example_en":  "Can you do me a favor?"
+                  },
+                  {
+                      "id":  "w_beg_noun_020",
+                      "word_en":  "advice",
+                      "word_kr":  "조언",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "조언 좀 해줄 수 있어?",
+                      "example_en":  "Can you give me some advice?"
+                  },
+                  {
+                      "id":  "w_beg_noun_021",
+                      "word_en":  "rumor",
+                      "word_kr":  "소문",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "그건 그냥 소문일 뿐이야.",
+                      "example_en":  "That\u0027s just a rumor."
+                  },
+                  {
+                      "id":  "w_beg_noun_022",
+                      "word_en":  "secret",
+                      "word_kr":  "비밀",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이거 우리 둘만의 비밀로 하자.",
+                      "example_en":  "Let\u0027s keep this a secret between us."
+                  },
+                  {
+                      "id":  "w_beg_noun_023",
+                      "word_en":  "excuse",
+                      "word_kr":  "핑계",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "핑계 대지 말고 그냥 사과해.",
+                      "example_en":  "Stop making excuses and just apologize."
+                  },
+                  {
+                      "id":  "w_beg_noun_024",
+                      "word_en":  "trouble",
+                      "word_kr":  "곤란",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이거 때문에 곤란해질 것 같아.",
+                      "example_en":  "I think this is going to cause trouble."
+                  },
+                  {
+                      "id":  "w_beg_noun_025",
+                      "word_en":  "effort",
+                      "word_kr":  "노력",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "네 노력이 헛되지 않을 거야.",
+                      "example_en":  "Your effort won\u0027t go to waste."
+                  },
+                  {
+                      "id":  "w_beg_noun_026",
+                      "word_en":  "progress",
+                      "word_kr":  "진척",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 프로젝트 진척이 어때?",
+                      "example_en":  "How\u0027s the progress on the project lately?"
+                  },
+                  {
+                      "id":  "w_beg_noun_027",
+                      "word_en":  "goal",
+                      "word_kr":  "목표",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "올해 목표가 뭐야?",
+                      "example_en":  "What\u0027s your goal for this year?"
+                  },
+                  {
+                      "id":  "w_beg_noun_028",
+                      "word_en":  "budget",
+                      "word_kr":  "예산",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이번 여행 예산이 얼마야?",
+                      "example_en":  "What\u0027s the budget for this trip?"
+                  },
+                  {
+                      "id":  "w_beg_noun_029",
+                      "word_en":  "rent",
+                      "word_kr":  "월세",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "월세가 또 올랐어.",
+                      "example_en":  "The rent went up again."
+                  },
+                  {
+                      "id":  "w_beg_noun_030",
+                      "word_en":  "bill",
+                      "word_kr":  "청구서",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이번 달 청구서가 생각보다 많이 나왔어.",
+                      "example_en":  "This month\u0027s bill came out higher than expected."
+                  },
+                  {
+                      "id":  "w_beg_noun_031",
+                      "word_en":  "traffic",
+                      "word_kr":  "교통(체증)",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "출근길 교통이 장난 아니었어.",
+                      "example_en":  "The traffic on the way to work was crazy."
+                  },
+                  {
+                      "id":  "w_beg_noun_032",
+                      "word_en":  "weather",
+                      "word_kr":  "날씨",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 날씨가 진짜 변덕스러워.",
+                      "example_en":  "The weather\u0027s been so unpredictable lately."
+                  },
+                  {
+                      "id":  "w_beg_noun_033",
+                      "word_en":  "neighbor",
+                      "word_kr":  "이웃",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "옆집 이웃이 되게 친절해.",
+                      "example_en":  "My neighbor is really friendly."
+                  },
+                  {
+                      "id":  "w_beg_noun_034",
+                      "word_en":  "roommate",
+                      "word_kr":  "룸메이트",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "룸메이트랑 요즘 사이가 안 좋아.",
+                      "example_en":  "Things have been rocky with my roommate lately."
+                  },
+                  {
+                      "id":  "w_beg_noun_035",
+                      "word_en":  "coworker",
+                      "word_kr":  "동료",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "그 동료랑 점심 먹으러 갈 거야.",
+                      "example_en":  "I\u0027m going to lunch with a coworker."
+                  },
+                  {
+                      "id":  "w_beg_noun_036",
+                      "word_en":  "boss",
+                      "word_kr":  "상사",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "상사가 오늘 기분이 안 좋아 보여.",
+                      "example_en":  "My boss seems to be in a bad mood today."
+                  },
+                  {
+                      "id":  "w_beg_noun_037",
+                      "word_en":  "customer",
+                      "word_kr":  "손님",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "그 손님이 계속 불평을 했어.",
+                      "example_en":  "That customer kept complaining."
+                  },
+                  {
+                      "id":  "w_beg_noun_038",
+                      "word_en":  "stranger",
+                      "word_kr":  "낯선 사람",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "낯선 사람이 자꾸 말을 걸었어.",
+                      "example_en":  "A stranger kept trying to talk to me."
+                  },
+                  {
+                      "id":  "w_beg_noun_039",
+                      "word_en":  "crowd",
+                      "word_kr":  "인파",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "주말이라 인파가 엄청났어.",
+                      "example_en":  "The crowd was huge because it was the weekend."
+                  },
+                  {
+                      "id":  "w_beg_noun_040",
+                      "word_en":  "meeting",
+                      "word_kr":  "회의",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "오후에 회의가 하나 더 있어.",
+                      "example_en":  "I have one more meeting this afternoon."
+                  },
+                  {
+                      "id":  "w_beg_noun_041",
+                      "word_en":  "interview",
+                      "word_kr":  "면접",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "다음 주에 면접이 잡혔어.",
+                      "example_en":  "I have an interview scheduled for next week."
+                  },
+                  {
+                      "id":  "w_beg_noun_042",
+                      "word_en":  "presentation",
+                      "word_kr":  "발표",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "발표 준비하느라 밤을 새웠어.",
+                      "example_en":  "I stayed up all night preparing for the presentation."
+                  },
+                  {
+                      "id":  "w_beg_noun_043",
+                      "word_en":  "paperwork",
+                      "word_kr":  "서류 작업",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "서류 작업이 아직도 안 끝났어.",
+                      "example_en":  "The paperwork still isn\u0027t finished."
+                  },
+                  {
+                      "id":  "w_beg_noun_044",
+                      "word_en":  "contract",
+                      "word_kr":  "계약(서)",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "계약서에 서명하기 전에 다시 읽어봐.",
+                      "example_en":  "Read the contract again before you sign it."
+                  },
+                  {
+                      "id":  "w_beg_noun_045",
+                      "word_en":  "salary",
+                      "word_kr":  "월급",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "월급이 통장에 들어왔어.",
+                      "example_en":  "My salary just came into my account."
+                  },
+                  {
+                      "id":  "w_beg_noun_046",
+                      "word_en":  "raise",
+                      "word_kr":  "급여 인상",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이번에 급여 인상 받았어.",
+                      "example_en":  "I got a raise this time."
+                  },
+                  {
+                      "id":  "w_beg_noun_047",
+                      "word_en":  "promotion",
+                      "word_kr":  "승진",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람 이번에 승진했대.",
+                      "example_en":  "I heard he got a promotion."
+                  },
+                  {
+                      "id":  "w_beg_noun_048",
+                      "word_en":  "vacation",
+                      "word_kr":  "휴가",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이번 여름엔 긴 휴가를 갈 거야.",
+                      "example_en":  "I\u0027m taking a long vacation this summer."
+                  },
+                  {
+                      "id":  "w_beg_noun_049",
+                      "word_en":  "holiday",
+                      "word_kr":  "공휴일",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "다음 주 월요일이 공휴일이야.",
+                      "example_en":  "Next Monday is a holiday."
+                  },
+                  {
+                      "id":  "w_beg_noun_050",
+                      "word_en":  "weekend",
+                      "word_kr":  "주말",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이번 주말에 뭐 할 거야?",
+                      "example_en":  "What are you doing this weekend?"
+                  },
+                  {
+                      "id":  "w_beg_noun_051",
+                      "word_en":  "errand",
+                      "word_kr":  "볼일",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "잠깐 나가서 볼일 좀 보고 올게.",
+                      "example_en":  "I\u0027m going to run an errand real quick."
+                  },
+                  {
+                      "id":  "w_beg_noun_052",
+                      "word_en":  "grocery",
+                      "word_kr":  "장보기",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "퇴근하고 장보러 가야 해.",
+                      "example_en":  "I need to go grocery shopping after work."
+                  },
+                  {
+                      "id":  "w_beg_noun_053",
+                      "word_en":  "laundry",
+                      "word_kr":  "빨래",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "빨래가 산더미처럼 쌓였어.",
+                      "example_en":  "My laundry is piling up like crazy."
+                  },
+                  {
+                      "id":  "w_beg_noun_054",
+                      "word_en":  "mess",
+                      "word_kr":  "엉망인 상태",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "방이 완전 엉망이네.",
+                      "example_en":  "This room is such a mess."
+                  },
+                  {
+                      "id":  "w_beg_noun_055",
+                      "word_en":  "noise",
+                      "word_kr":  "소음",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "밖에서 나는 소음 때문에 잠을 못 잤어.",
+                      "example_en":  "I couldn\u0027t sleep because of the noise outside."
+                  },
+                  {
+                      "id":  "w_beg_noun_056",
+                      "word_en":  "neighborhood",
+                      "word_kr":  "동네",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이 동네 되게 조용하고 좋아.",
+                      "example_en":  "This neighborhood is really quiet and nice."
+                  },
+                  {
+                      "id":  "w_beg_noun_057",
+                      "word_en":  "landlord",
+                      "word_kr":  "집주인",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "집주인한테 수리 요청했어.",
+                      "example_en":  "I asked the landlord to fix it."
+                  },
+                  {
+                      "id":  "w_beg_noun_058",
+                      "word_en":  "tenant",
+                      "word_kr":  "세입자",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "그 건물엔 세입자가 별로 없어.",
+                      "example_en":  "There aren\u0027t many tenants in that building."
+                  },
+                  {
+                      "id":  "w_beg_noun_059",
+                      "word_en":  "discount",
+                      "word_kr":  "할인",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이거 할인 받을 수 있어?",
+                      "example_en":  "Can I get a discount on this?"
+                  },
+                  {
+                      "id":  "w_beg_noun_060",
+                      "word_en":  "refund",
+                      "word_kr":  "환불",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "환불 받을 수 있는지 물어봤어.",
+                      "example_en":  "I asked if I could get a refund."
+                  },
+                  {
+                      "id":  "w_beg_noun_061",
+                      "word_en":  "receipt",
+                      "word_kr":  "영수증",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "영수증 좀 챙겨줄래?",
+                      "example_en":  "Can you grab the receipt for me?"
+                  },
+                  {
+                      "id":  "w_beg_noun_062",
+                      "word_en":  "warranty",
+                      "word_kr":  "보증(서)",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이거 아직 보증 기간 안 지났어.",
+                      "example_en":  "This is still under warranty."
+                  },
+                  {
+                      "id":  "w_int_noun_001",
+                      "word_en":  "consequence",
+                      "word_kr":  "결과",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "네 행동에는 항상 결과가 따르는 법이야.",
+                      "example_en":  "Every action you take has a consequence."
+                  },
+                  {
+                      "id":  "w_int_noun_002",
+                      "word_en":  "circumstance",
+                      "word_kr":  "상황",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그런 상황이었다면 나도 똑같이 했을 거야.",
+                      "example_en":  "Given the circumstances, I would\u0027ve done the same thing."
+                  },
+                  {
+                      "id":  "w_int_noun_003",
+                      "word_en":  "perspective",
+                      "word_kr":  "관점",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "네 관점에서 보면 이해가 좀 되네.",
+                      "example_en":  "From your perspective, I can understand it a bit."
+                  },
+                  {
+                      "id":  "w_int_noun_004",
+                      "word_en":  "assumption",
+                      "word_kr":  "추측",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그건 그냥 네 추측일 뿐이잖아.",
+                      "example_en":  "That\u0027s just an assumption on your part."
+                  },
+                  {
+                      "id":  "w_int_noun_005",
+                      "word_en":  "impression",
+                      "word_kr":  "인상",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 사람 첫인상이 되게 좋았어.",
+                      "example_en":  "My first impression of him was really good."
+                  },
+                  {
+                      "id":  "w_int_noun_006",
+                      "word_en":  "reputation",
+                      "word_kr":  "평판",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 회사는 평판이 꽤 좋은 편이야.",
+                      "example_en":  "That company has a fairly good reputation."
+                  },
+                  {
+                      "id":  "w_int_noun_007",
+                      "word_en":  "priority",
+                      "word_kr":  "우선순위",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "지금은 건강이 제일 우선순위야.",
+                      "example_en":  "Health is my top priority right now."
+                  },
+                  {
+                      "id":  "w_int_noun_008",
+                      "word_en":  "responsibility",
+                      "word_kr":  "책임",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 일은 네 책임이 아니야.",
+                      "example_en":  "This isn\u0027t your responsibility."
+                  },
+                  {
+                      "id":  "w_int_noun_009",
+                      "word_en":  "commitment",
+                      "word_kr":  "헌신",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 정도 헌신은 예상 못 했어.",
+                      "example_en":  "I didn\u0027t expect this level of commitment."
+                  },
+                  {
+                      "id":  "w_int_noun_010",
+                      "word_en":  "dilemma",
+                      "word_kr":  "딜레마",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "둘 다 포기 못 해서 딜레마에 빠졌어.",
+                      "example_en":  "I\u0027m stuck in a dilemma because I can\u0027t give up either one."
+                  },
+                  {
+                      "id":  "w_int_noun_011",
+                      "word_en":  "controversy",
+                      "word_kr":  "논란",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 발언이 큰 논란을 일으켰어.",
+                      "example_en":  "That comment sparked a lot of controversy."
+                  },
+                  {
+                      "id":  "w_int_noun_012",
+                      "word_en":  "tendency",
+                      "word_kr":  "경향",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 뭐든 미루는 경향이 있어.",
+                      "example_en":  "He has a tendency to put things off."
+                  },
+                  {
+                      "id":  "w_int_noun_013",
+                      "word_en":  "contradiction",
+                      "word_kr":  "모순",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "네 말에는 모순이 좀 있어.",
+                      "example_en":  "There\u0027s a bit of a contradiction in what you said."
+                  },
+                  {
+                      "id":  "w_int_noun_014",
+                      "word_en":  "context",
+                      "word_kr":  "맥락",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "맥락 없이 그 말만 들으면 오해할 수 있어.",
+                      "example_en":  "Without context, that remark can be easily misunderstood."
+                  },
+                  {
+                      "id":  "w_int_noun_015",
+                      "word_en":  "evidence",
+                      "word_kr":  "증거",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "확실한 증거가 없으면 아무도 안 믿을 거야.",
+                      "example_en":  "No one will believe it without solid evidence."
+                  },
+                  {
+                      "id":  "w_int_noun_016",
+                      "word_en":  "criteria",
+                      "word_kr":  "기준",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "선발 기준이 정확히 뭐야?",
+                      "example_en":  "What exactly are the selection criteria?"
+                  },
+                  {
+                      "id":  "w_int_noun_017",
+                      "word_en":  "consensus",
+                      "word_kr":  "합의",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "우리 팀은 아직 합의에 이르지 못했어.",
+                      "example_en":  "Our team hasn\u0027t reached a consensus yet."
+                  },
+                  {
+                      "id":  "w_int_noun_018",
+                      "word_en":  "initiative",
+                      "word_kr":  "주도권",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 사람이 먼저 나서서 프로젝트를 시작했어.",
+                      "example_en":  "She took the initiative to start the project."
+                  },
+                  {
+                      "id":  "w_int_noun_019",
+                      "word_en":  "incentive",
+                      "word_kr":  "동기부여",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "더 열심히 할 동기부여가 필요해.",
+                      "example_en":  "I need some incentive to work harder."
+                  },
+                  {
+                      "id":  "w_int_noun_020",
+                      "word_en":  "drawback",
+                      "word_kr":  "단점",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 계획엔 확실한 단점이 하나 있어.",
+                      "example_en":  "There\u0027s one clear drawback to this plan."
+                  },
+                  {
+                      "id":  "w_int_noun_021",
+                      "word_en":  "advantage",
+                      "word_kr":  "장점",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "일찍 시작하면 확실히 유리해.",
+                      "example_en":  "Starting early gives you a real advantage."
+                  },
+                  {
+                      "id":  "w_int_noun_022",
+                      "word_en":  "disadvantage",
+                      "word_kr":  "단점",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "혼자 일하면 이런 단점도 있어.",
+                      "example_en":  "Working alone has this kind of disadvantage too."
+                  },
+                  {
+                      "id":  "w_int_noun_023",
+                      "word_en":  "outcome",
+                      "word_kr":  "결과",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "결과가 어떻게 나올지 아직 몰라.",
+                      "example_en":  "We still don\u0027t know what the outcome will be."
+                  },
+                  {
+                      "id":  "w_int_noun_024",
+                      "word_en":  "impact",
+                      "word_kr":  "영향",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 결정이 팀 전체에 영향을 줄 거야.",
+                      "example_en":  "This decision will have an impact on the whole team."
+                  },
+                  {
+                      "id":  "w_int_noun_025",
+                      "word_en":  "burden",
+                      "word_kr":  "부담",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "너한테 부담 주고 싶지 않아.",
+                      "example_en":  "I don\u0027t want to be a burden to you."
+                  },
+                  {
+                      "id":  "w_int_noun_026",
+                      "word_en":  "obligation",
+                      "word_kr":  "의무",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이건 의무라서 어쩔 수 없이 해야 해.",
+                      "example_en":  "It\u0027s an obligation, so I have no choice but to do it."
+                  },
+                  {
+                      "id":  "w_int_noun_027",
+                      "word_en":  "privilege",
+                      "word_kr":  "특권",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그런 대우를 받는 건 특권이지.",
+                      "example_en":  "Getting treated like that is a privilege."
+                  },
+                  {
+                      "id":  "w_int_noun_028",
+                      "word_en":  "flaw",
+                      "word_kr":  "결함",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 계획에는 치명적인 결함이 하나 있어.",
+                      "example_en":  "There\u0027s a fatal flaw in that plan."
+                  },
+                  {
+                      "id":  "w_int_noun_029",
+                      "word_en":  "loophole",
+                      "word_kr":  "허점",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "계약서에 허점이 하나 있는 것 같아.",
+                      "example_en":  "I think there\u0027s a loophole in the contract."
+                  },
+                  {
+                      "id":  "w_int_noun_030",
+                      "word_en":  "setback",
+                      "word_kr":  "차질",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이번 실패는 그냥 작은 차질일 뿐이야.",
+                      "example_en":  "This failure is just a minor setback."
                   }
               ]
 }

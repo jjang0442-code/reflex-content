@@ -1,5 +1,5 @@
 {
-    "content_version":  "2026-07-12-01",
+    "content_version":  "2026-07-12-02",
     "cards":  [
                   {
                       "id":  "beg_talk_001",
@@ -13328,6 +13328,926 @@
                                               {
                                                   "en":  "day",
                                                   "ko":  "하루"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_231",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "저 자전거로 출퇴근해요.",
+                      "sentence_en":  "I bike to work.",
+                      "hint_chunk":  "I bike to ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "work",
+                                                  "ko":  "회사"
+                                              },
+                                              {
+                                                  "en":  "school",
+                                                  "ko":  "학교"
+                                              },
+                                              {
+                                                  "en":  "the gym",
+                                                  "ko":  "헬스장"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_232",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "저 요즘 달리기 시작했어요.",
+                      "sentence_en":  "I started running recently.",
+                      "hint_chunk":  "I started ~ing recently.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "running",
+                                                  "ko":  "달리기"
+                                              },
+                                              {
+                                                  "en":  "swimming",
+                                                  "ko":  "수영"
+                                              },
+                                              {
+                                                  "en":  "cycling",
+                                                  "ko":  "자전거 타기"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_233",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "마라톤 준비하고 있어요.",
+                      "sentence_en":  "I\u0027m training for a marathon.",
+                      "hint_chunk":  "I\u0027m training for ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "a marathon",
+                                                  "ko":  "마라톤"
+                                              },
+                                              {
+                                                  "en":  "a race",
+                                                  "ko":  "경주"
+                                              },
+                                              {
+                                                  "en":  "a competition",
+                                                  "ko":  "대회"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_234",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "저 홈트레이닝 해요.",
+                      "sentence_en":  "I work out at home.",
+                      "hint_chunk":  "I work out ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "at home",
+                                                  "ko":  "집에서"
+                                              },
+                                              {
+                                                  "en":  "at the gym",
+                                                  "ko":  "헬스장에서"
+                                              },
+                                              {
+                                                  "en":  "outside",
+                                                  "ko":  "밖에서"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_235",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "저 아침에 물 한 잔 마셔요.",
+                      "sentence_en":  "I drink a glass of water every morning.",
+                      "hint_chunk":  "I drink ~ every morning.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "a glass of water",
+                                                  "ko":  "물 한 잔"
+                                              },
+                                              {
+                                                  "en":  "coffee",
+                                                  "ko":  "커피"
+                                              },
+                                              {
+                                                  "en":  "tea",
+                                                  "ko":  "차"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_236",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "저 요즘 잠을 잘 못 자요.",
+                      "sentence_en":  "I\u0027m not sleeping well these days.",
+                      "hint_chunk":  "I\u0027m not ~ing well these days.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "sleeping",
+                                                  "ko":  "자다"
+                                              },
+                                              {
+                                                  "en":  "eating",
+                                                  "ko":  "먹다"
+                                              },
+                                              {
+                                                  "en":  "feeling",
+                                                  "ko":  "느끼다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_237",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "코 골아요?",
+                      "sentence_en":  "Do you snore?",
+                      "hint_chunk":  "Do you ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "snore",
+                                                  "ko":  "코를 골다"
+                                              },
+                                              {
+                                                  "en":  "talk in your sleep",
+                                                  "ko":  "잠꼬대하다"
+                                              },
+                                              {
+                                                  "en":  "sleepwalk",
+                                                  "ko":  "몽유병이 있다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_238",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "저 감기 걸렸어요.",
+                      "sentence_en":  "I caught a cold.",
+                      "hint_chunk":  "I caught a ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "cold",
+                                                  "ko":  "감기"
+                                              },
+                                              {
+                                                  "en":  "fever",
+                                                  "ko":  "열"
+                                              },
+                                              {
+                                                  "en":  "cough",
+                                                  "ko":  "기침"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_239",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "콧물이 나요.",
+                      "sentence_en":  "I have a runny nose.",
+                      "hint_chunk":  "I have a ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "runny nose",
+                                                  "ko":  "콧물"
+                                              },
+                                              {
+                                                  "en":  "sore throat",
+                                                  "ko":  "목 아픔"
+                                              },
+                                              {
+                                                  "en":  "headache",
+                                                  "ko":  "두통"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_240",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "목이 아파요.",
+                      "sentence_en":  "My throat hurts.",
+                      "hint_chunk":  "My ~ hurts.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "throat",
+                                                  "ko":  "목"
+                                              },
+                                              {
+                                                  "en":  "stomach",
+                                                  "ko":  "배"
+                                              },
+                                              {
+                                                  "en":  "head",
+                                                  "ko":  "머리"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_241",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "저 우산 안 가져왔어요.",
+                      "sentence_en":  "I didn\u0027t bring my umbrella.",
+                      "hint_chunk":  "I didn\u0027t bring my ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "umbrella",
+                                                  "ko":  "우산"
+                                              },
+                                              {
+                                                  "en":  "jacket",
+                                                  "ko":  "자켓"
+                                              },
+                                              {
+                                                  "en":  "wallet",
+                                                  "ko":  "지갑"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_242",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "선크림 발랐어요?",
+                      "sentence_en":  "Did you put on sunscreen?",
+                      "hint_chunk":  "Did you put on ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "sunscreen",
+                                                  "ko":  "선크림"
+                                              },
+                                              {
+                                                  "en":  "lotion",
+                                                  "ko":  "로션"
+                                              },
+                                              {
+                                                  "en":  "a jacket",
+                                                  "ko":  "자켓"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_243",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "저 햇볕에 탔어요.",
+                      "sentence_en":  "I got sunburned.",
+                      "hint_chunk":  "I got ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "sunburned",
+                                                  "ko":  "햇볕에 탄"
+                                              },
+                                              {
+                                                  "en":  "a tan",
+                                                  "ko":  "태닝된"
+                                              },
+                                              {
+                                                  "en":  "a bruise",
+                                                  "ko":  "멍든"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_244",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "이 방 좀 꾸미고 싶어요.",
+                      "sentence_en":  "I want to decorate this room.",
+                      "hint_chunk":  "I want to decorate ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "this room",
+                                                  "ko":  "이 방"
+                                              },
+                                              {
+                                                  "en":  "my desk",
+                                                  "ko":  "내 책상"
+                                              },
+                                              {
+                                                  "en":  "the house",
+                                                  "ko":  "집"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_245",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "저 이거 직접 고쳤어요.",
+                      "sentence_en":  "I fixed this myself.",
+                      "hint_chunk":  "I fixed ~ myself.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "this",
+                                                  "ko":  "이것"
+                                              },
+                                              {
+                                                  "en":  "my bike",
+                                                  "ko":  "내 자전거"
+                                              },
+                                              {
+                                                  "en":  "the chair",
+                                                  "ko":  "의자"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_246",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "컴퓨터가 갑자기 꺼졌어요.",
+                      "sentence_en":  "My computer just shut off.",
+                      "hint_chunk":  "My ~ just shut off.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "computer",
+                                                  "ko":  "컴퓨터"
+                                              },
+                                              {
+                                                  "en":  "phone",
+                                                  "ko":  "전화"
+                                              },
+                                              {
+                                                  "en":  "TV",
+                                                  "ko":  "TV"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_247",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "프린터가 고장났어요.",
+                      "sentence_en":  "The printer is broken.",
+                      "hint_chunk":  "The ~ is broken.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "printer",
+                                                  "ko":  "프린터"
+                                              },
+                                              {
+                                                  "en":  "washing machine",
+                                                  "ko":  "세탁기"
+                                              },
+                                              {
+                                                  "en":  "remote",
+                                                  "ko":  "리모컨"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_248",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "이 노래 콘서트에서 들었어요.",
+                      "sentence_en":  "I heard this song at a concert.",
+                      "hint_chunk":  "I heard this ~ at a concert.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "song",
+                                                  "ko":  "노래"
+                                              },
+                                              {
+                                                  "en":  "band",
+                                                  "ko":  "밴드"
+                                              },
+                                              {
+                                                  "en":  "music",
+                                                  "ko":  "음악"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_249",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "저 팝콘 진짜 좋아해요.",
+                      "sentence_en":  "I love popcorn.",
+                      "hint_chunk":  "I love ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "popcorn",
+                                                  "ko":  "팝콘"
+                                              },
+                                              {
+                                                  "en":  "chocolate",
+                                                  "ko":  "초콜릿"
+                                              },
+                                              {
+                                                  "en":  "snacks",
+                                                  "ko":  "간식"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_talk_250",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "일상 스몰토크",
+                      "sentence_ko":  "우리 팀 이겼어요!",
+                      "sentence_en":  "Our team won!",
+                      "hint_chunk":  "Our ~ won!",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "team",
+                                                  "ko":  "팀"
+                                              },
+                                              {
+                                                  "en":  "school",
+                                                  "ko":  "학교"
+                                              },
+                                              {
+                                                  "en":  "group",
+                                                  "ko":  "그룹"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_031",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "병원 예약하고 싶어요.",
+                      "sentence_en":  "I\u0027d like to make a doctor\u0027s appointment.",
+                      "hint_chunk":  "I\u0027d like to make a ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "doctor\u0027s appointment",
+                                                  "ko":  "병원 예약"
+                                              },
+                                              {
+                                                  "en":  "reservation",
+                                                  "ko":  "예약"
+                                              },
+                                              {
+                                                  "en":  "checkup",
+                                                  "ko":  "검진"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_032",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "오늘 진료 되나요?",
+                      "sentence_en":  "Can I see a doctor today?",
+                      "hint_chunk":  "Can I see a doctor ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "today",
+                                                  "ko":  "오늘"
+                                              },
+                                              {
+                                                  "en":  "now",
+                                                  "ko":  "지금"
+                                              },
+                                              {
+                                                  "en":  "this afternoon",
+                                                  "ko":  "오늘 오후"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_033",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "어디가 아프세요?",
+                      "sentence_en":  "Where does it hurt?",
+                      "hint_chunk":  "Where does it ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "hurt",
+                                                  "ko":  "아프다"
+                                              },
+                                              {
+                                                  "en":  "itch",
+                                                  "ko":  "가렵다"
+                                              },
+                                              {
+                                                  "en":  "sting",
+                                                  "ko":  "따갑다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_034",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "여기가 아파요.",
+                      "sentence_en":  "It hurts here.",
+                      "hint_chunk":  "It hurts ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "here",
+                                                  "ko":  "여기가"
+                                              },
+                                              {
+                                                  "en":  "a lot",
+                                                  "ko":  "많이"
+                                              },
+                                              {
+                                                  "en":  "when I move",
+                                                  "ko":  "움직일 때"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_035",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "열이 나요.",
+                      "sentence_en":  "I have a fever.",
+                      "hint_chunk":  "I have a ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "fever",
+                                                  "ko":  "열"
+                                              },
+                                              {
+                                                  "en":  "cold",
+                                                  "ko":  "감기"
+                                              },
+                                              {
+                                                  "en":  "cough",
+                                                  "ko":  "기침"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_036",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "배가 아파요.",
+                      "sentence_en":  "My stomach hurts.",
+                      "hint_chunk":  "My ~ hurts.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "stomach",
+                                                  "ko":  "배"
+                                              },
+                                              {
+                                                  "en":  "back",
+                                                  "ko":  "등"
+                                              },
+                                              {
+                                                  "en":  "head",
+                                                  "ko":  "머리"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_037",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "어지러워요.",
+                      "sentence_en":  "I feel dizzy.",
+                      "hint_chunk":  "I feel ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "dizzy",
+                                                  "ko":  "어지러운"
+                                              },
+                                              {
+                                                  "en":  "nauseous",
+                                                  "ko":  "메스꺼운"
+                                              },
+                                              {
+                                                  "en":  "weak",
+                                                  "ko":  "힘없는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_038",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "기침을 계속 해요.",
+                      "sentence_en":  "I keep coughing.",
+                      "hint_chunk":  "I keep ~ing.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "coughing",
+                                                  "ko":  "기침하다"
+                                              },
+                                              {
+                                                  "en":  "sneezing",
+                                                  "ko":  "재채기하다"
+                                              },
+                                              {
+                                                  "en":  "itching",
+                                                  "ko":  "가려워하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_039",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "약 처방해 주세요.",
+                      "sentence_en":  "Can you prescribe some medicine?",
+                      "hint_chunk":  "Can you prescribe ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "medicine",
+                                                  "ko":  "약"
+                                              },
+                                              {
+                                                  "en":  "something for pain",
+                                                  "ko":  "진통제"
+                                              },
+                                              {
+                                                  "en":  "antibiotics",
+                                                  "ko":  "항생제"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_040",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "이 약 하루에 몇 번 먹어요?",
+                      "sentence_en":  "How many times a day do I take this medicine?",
+                      "hint_chunk":  "How many times a day do I take ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "this medicine",
+                                                  "ko":  "이 약"
+                                              },
+                                              {
+                                                  "en":  "this pill",
+                                                  "ko":  "이 알약"
+                                              },
+                                              {
+                                                  "en":  "this syrup",
+                                                  "ko":  "이 시럽"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_041",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "식후에 드세요.",
+                      "sentence_en":  "Take this after meals.",
+                      "hint_chunk":  "Take this ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "after meals",
+                                                  "ko":  "식후에"
+                                              },
+                                              {
+                                                  "en":  "before bed",
+                                                  "ko":  "자기 전에"
+                                              },
+                                              {
+                                                  "en":  "with water",
+                                                  "ko":  "물이랑 같이"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_042",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "이 약 부작용 있어요?",
+                      "sentence_en":  "Does this medicine have side effects?",
+                      "hint_chunk":  "Does this medicine have ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "side effects",
+                                                  "ko":  "부작용"
+                                              },
+                                              {
+                                                  "en":  "an expiration date",
+                                                  "ko":  "유효기간"
+                                              },
+                                              {
+                                                  "en":  "a warning",
+                                                  "ko":  "경고문구"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_043",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "알레르기 있는 약 있어요.",
+                      "sentence_en":  "I\u0027m allergic to certain medicines.",
+                      "hint_chunk":  "I\u0027m allergic to ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "certain medicines",
+                                                  "ko":  "특정 약"
+                                              },
+                                              {
+                                                  "en":  "penicillin",
+                                                  "ko":  "페니실린"
+                                              },
+                                              {
+                                                  "en":  "aspirin",
+                                                  "ko":  "아스피린"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_044",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "진통제 있어요?",
+                      "sentence_en":  "Do you have any painkillers?",
+                      "hint_chunk":  "Do you have any ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "painkillers",
+                                                  "ko":  "진통제"
+                                              },
+                                              {
+                                                  "en":  "band-aids",
+                                                  "ko":  "밴드"
+                                              },
+                                              {
+                                                  "en":  "cold medicine",
+                                                  "ko":  "감기약"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_045",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "처방전 가져왔어요.",
+                      "sentence_en":  "I brought my prescription.",
+                      "hint_chunk":  "I brought my ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "prescription",
+                                                  "ko":  "처방전"
+                                              },
+                                              {
+                                                  "en":  "insurance card",
+                                                  "ko":  "보험증"
+                                              },
+                                              {
+                                                  "en":  "ID",
+                                                  "ko":  "신분증"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_046",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "이 약국 몇 시까지 해요?",
+                      "sentence_en":  "What time does this pharmacy close?",
+                      "hint_chunk":  "What time does this ~ close?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "pharmacy",
+                                                  "ko":  "약국"
+                                              },
+                                              {
+                                                  "en":  "clinic",
+                                                  "ko":  "병원"
+                                              },
+                                              {
+                                                  "en":  "store",
+                                                  "ko":  "가게"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_047",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "보험 되나요?",
+                      "sentence_en":  "Is this covered by insurance?",
+                      "hint_chunk":  "Is this covered by ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "insurance",
+                                                  "ko":  "보험"
+                                              },
+                                              {
+                                                  "en":  "my plan",
+                                                  "ko":  "내 보험플랜"
+                                              },
+                                              {
+                                                  "en":  "the discount",
+                                                  "ko":  "할인"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_048",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "엑스레이 찍어야 돼요.",
+                      "sentence_en":  "I need to get an X-ray.",
+                      "hint_chunk":  "I need to get an ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "X-ray",
+                                                  "ko":  "엑스레이"
+                                              },
+                                              {
+                                                  "en":  "MRI",
+                                                  "ko":  "MRI"
+                                              },
+                                              {
+                                                  "en":  "checkup",
+                                                  "ko":  "검진"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_049",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "주사 맞아야 돼요?",
+                      "sentence_en":  "Do I need to get a shot?",
+                      "hint_chunk":  "Do I need to get a ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "shot",
+                                                  "ko":  "주사"
+                                              },
+                                              {
+                                                  "en":  "blood test",
+                                                  "ko":  "혈액검사"
+                                              },
+                                              {
+                                                  "en":  "vaccine",
+                                                  "ko":  "백신"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "beg_clinic_050",
+                      "content_type":  "sentence",
+                      "level":  "초급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "응급실이 어디예요?",
+                      "sentence_en":  "Where\u0027s the emergency room?",
+                      "hint_chunk":  "Where\u0027s the ~?",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "emergency room",
+                                                  "ko":  "응급실"
+                                              },
+                                              {
+                                                  "en":  "pharmacy",
+                                                  "ko":  "약국"
+                                              },
+                                              {
+                                                  "en":  "waiting room",
+                                                  "ko":  "대기실"
                                               }
                                           ]
                   }

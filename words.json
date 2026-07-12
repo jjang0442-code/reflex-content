@@ -1,5 +1,5 @@
 {
-    "words_version":  "2026-07-12-04",
+    "words_version":  "2026-07-12-05",
     "words":  [
                   {
                       "id":  "w_beg_verb_001",
@@ -2763,6 +2763,816 @@
                       "level":  "int",
                       "example_kr":  "그 사람 속셈을 바로 알아챘어.",
                       "example_en":  "I saw right through his plan."
+                  },
+                  {
+                      "id":  "w_beg_adj_002",
+                      "word_en":  "exhausted",
+                      "word_kr":  "지친",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "오늘 진짜 완전 지쳤어.",
+                      "example_en":  "I\u0027m completely exhausted today."
+                  },
+                  {
+                      "id":  "w_beg_adj_003",
+                      "word_en":  "relieved",
+                      "word_kr":  "안심되는",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "시험 끝나서 마음이 놓여.",
+                      "example_en":  "I feel relieved now that the exam is over."
+                  },
+                  {
+                      "id":  "w_beg_adj_004",
+                      "word_en":  "nervous",
+                      "word_kr":  "긴장되는",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "면접 때문에 너무 긴장돼.",
+                      "example_en":  "I\u0027m so nervous about the interview."
+                  },
+                  {
+                      "id":  "w_beg_adj_005",
+                      "word_en":  "embarrassed",
+                      "word_kr":  "창피한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "사람들 앞에서 넘어져서 너무 창피했어.",
+                      "example_en":  "I was so embarrassed when I fell in front of everyone."
+                  },
+                  {
+                      "id":  "w_beg_adj_006",
+                      "word_en":  "jealous",
+                      "word_kr":  "질투나는",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "네가 부러워서 좀 질투 나.",
+                      "example_en":  "I\u0027m a little jealous of you."
+                  },
+                  {
+                      "id":  "w_beg_adj_007",
+                      "word_en":  "curious",
+                      "word_kr":  "궁금한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 결과가 어떻게 나올지 궁금해.",
+                      "example_en":  "I\u0027m curious how the results will turn out."
+                  },
+                  {
+                      "id":  "w_beg_adj_008",
+                      "word_en":  "surprised",
+                      "word_kr":  "놀란",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "네 전화 받고 진짜 놀랐어.",
+                      "example_en":  "I was really surprised to get your call."
+                  },
+                  {
+                      "id":  "w_beg_adj_009",
+                      "word_en":  "disappointed",
+                      "word_kr":  "실망한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "결과 듣고 좀 실망했어.",
+                      "example_en":  "I was a bit disappointed when I heard the result."
+                  },
+                  {
+                      "id":  "w_beg_adj_010",
+                      "word_en":  "proud",
+                      "word_kr":  "자랑스러운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "네가 정말 자랑스러워.",
+                      "example_en":  "I\u0027m really proud of you."
+                  },
+                  {
+                      "id":  "w_beg_adj_011",
+                      "word_en":  "ashamed",
+                      "word_kr":  "부끄러운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그렇게 행동한 게 부끄러워.",
+                      "example_en":  "I\u0027m ashamed of how I acted."
+                  },
+                  {
+                      "id":  "w_beg_adj_012",
+                      "word_en":  "grateful",
+                      "word_kr":  "고마운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "네 도움에 정말 고마워.",
+                      "example_en":  "I\u0027m really grateful for your help."
+                  },
+                  {
+                      "id":  "w_beg_adj_013",
+                      "word_en":  "anxious",
+                      "word_kr":  "불안한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "결과 기다리는 게 너무 불안해.",
+                      "example_en":  "Waiting for the results makes me so anxious."
+                  },
+                  {
+                      "id":  "w_beg_adj_014",
+                      "word_en":  "lonely",
+                      "word_kr":  "외로운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "혼자 있으니까 좀 외롭네.",
+                      "example_en":  "I feel a bit lonely being by myself."
+                  },
+                  {
+                      "id":  "w_beg_adj_015",
+                      "word_en":  "bored",
+                      "word_kr":  "지루한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "집에만 있으니까 너무 지루해.",
+                      "example_en":  "I\u0027m so bored just staying home."
+                  },
+                  {
+                      "id":  "w_beg_adj_016",
+                      "word_en":  "annoyed",
+                      "word_kr":  "짜증나는",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 소리 때문에 좀 짜증나.",
+                      "example_en":  "That noise is kind of annoying me."
+                  },
+                  {
+                      "id":  "w_beg_adj_017",
+                      "word_en":  "overwhelmed",
+                      "word_kr":  "벅찬",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "할 일이 너무 많아서 벅차.",
+                      "example_en":  "I feel overwhelmed with all this work."
+                  },
+                  {
+                      "id":  "w_beg_adj_018",
+                      "word_en":  "confused",
+                      "word_kr":  "헷갈리는",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "설명 듣고도 여전히 헷갈려.",
+                      "example_en":  "I\u0027m still confused even after the explanation."
+                  },
+                  {
+                      "id":  "w_beg_adj_019",
+                      "word_en":  "satisfied",
+                      "word_kr":  "만족스러운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "결과에 꽤 만족해.",
+                      "example_en":  "I\u0027m pretty satisfied with the result."
+                  },
+                  {
+                      "id":  "w_beg_adj_020",
+                      "word_en":  "hopeful",
+                      "word_kr":  "희망적인",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이번엔 잘 될 거라고 희망적이야.",
+                      "example_en":  "I\u0027m hopeful things will go well this time."
+                  },
+                  {
+                      "id":  "w_beg_adj_021",
+                      "word_en":  "crowded",
+                      "word_kr":  "붐비는",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "지하철이 너무 붐볐어.",
+                      "example_en":  "The subway was really crowded."
+                  },
+                  {
+                      "id":  "w_beg_adj_022",
+                      "word_en":  "spacious",
+                      "word_kr":  "넓은",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 집 생각보다 넓어.",
+                      "example_en":  "This place is more spacious than I thought."
+                  },
+                  {
+                      "id":  "w_beg_adj_023",
+                      "word_en":  "convenient",
+                      "word_kr":  "편리한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "여기 위치가 진짜 편리해.",
+                      "example_en":  "This location is really convenient."
+                  },
+                  {
+                      "id":  "w_beg_adj_024",
+                      "word_en":  "expensive",
+                      "word_kr":  "비싼",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이거 너무 비싸다.",
+                      "example_en":  "This is way too expensive."
+                  },
+                  {
+                      "id":  "w_beg_adj_025",
+                      "word_en":  "affordable",
+                      "word_kr":  "저렴한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "가격이 꽤 괜찮은 편이야.",
+                      "example_en":  "The price is pretty affordable."
+                  },
+                  {
+                      "id":  "w_beg_adj_026",
+                      "word_en":  "reliable",
+                      "word_kr":  "믿을 만한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람은 진짜 믿을 만해.",
+                      "example_en":  "He\u0027s a really reliable person."
+                  },
+                  {
+                      "id":  "w_beg_adj_027",
+                      "word_en":  "stressful",
+                      "word_kr":  "스트레스가 심한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 일이 너무 스트레스야.",
+                      "example_en":  "Work has been so stressful lately."
+                  },
+                  {
+                      "id":  "w_beg_adj_028",
+                      "word_en":  "flexible",
+                      "word_kr":  "유연한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "일정이 좀 유연했으면 좋겠어.",
+                      "example_en":  "I wish the schedule were a bit more flexible."
+                  },
+                  {
+                      "id":  "w_beg_adj_029",
+                      "word_en":  "strict",
+                      "word_kr":  "엄격한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "우리 팀장님 되게 엄격해.",
+                      "example_en":  "My team leader is really strict."
+                  },
+                  {
+                      "id":  "w_beg_adj_030",
+                      "word_en":  "generous",
+                      "word_kr":  "후한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람 진짜 후해.",
+                      "example_en":  "He\u0027s really generous."
+                  },
+                  {
+                      "id":  "w_beg_adj_031",
+                      "word_en":  "stubborn",
+                      "word_kr":  "고집 센",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "너 진짜 고집 세다.",
+                      "example_en":  "You\u0027re really stubborn."
+                  },
+                  {
+                      "id":  "w_beg_adj_032",
+                      "word_en":  "exciting",
+                      "word_kr":  "신나는",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이번 여행 진짜 기대돼, 완전 신날 것 같아.",
+                      "example_en":  "This trip is going to be so exciting."
+                  },
+                  {
+                      "id":  "w_beg_adj_033",
+                      "word_en":  "funny",
+                      "word_kr":  "웃긴",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 얘기 진짜 웃겼어.",
+                      "example_en":  "That story was really funny."
+                  },
+                  {
+                      "id":  "w_beg_adj_034",
+                      "word_en":  "scary",
+                      "word_kr":  "무서운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 영화 너무 무서웠어.",
+                      "example_en":  "That movie was really scary."
+                  },
+                  {
+                      "id":  "w_beg_adj_035",
+                      "word_en":  "dangerous",
+                      "word_kr":  "위험한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "거기 밤에 혼자 가면 위험해.",
+                      "example_en":  "It\u0027s dangerous to go there alone at night."
+                  },
+                  {
+                      "id":  "w_beg_adj_036",
+                      "word_en":  "safe",
+                      "word_kr":  "안전한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "여긴 밤에도 꽤 안전한 편이야.",
+                      "example_en":  "This area is pretty safe even at night."
+                  },
+                  {
+                      "id":  "w_beg_adj_037",
+                      "word_en":  "comfortable",
+                      "word_kr":  "편안한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 의자 진짜 편안하다.",
+                      "example_en":  "This chair is really comfortable."
+                  },
+                  {
+                      "id":  "w_beg_adj_038",
+                      "word_en":  "uncomfortable",
+                      "word_kr":  "불편한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 자리에 있는 게 좀 불편했어.",
+                      "example_en":  "I felt a bit uncomfortable being there."
+                  },
+                  {
+                      "id":  "w_beg_adj_039",
+                      "word_en":  "messy",
+                      "word_kr":  "지저분한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "책상이 완전 지저분하네.",
+                      "example_en":  "Your desk is totally messy."
+                  },
+                  {
+                      "id":  "w_beg_adj_040",
+                      "word_en":  "clean",
+                      "word_kr":  "깨끗한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "방을 깨끗하게 치웠어.",
+                      "example_en":  "I cleaned the room really well."
+                  },
+                  {
+                      "id":  "w_beg_adj_041",
+                      "word_en":  "organized",
+                      "word_kr":  "정리된",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "너는 항상 정리를 잘 하는 것 같아.",
+                      "example_en":  "You always seem so organized."
+                  },
+                  {
+                      "id":  "w_beg_adj_042",
+                      "word_en":  "careful",
+                      "word_kr":  "조심스러운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "운전할 때 좀 더 조심해.",
+                      "example_en":  "Be more careful when you drive."
+                  },
+                  {
+                      "id":  "w_beg_adj_043",
+                      "word_en":  "careless",
+                      "word_kr":  "부주의한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그건 좀 부주의한 실수였어.",
+                      "example_en":  "That was kind of a careless mistake."
+                  },
+                  {
+                      "id":  "w_beg_adj_044",
+                      "word_en":  "patient",
+                      "word_kr":  "인내심 있는",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람은 정말 인내심이 많아.",
+                      "example_en":  "He\u0027s really patient."
+                  },
+                  {
+                      "id":  "w_beg_adj_045",
+                      "word_en":  "impatient",
+                      "word_kr":  "성급한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "나 기다리는 거에 좀 성급한 편이야.",
+                      "example_en":  "I tend to get impatient when I have to wait."
+                  },
+                  {
+                      "id":  "w_beg_adj_046",
+                      "word_en":  "polite",
+                      "word_kr":  "예의바른",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 직원 되게 예의 바르더라.",
+                      "example_en":  "That staff member was really polite."
+                  },
+                  {
+                      "id":  "w_beg_adj_047",
+                      "word_en":  "rude",
+                      "word_kr":  "무례한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그렇게 말하는 건 좀 무례한 것 같아.",
+                      "example_en":  "Talking like that seems kind of rude."
+                  },
+                  {
+                      "id":  "w_beg_adj_048",
+                      "word_en":  "honest",
+                      "word_kr":  "정직한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "너한테 솔직히 말할게.",
+                      "example_en":  "I\u0027ll be honest with you."
+                  },
+                  {
+                      "id":  "w_beg_adj_049",
+                      "word_en":  "selfish",
+                      "word_kr":  "이기적인",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그렇게 행동하는 건 좀 이기적이야.",
+                      "example_en":  "Acting like that is a bit selfish."
+                  },
+                  {
+                      "id":  "w_beg_adj_050",
+                      "word_en":  "thoughtful",
+                      "word_kr":  "배려심 있는",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람 진짜 배려심이 깊어.",
+                      "example_en":  "He\u0027s really thoughtful."
+                  },
+                  {
+                      "id":  "w_beg_adj_051",
+                      "word_en":  "talkative",
+                      "word_kr":  "수다스러운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "우리 팀장님 완전 수다스러워.",
+                      "example_en":  "My team leader is really talkative."
+                  },
+                  {
+                      "id":  "w_beg_adj_052",
+                      "word_en":  "quiet",
+                      "word_kr":  "조용한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "오늘따라 되게 조용하네.",
+                      "example_en":  "You\u0027re being quiet today."
+                  },
+                  {
+                      "id":  "w_beg_adj_053",
+                      "word_en":  "outgoing",
+                      "word_kr":  "외향적인",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "새로운 사람들이랑 있을 때 되게 외향적이야.",
+                      "example_en":  "She\u0027s really outgoing around new people."
+                  },
+                  {
+                      "id":  "w_beg_adj_054",
+                      "word_en":  "shy",
+                      "word_kr":  "수줍은",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "낯선 사람 앞에서는 좀 수줍어해.",
+                      "example_en":  "He\u0027s a bit shy around strangers."
+                  },
+                  {
+                      "id":  "w_beg_adj_055",
+                      "word_en":  "lazy",
+                      "word_kr":  "게으른",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "오늘은 그냥 좀 게으르게 보내고 싶어.",
+                      "example_en":  "I just want to be lazy today."
+                  },
+                  {
+                      "id":  "w_beg_adj_056",
+                      "word_en":  "hardworking",
+                      "word_kr":  "부지런한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람 진짜 부지런해.",
+                      "example_en":  "He\u0027s really hardworking."
+                  },
+                  {
+                      "id":  "w_beg_adj_057",
+                      "word_en":  "picky",
+                      "word_kr":  "까다로운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "나 음식에 좀 까다로운 편이야.",
+                      "example_en":  "I\u0027m kind of picky about food."
+                  },
+                  {
+                      "id":  "w_beg_adj_058",
+                      "word_en":  "easygoing",
+                      "word_kr":  "느긋한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "내 룸메이트는 되게 느긋한 성격이야.",
+                      "example_en":  "My roommate has a pretty easygoing personality."
+                  },
+                  {
+                      "id":  "w_beg_adj_059",
+                      "word_en":  "moody",
+                      "word_kr":  "변덕스러운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 좀 기분이 오락가락해.",
+                      "example_en":  "I\u0027ve been a bit moody lately."
+                  },
+                  {
+                      "id":  "w_beg_adj_060",
+                      "word_en":  "sensitive",
+                      "word_kr":  "예민한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 주제엔 좀 예민하게 반응해.",
+                      "example_en":  "He gets pretty sensitive about this topic."
+                  },
+                  {
+                      "id":  "w_beg_adj_061",
+                      "word_en":  "optimistic",
+                      "word_kr":  "낙관적인",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "결과에 대해 낙관적으로 생각하려고 해.",
+                      "example_en":  "I\u0027m trying to stay optimistic about the results."
+                  },
+                  {
+                      "id":  "w_int_adj_001",
+                      "word_en":  "reluctant",
+                      "word_kr":  "꺼리는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 그 제안을 받아들이기를 꺼려했어.",
+                      "example_en":  "He was reluctant to accept the offer."
+                  },
+                  {
+                      "id":  "w_int_adj_002",
+                      "word_en":  "ambitious",
+                      "word_kr":  "야심찬",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 항상 야심찬 목표를 세워.",
+                      "example_en":  "She always sets pretty ambitious goals."
+                  },
+                  {
+                      "id":  "w_int_adj_003",
+                      "word_en":  "arrogant",
+                      "word_kr":  "오만한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "성공했다고 저렇게 오만하게 굴 필요는 없잖아.",
+                      "example_en":  "He doesn\u0027t need to act so arrogant just because he succeeded."
+                  },
+                  {
+                      "id":  "w_int_adj_004",
+                      "word_en":  "humble",
+                      "word_kr":  "겸손한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그렇게 성공했는데도 여전히 겸손해.",
+                      "example_en":  "Even after all that success, he\u0027s still humble."
+                  },
+                  {
+                      "id":  "w_int_adj_005",
+                      "word_en":  "cautious",
+                      "word_kr":  "신중한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "돈 문제에 있어서는 좀 더 신중해야 해.",
+                      "example_en":  "You should be more cautious when it comes to money."
+                  },
+                  {
+                      "id":  "w_int_adj_006",
+                      "word_en":  "skeptical",
+                      "word_kr":  "회의적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 소문에 대해서는 좀 회의적이야.",
+                      "example_en":  "I\u0027m pretty skeptical about that rumor."
+                  },
+                  {
+                      "id":  "w_int_adj_007",
+                      "word_en":  "persistent",
+                      "word_kr":  "끈질긴",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "몇 번을 거절당해도 끈질기게 다시 물어봤어.",
+                      "example_en":  "He kept asking persistently even after being rejected several times."
+                  },
+                  {
+                      "id":  "w_int_adj_008",
+                      "word_en":  "indifferent",
+                      "word_kr":  "무관심한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 뭘 하든 별로 관심이 없어 보여.",
+                      "example_en":  "He seems pretty indifferent to whatever we do."
+                  },
+                  {
+                      "id":  "w_int_adj_009",
+                      "word_en":  "resentful",
+                      "word_kr":  "억울해하는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그렇게 무시당한 게 아직도 억울해.",
+                      "example_en":  "I\u0027m still resentful about being ignored like that."
+                  },
+                  {
+                      "id":  "w_int_adj_010",
+                      "word_en":  "ambiguous",
+                      "word_kr":  "애매한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람 대답이 너무 애매해서 이해가 안 돼.",
+                      "example_en":  "His answer was so ambiguous that I couldn\u0027t understand it."
+                  },
+                  {
+                      "id":  "w_int_adj_011",
+                      "word_en":  "inevitable",
+                      "word_kr":  "불가피한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "이 상황에서는 그 결과가 거의 불가피했어.",
+                      "example_en":  "The outcome was almost inevitable given the situation."
+                  },
+                  {
+                      "id":  "w_int_adj_012",
+                      "word_en":  "controversial",
+                      "word_kr":  "논란이 많은",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 정책은 처음부터 논란이 많았어.",
+                      "example_en":  "That policy has been controversial from the start."
+                  },
+                  {
+                      "id":  "w_int_adj_013",
+                      "word_en":  "redundant",
+                      "word_kr":  "중복되는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "이 부분은 앞에서 이미 말한 거라 중복돼.",
+                      "example_en":  "This part is redundant since it was already covered earlier."
+                  },
+                  {
+                      "id":  "w_int_adj_014",
+                      "word_en":  "legitimate",
+                      "word_kr":  "정당한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "네 걱정은 충분히 정당한 것 같아.",
+                      "example_en":  "Your concern seems perfectly legitimate."
+                  },
+                  {
+                      "id":  "w_int_adj_015",
+                      "word_en":  "superficial",
+                      "word_kr":  "피상적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람이랑은 대화가 좀 피상적인 느낌이야.",
+                      "example_en":  "Conversations with him always feel a bit superficial."
+                  },
+                  {
+                      "id":  "w_int_adj_016",
+                      "word_en":  "genuine",
+                      "word_kr":  "진심 어린",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사과가 진심으로 느껴졌어.",
+                      "example_en":  "That apology felt genuine to me."
+                  },
+                  {
+                      "id":  "w_int_adj_017",
+                      "word_en":  "subtle",
+                      "word_kr":  "미묘한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "표정에 미묘한 변화가 있었어.",
+                      "example_en":  "There was a subtle change in his expression."
+                  },
+                  {
+                      "id":  "w_int_adj_018",
+                      "word_en":  "tedious",
+                      "word_kr":  "지루하고 힘든",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "이 서류 작업이 너무 지루하고 힘들어.",
+                      "example_en":  "This paperwork is so tedious."
+                  },
+                  {
+                      "id":  "w_int_adj_019",
+                      "word_en":  "plausible",
+                      "word_kr":  "그럴듯한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 설명이 꽤 그럴듯하게 들려.",
+                      "example_en":  "That explanation sounds fairly plausible."
+                  },
+                  {
+                      "id":  "w_int_adj_020",
+                      "word_en":  "mutual",
+                      "word_kr":  "상호간의",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "우리는 서로 좋은 감정이 있는 것 같아.",
+                      "example_en":  "I think we have mutual feelings for each other."
+                  },
+                  {
+                      "id":  "w_int_adj_021",
+                      "word_en":  "vulnerable",
+                      "word_kr":  "취약한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그런 얘기를 하면 좀 약해 보일까 봐 걱정돼.",
+                      "example_en":  "I worry that sharing that would make me look vulnerable."
+                  },
+                  {
+                      "id":  "w_int_adj_022",
+                      "word_en":  "overwhelming",
+                      "word_kr":  "압도적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "정보가 너무 많아서 압도적으로 느껴져.",
+                      "example_en":  "There\u0027s so much information that it feels overwhelming."
+                  },
+                  {
+                      "id":  "w_int_adj_023",
+                      "word_en":  "exhausting",
+                      "word_kr":  "진 빠지게 하는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "이 일정은 정말 진 빠지게 힘들어.",
+                      "example_en":  "This schedule is really exhausting."
+                  },
+                  {
+                      "id":  "w_int_adj_024",
+                      "word_en":  "demanding",
+                      "word_kr":  "요구가 많은",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "이번 프로젝트는 요구 사항이 너무 많아.",
+                      "example_en":  "This project has been really demanding."
+                  },
+                  {
+                      "id":  "w_int_adj_025",
+                      "word_en":  "reckless",
+                      "word_kr":  "무모한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그렇게 무모하게 운전하면 위험해.",
+                      "example_en":  "Driving that recklessly is dangerous."
+                  },
+                  {
+                      "id":  "w_int_adj_026",
+                      "word_en":  "cynical",
+                      "word_kr":  "냉소적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "요즘 세상에 좀 냉소적이 되는 것 같아.",
+                      "example_en":  "I\u0027ve been getting a bit cynical about things lately."
+                  },
+                  {
+                      "id":  "w_int_adj_027",
+                      "word_en":  "resilient",
+                      "word_kr":  "회복력 있는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "힘든 일을 겪고도 정말 잘 이겨내더라.",
+                      "example_en":  "She\u0027s really resilient after everything she\u0027s been through."
+                  },
+                  {
+                      "id":  "w_int_adj_028",
+                      "word_en":  "compassionate",
+                      "word_kr":  "동정심 있는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 항상 다른 사람 입장을 배려해.",
+                      "example_en":  "He\u0027s always so compassionate toward others."
+                  },
+                  {
+                      "id":  "w_int_adj_029",
+                      "word_en":  "diplomatic",
+                      "word_kr":  "외교적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "이 문제는 좀 더 외교적인 접근이 필요해.",
+                      "example_en":  "This issue needs a more diplomatic approach."
+                  },
+                  {
+                      "id":  "w_int_adj_030",
+                      "word_en":  "meticulous",
+                      "word_kr":  "꼼꼼한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 뭐든 꼼꼼하게 확인해.",
+                      "example_en":  "She\u0027s meticulous about checking everything."
                   }
               ]
 }

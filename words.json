@@ -1,5 +1,5 @@
 {
-    "words_version":  "2026-07-12-06",
+    "words_version":  "2026-07-12-07",
     "words":  [
                   {
                       "id":  "w_beg_verb_001",
@@ -4383,6 +4383,816 @@
                       "level":  "int",
                       "example_kr":  "아이러니하게도 제일 반대했던 사람이 결국 그걸 제안했어.",
                       "example_en":  "Ironically, the person who opposed it the most ended up suggesting it."
+                  },
+                  {
+                      "id":  "w_beg_verb_063",
+                      "word_en":  "bring",
+                      "word_kr":  "가져오다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "저녁에 뭐 좀 가져올까?",
+                      "example_en":  "Should I bring something for dinner?"
+                  },
+                  {
+                      "id":  "w_beg_verb_064",
+                      "word_en":  "carry",
+                      "word_kr":  "나르다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이거 무거우니까 내가 들어줄게.",
+                      "example_en":  "I\u0027ll carry this since it\u0027s heavy."
+                  },
+                  {
+                      "id":  "w_beg_verb_065",
+                      "word_en":  "catch",
+                      "word_kr":  "잡다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "공을 못 잡을 뻔했어.",
+                      "example_en":  "I almost couldn\u0027t catch the ball."
+                  },
+                  {
+                      "id":  "w_beg_verb_066",
+                      "word_en":  "throw",
+                      "word_kr":  "던지다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이거 쓰레기통에 던져줘.",
+                      "example_en":  "Throw this in the trash can."
+                  },
+                  {
+                      "id":  "w_beg_verb_067",
+                      "word_en":  "push",
+                      "word_kr":  "밀다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "문 좀 밀어줄래?",
+                      "example_en":  "Can you push the door open?"
+                  },
+                  {
+                      "id":  "w_beg_verb_068",
+                      "word_en":  "pull",
+                      "word_kr":  "당기다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "그냥 당기면 열려.",
+                      "example_en":  "Just pull it and it\u0027ll open."
+                  },
+                  {
+                      "id":  "w_beg_verb_069",
+                      "word_en":  "hold",
+                      "word_kr":  "들고 있다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "잠깐 이거 좀 들고 있어줄래?",
+                      "example_en":  "Can you hold this for a second?"
+                  },
+                  {
+                      "id":  "w_beg_verb_070",
+                      "word_en":  "drop",
+                      "word_kr":  "떨어뜨리다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "핸드폰을 떨어뜨렸어.",
+                      "example_en":  "I dropped my phone."
+                  },
+                  {
+                      "id":  "w_beg_verb_071",
+                      "word_en":  "pour",
+                      "word_kr":  "붓다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "물 좀 부어줄래?",
+                      "example_en":  "Can you pour some water?"
+                  },
+                  {
+                      "id":  "w_beg_verb_072",
+                      "word_en":  "mix",
+                      "word_kr":  "섞다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 두 개를 섞어봐.",
+                      "example_en":  "Try mixing these two together."
+                  },
+                  {
+                      "id":  "w_beg_verb_073",
+                      "word_en":  "cut",
+                      "word_kr":  "자르다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이거 반으로 잘라줄래?",
+                      "example_en":  "Can you cut this in half?"
+                  },
+                  {
+                      "id":  "w_beg_verb_074",
+                      "word_en":  "cook",
+                      "word_kr":  "요리하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "오늘 저녁은 내가 요리할게.",
+                      "example_en":  "I\u0027ll cook dinner tonight."
+                  },
+                  {
+                      "id":  "w_beg_verb_075",
+                      "word_en":  "bake",
+                      "word_kr":  "굽다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "쿠키 좀 구웠어.",
+                      "example_en":  "I baked some cookies."
+                  },
+                  {
+                      "id":  "w_beg_verb_076",
+                      "word_en":  "wash",
+                      "word_kr":  "씻다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "손 좀 씻고 와.",
+                      "example_en":  "Go wash your hands."
+                  },
+                  {
+                      "id":  "w_beg_verb_077",
+                      "word_en":  "sweep",
+                      "word_kr":  "쓸다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "바닥 좀 쓸어줄래?",
+                      "example_en":  "Can you sweep the floor?"
+                  },
+                  {
+                      "id":  "w_beg_verb_078",
+                      "word_en":  "fold",
+                      "word_kr":  "개다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "빨래 좀 개줄래?",
+                      "example_en":  "Can you fold the laundry?"
+                  },
+                  {
+                      "id":  "w_beg_verb_079",
+                      "word_en":  "hang",
+                      "word_kr":  "걸다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 옷 좀 걸어줄래?",
+                      "example_en":  "Can you hang this up?"
+                  },
+                  {
+                      "id":  "w_beg_verb_080",
+                      "word_en":  "paint",
+                      "word_kr":  "페인트칠하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 벽 새로 페인트칠할 거야.",
+                      "example_en":  "We\u0027re going to paint this wall."
+                  },
+                  {
+                      "id":  "w_beg_verb_081",
+                      "word_en":  "draw",
+                      "word_kr":  "그리다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "그림 하나 그려줄래?",
+                      "example_en":  "Can you draw a picture?"
+                  },
+                  {
+                      "id":  "w_beg_verb_082",
+                      "word_en":  "sing",
+                      "word_kr":  "노래하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "노래 하나 불러줄래?",
+                      "example_en":  "Can you sing a song?"
+                  },
+                  {
+                      "id":  "w_beg_verb_083",
+                      "word_en":  "dance",
+                      "word_kr":  "춤추다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "우리 같이 춤출래?",
+                      "example_en":  "Do you want to dance with me?"
+                  },
+                  {
+                      "id":  "w_beg_verb_084",
+                      "word_en":  "laugh",
+                      "word_kr":  "웃다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "그 얘기 듣고 완전 웃었어.",
+                      "example_en":  "I laughed so hard at that story."
+                  },
+                  {
+                      "id":  "w_beg_verb_085",
+                      "word_en":  "cry",
+                      "word_kr":  "울다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "영화 보다가 좀 울었어.",
+                      "example_en":  "I cried a little watching the movie."
+                  },
+                  {
+                      "id":  "w_beg_verb_086",
+                      "word_en":  "smile",
+                      "word_kr":  "미소짓다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "카메라 보고 웃어봐.",
+                      "example_en":  "Smile at the camera."
+                  },
+                  {
+                      "id":  "w_beg_verb_087",
+                      "word_en":  "shout",
+                      "word_kr":  "소리치다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "그렇게 소리치지 마.",
+                      "example_en":  "Don\u0027t shout like that."
+                  },
+                  {
+                      "id":  "w_beg_verb_088",
+                      "word_en":  "whisper",
+                      "word_kr":  "속삭이다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "너무 시끄러우니까 속삭여서 말해.",
+                      "example_en":  "It\u0027s too loud, so whisper."
+                  },
+                  {
+                      "id":  "w_beg_verb_089",
+                      "word_en":  "knock",
+                      "word_kr":  "두드리다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "들어가기 전에 문 좀 두드려.",
+                      "example_en":  "Knock before you go in."
+                  },
+                  {
+                      "id":  "w_beg_verb_090",
+                      "word_en":  "guess",
+                      "word_kr":  "추측하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "몇 살인지 한번 맞춰볼래?",
+                      "example_en":  "Can you guess how old I am?"
+                  },
+                  {
+                      "id":  "w_beg_verb_091",
+                      "word_en":  "spend",
+                      "word_kr":  "쓰다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이번 달에 돈을 너무 많이 썼어.",
+                      "example_en":  "I spent way too much money this month."
+                  },
+                  {
+                      "id":  "w_beg_verb_092",
+                      "word_en":  "earn",
+                      "word_kr":  "벌다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 정도는 충분히 벌 수 있어.",
+                      "example_en":  "I can earn enough to cover this."
+                  },
+                  {
+                      "id":  "w_beg_verb_093",
+                      "word_en":  "open",
+                      "word_kr":  "열다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "문 좀 열어줄래?",
+                      "example_en":  "Can you open the door?"
+                  },
+                  {
+                      "id":  "w_beg_verb_094",
+                      "word_en":  "close",
+                      "word_kr":  "닫다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "창문 좀 닫아줄래?",
+                      "example_en":  "Can you close the window?"
+                  },
+                  {
+                      "id":  "w_beg_verb_095",
+                      "word_en":  "lock",
+                      "word_kr":  "잠그다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "나갈 때 문 잠그는 거 잊지 마.",
+                      "example_en":  "Don\u0027t forget to lock the door when you leave."
+                  },
+                  {
+                      "id":  "w_beg_verb_096",
+                      "word_en":  "unlock",
+                      "word_kr":  "잠금을 풀다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "핸드폰 잠금 좀 풀어줄래?",
+                      "example_en":  "Can you unlock my phone?"
+                  },
+                  {
+                      "id":  "w_beg_verb_097",
+                      "word_en":  "turn",
+                      "word_kr":  "돌다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "여기서 오른쪽으로 돌아.",
+                      "example_en":  "Turn right here."
+                  },
+                  {
+                      "id":  "w_beg_verb_098",
+                      "word_en":  "walk",
+                      "word_kr":  "걷다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "집까지 걸어갈까?",
+                      "example_en":  "Should we walk home?"
+                  },
+                  {
+                      "id":  "w_beg_verb_099",
+                      "word_en":  "run",
+                      "word_kr":  "뛰다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "버스 놓칠까 봐 뛰었어.",
+                      "example_en":  "I ran because I thought I\u0027d miss the bus."
+                  },
+                  {
+                      "id":  "w_beg_verb_100",
+                      "word_en":  "jump",
+                      "word_kr":  "펄쩍 뛰다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "너무 놀라서 펄쩍 뛰었어.",
+                      "example_en":  "I jumped because I was so surprised."
+                  },
+                  {
+                      "id":  "w_beg_verb_101",
+                      "word_en":  "climb",
+                      "word_kr":  "오르다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "저 산은 오르기 꽤 힘들어.",
+                      "example_en":  "That mountain is pretty hard to climb."
+                  },
+                  {
+                      "id":  "w_beg_verb_102",
+                      "word_en":  "swim",
+                      "word_kr":  "수영하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "여름엔 자주 수영하러 가.",
+                      "example_en":  "I go swimming often in the summer."
+                  },
+                  {
+                      "id":  "w_beg_verb_103",
+                      "word_en":  "drive",
+                      "word_kr":  "운전하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "오늘은 내가 운전할게.",
+                      "example_en":  "I\u0027ll drive today."
+                  },
+                  {
+                      "id":  "w_beg_verb_104",
+                      "word_en":  "park",
+                      "word_kr":  "주차하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "여기 주차해도 될까?",
+                      "example_en":  "Can I park here?"
+                  },
+                  {
+                      "id":  "w_beg_verb_105",
+                      "word_en":  "fly",
+                      "word_kr":  "비행기를 타다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "다음 주에 비행기 타고 가.",
+                      "example_en":  "I\u0027m flying there next week."
+                  },
+                  {
+                      "id":  "w_beg_verb_106",
+                      "word_en":  "ride",
+                      "word_kr":  "타다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "자전거 탈 줄 알아?",
+                      "example_en":  "Do you know how to ride a bike?"
+                  },
+                  {
+                      "id":  "w_beg_verb_107",
+                      "word_en":  "touch",
+                      "word_kr":  "만지다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "그거 만지지 마.",
+                      "example_en":  "Don\u0027t touch that."
+                  },
+                  {
+                      "id":  "w_beg_verb_108",
+                      "word_en":  "hit",
+                      "word_kr":  "치다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "공에 맞을 뻔했어.",
+                      "example_en":  "I almost got hit by the ball."
+                  },
+                  {
+                      "id":  "w_beg_verb_109",
+                      "word_en":  "kick",
+                      "word_kr":  "차다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "공을 세게 찼어.",
+                      "example_en":  "He kicked the ball hard."
+                  },
+                  {
+                      "id":  "w_beg_verb_110",
+                      "word_en":  "hug",
+                      "word_kr":  "안다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "만나자마자 서로 안았어.",
+                      "example_en":  "We hugged as soon as we saw each other."
+                  },
+                  {
+                      "id":  "w_beg_verb_111",
+                      "word_en":  "kiss",
+                      "word_kr":  "뽀뽀하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "헤어질 때 뽀뽀했어.",
+                      "example_en":  "We kissed goodbye."
+                  },
+                  {
+                      "id":  "w_beg_verb_112",
+                      "word_en":  "shake",
+                      "word_kr":  "떨리다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "그 소식 듣고 손이 떨렸어.",
+                      "example_en":  "My hands were shaking after I heard the news."
+                  },
+                  {
+                      "id":  "w_beg_verb_113",
+                      "word_en":  "wave",
+                      "word_kr":  "손을 흔들다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "나 보고 손을 흔들었어.",
+                      "example_en":  "He waved at me."
+                  },
+                  {
+                      "id":  "w_beg_verb_114",
+                      "word_en":  "point",
+                      "word_kr":  "가리키다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "저기 저 건물을 가리켰어.",
+                      "example_en":  "She pointed at that building over there."
+                  },
+                  {
+                      "id":  "w_beg_verb_115",
+                      "word_en":  "wrap",
+                      "word_kr":  "포장하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "선물 좀 포장해줄래?",
+                      "example_en":  "Can you wrap this gift?"
+                  },
+                  {
+                      "id":  "w_beg_verb_116",
+                      "word_en":  "tie",
+                      "word_kr":  "묶다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "신발끈 좀 묶어줄래?",
+                      "example_en":  "Can you tie my shoelaces?"
+                  },
+                  {
+                      "id":  "w_beg_verb_117",
+                      "word_en":  "lift",
+                      "word_kr":  "들어올리다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이거 혼자 들기엔 좀 무거워.",
+                      "example_en":  "This is a bit heavy to lift alone."
+                  },
+                  {
+                      "id":  "w_beg_verb_118",
+                      "word_en":  "spill",
+                      "word_kr":  "쏟다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "커피를 다 쏟았어.",
+                      "example_en":  "I spilled my coffee everywhere."
+                  },
+                  {
+                      "id":  "w_beg_verb_119",
+                      "word_en":  "burn",
+                      "word_kr":  "타다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "밥이 타버렸어.",
+                      "example_en":  "The rice got burned."
+                  },
+                  {
+                      "id":  "w_beg_verb_120",
+                      "word_en":  "freeze",
+                      "word_kr":  "얼다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "물이 다 얼었어.",
+                      "example_en":  "The water froze completely."
+                  },
+                  {
+                      "id":  "w_beg_verb_121",
+                      "word_en":  "melt",
+                      "word_kr":  "녹다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "아이스크림이 다 녹았어.",
+                      "example_en":  "The ice cream completely melted."
+                  },
+                  {
+                      "id":  "w_beg_verb_122",
+                      "word_en":  "slip",
+                      "word_kr":  "미끄러지다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "빙판길에서 미끄러질 뻔했어.",
+                      "example_en":  "I almost slipped on the icy road."
+                  },
+                  {
+                      "id":  "w_int_verb_061",
+                      "word_en":  "undermine",
+                      "word_kr":  "약화시키다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그런 말은 내 자신감을 약화시킬 뿐이야.",
+                      "example_en":  "Comments like that only undermine my confidence."
+                  },
+                  {
+                      "id":  "w_int_verb_062",
+                      "word_en":  "underestimate",
+                      "word_kr":  "과소평가하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람의 실력을 과소평가하지 마.",
+                      "example_en":  "Don\u0027t underestimate his skills."
+                  },
+                  {
+                      "id":  "w_int_verb_063",
+                      "word_en":  "overestimate",
+                      "word_kr":  "과대평가하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "내가 할 수 있는 걸 좀 과대평가했던 것 같아.",
+                      "example_en":  "I think I overestimated what I could handle."
+                  },
+                  {
+                      "id":  "w_int_verb_064",
+                      "word_en":  "exceed",
+                      "word_kr":  "초과하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이번 매출이 목표를 훨씬 초과했어.",
+                      "example_en":  "Sales this quarter far exceeded our target."
+                  },
+                  {
+                      "id":  "w_int_verb_065",
+                      "word_en":  "surpass",
+                      "word_kr":  "능가하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 결과는 우리 기대를 완전히 뛰어넘었어.",
+                      "example_en":  "This result completely surpassed our expectations."
+                  },
+                  {
+                      "id":  "w_int_verb_066",
+                      "word_en":  "withstand",
+                      "word_kr":  "견뎌내다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 건물은 웬만한 지진은 견뎌낼 수 있어.",
+                      "example_en":  "This building can withstand a fairly strong earthquake."
+                  },
+                  {
+                      "id":  "w_int_verb_067",
+                      "word_en":  "endure",
+                      "word_kr":  "견디다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 힘든 시간을 어떻게 견뎌냈는지 모르겠어.",
+                      "example_en":  "I don\u0027t know how she endured such a hard time."
+                  },
+                  {
+                      "id":  "w_int_verb_068",
+                      "word_en":  "reinforce",
+                      "word_kr":  "강화하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 경험이 내 결심을 더 확고하게 만들었어.",
+                      "example_en":  "That experience only reinforced my decision."
+                  },
+                  {
+                      "id":  "w_int_verb_069",
+                      "word_en":  "establish",
+                      "word_kr":  "확립하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "우리 팀이 새로운 규칙을 확립했어.",
+                      "example_en":  "Our team has established a new set of rules."
+                  },
+                  {
+                      "id":  "w_int_verb_070",
+                      "word_en":  "implement",
+                      "word_kr":  "시행하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "새 시스템을 다음 달부터 시행할 예정이야.",
+                      "example_en":  "We\u0027re planning to implement the new system next month."
+                  },
+                  {
+                      "id":  "w_int_verb_071",
+                      "word_en":  "facilitate",
+                      "word_kr":  "촉진하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람이 회의 진행을 도와줬어.",
+                      "example_en":  "He helped facilitate the meeting."
+                  },
+                  {
+                      "id":  "w_int_verb_072",
+                      "word_en":  "undergo",
+                      "word_kr":  "겪다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 회사는 지금 큰 변화를 겪고 있어.",
+                      "example_en":  "The company is currently undergoing major changes."
+                  },
+                  {
+                      "id":  "w_int_verb_073",
+                      "word_en":  "undertake",
+                      "word_kr":  "착수하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 일을 맡기 전에 신중히 생각해봐.",
+                      "example_en":  "Think carefully before you undertake this task."
+                  },
+                  {
+                      "id":  "w_int_verb_074",
+                      "word_en":  "allocate",
+                      "word_kr":  "할당하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "예산을 각 부서에 어떻게 배분할지 정해야 해.",
+                      "example_en":  "We need to decide how to allocate the budget across departments."
+                  },
+                  {
+                      "id":  "w_int_verb_075",
+                      "word_en":  "delegate",
+                      "word_kr":  "위임하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 일은 다른 사람한테 맡기는 게 나을 것 같아.",
+                      "example_en":  "I think it\u0027s better to delegate this task to someone else."
+                  },
+                  {
+                      "id":  "w_int_verb_076",
+                      "word_en":  "prioritize",
+                      "word_kr":  "우선시하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "지금은 건강을 최우선으로 두는 게 맞아.",
+                      "example_en":  "Right now, you should prioritize your health."
+                  },
+                  {
+                      "id":  "w_int_verb_077",
+                      "word_en":  "optimize",
+                      "word_kr":  "최적화하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "우리 이 과정을 좀 더 효율적으로 최적화할 수 있을 것 같아.",
+                      "example_en":  "I think we can optimize this process to be more efficient."
+                  },
+                  {
+                      "id":  "w_int_verb_078",
+                      "word_en":  "streamline",
+                      "word_kr":  "간소화하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "절차를 간소화하면 시간을 많이 절약할 수 있어.",
+                      "example_en":  "Streamlining the process would save a lot of time."
+                  },
+                  {
+                      "id":  "w_int_verb_079",
+                      "word_en":  "incorporate",
+                      "word_kr":  "포함시키다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 아이디어를 계획에 포함시켜야 할 것 같아.",
+                      "example_en":  "I think we should incorporate that idea into the plan."
+                  },
+                  {
+                      "id":  "w_int_verb_080",
+                      "word_en":  "integrate",
+                      "word_kr":  "통합하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "새 직원이 팀에 잘 적응하도록 도와줬어.",
+                      "example_en":  "We helped the new employee integrate into the team."
+                  },
+                  {
+                      "id":  "w_int_verb_081",
+                      "word_en":  "distinguish",
+                      "word_kr":  "구별하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 두 개념을 구별하는 게 생각보다 어려워.",
+                      "example_en":  "It\u0027s harder than it seems to distinguish these two concepts."
+                  },
+                  {
+                      "id":  "w_int_verb_082",
+                      "word_en":  "prevail",
+                      "word_kr":  "우세하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "결국 우리 팀의 의견이 우세했어.",
+                      "example_en":  "In the end, our team\u0027s opinion prevailed."
+                  },
+                  {
+                      "id":  "w_int_verb_083",
+                      "word_en":  "reconcile",
+                      "word_kr":  "화해하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 둘은 결국 화해했대.",
+                      "example_en":  "I heard they eventually managed to reconcile."
+                  },
+                  {
+                      "id":  "w_int_verb_084",
+                      "word_en":  "compensate",
+                      "word_kr":  "보상하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "회사가 그 손해를 보상해주기로 했어.",
+                      "example_en":  "The company agreed to compensate for the loss."
+                  },
+                  {
+                      "id":  "w_int_verb_085",
+                      "word_en":  "retain",
+                      "word_kr":  "유지하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "좋은 직원들을 계속 붙잡아두는 게 쉽지 않아.",
+                      "example_en":  "It\u0027s not easy to retain good employees."
+                  },
+                  {
+                      "id":  "w_int_verb_086",
+                      "word_en":  "restrain",
+                      "word_kr":  "억누르다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "화가 났지만 감정을 억누르려고 애썼어.",
+                      "example_en":  "I tried to restrain my emotions even though I was angry."
+                  },
+                  {
+                      "id":  "w_int_verb_087",
+                      "word_en":  "discourage",
+                      "word_kr":  "낙담시키다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그런 반응이 사람들의 의욕을 꺾을 수도 있어.",
+                      "example_en":  "That kind of reaction could discourage people."
+                  },
+                  {
+                      "id":  "w_int_verb_088",
+                      "word_en":  "motivate",
+                      "word_kr":  "동기부여하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 목표가 나를 더 열심히 하게 만들어.",
+                      "example_en":  "That goal really motivates me to work harder."
+                  },
+                  {
+                      "id":  "w_int_verb_089",
+                      "word_en":  "inspire",
+                      "word_kr":  "영감을 주다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "네 이야기가 나한테 큰 영감을 줬어.",
+                      "example_en":  "Your story really inspired me."
+                  },
+                  {
+                      "id":  "w_int_verb_090",
+                      "word_en":  "provoke",
+                      "word_kr":  "불러일으키다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그런 말은 괜히 논란만 불러일으킬 거야.",
+                      "example_en":  "That kind of comment will only provoke controversy."
                   }
               ]
 }

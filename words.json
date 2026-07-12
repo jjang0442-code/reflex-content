@@ -1,5 +1,5 @@
 {
-    "words_version":  "2026-07-12-03",
+    "words_version":  "2026-07-12-04",
     "words":  [
                   {
                       "id":  "w_beg_verb_001",
@@ -1953,6 +1953,816 @@
                       "level":  "int",
                       "example_kr":  "이번 실패는 그냥 작은 차질일 뿐이야.",
                       "example_en":  "This failure is just a minor setback."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_002",
+                      "word_en":  "wake up",
+                      "word_kr":  "일어나다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "오늘 늦게 일어났어.",
+                      "example_en":  "I woke up late today."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_003",
+                      "word_en":  "get up",
+                      "word_kr":  "자리에서 일어나다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "일곱 시에 일어나야 해.",
+                      "example_en":  "I need to get up at seven."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_004",
+                      "word_en":  "turn off",
+                      "word_kr":  "끄다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "나갈 때 불 좀 꺼줘.",
+                      "example_en":  "Turn off the lights when you leave."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_005",
+                      "word_en":  "turn on",
+                      "word_kr":  "켜다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "에어컨 좀 켜줄래?",
+                      "example_en":  "Can you turn on the AC?"
+                  },
+                  {
+                      "id":  "w_beg_phrasal_006",
+                      "word_en":  "pick up",
+                      "word_kr":  "데리러 가다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "역에서 나 좀 데리러 와줄래?",
+                      "example_en":  "Can you pick me up at the station?"
+                  },
+                  {
+                      "id":  "w_beg_phrasal_007",
+                      "word_en":  "drop off",
+                      "word_kr":  "내려주다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "학교 가는 길에 내려줄게.",
+                      "example_en":  "I\u0027ll drop you off on the way to school."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_008",
+                      "word_en":  "put on",
+                      "word_kr":  "입다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "코트 입고 나가.",
+                      "example_en":  "Put on your coat before you go out."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_009",
+                      "word_en":  "take off",
+                      "word_kr":  "벗다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "신발 벗고 들어와.",
+                      "example_en":  "Take off your shoes before you come in."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_010",
+                      "word_en":  "get off",
+                      "word_kr":  "내리다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "다음 정류장에서 내려야 해.",
+                      "example_en":  "We need to get off at the next stop."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_011",
+                      "word_en":  "get on",
+                      "word_kr":  "타다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "버스 타기 전에 카드 준비해.",
+                      "example_en":  "Have your card ready before you get on the bus."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_012",
+                      "word_en":  "check in",
+                      "word_kr":  "체크인하다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "몇 시에 체크인할 수 있어?",
+                      "example_en":  "What time can we check in?"
+                  },
+                  {
+                      "id":  "w_beg_phrasal_013",
+                      "word_en":  "check out",
+                      "word_kr":  "체크아웃하다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "체크아웃은 열두 시까지야.",
+                      "example_en":  "Check out is by twelve o\u0027clock."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_014",
+                      "word_en":  "figure out",
+                      "word_kr":  "알아내다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "이거 어떻게 하는지 알아내야 해.",
+                      "example_en":  "I need to figure out how to do this."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_015",
+                      "word_en":  "find out",
+                      "word_kr":  "알아내다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "무슨 일인지 알아봤어?",
+                      "example_en":  "Did you find out what happened?"
+                  },
+                  {
+                      "id":  "w_beg_phrasal_016",
+                      "word_en":  "work out",
+                      "word_kr":  "잘 풀리다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "결국 다 잘 풀렸어.",
+                      "example_en":  "It all worked out in the end."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_017",
+                      "word_en":  "hang out",
+                      "word_kr":  "놀다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "이번 주말에 같이 놀자.",
+                      "example_en":  "Let\u0027s hang out this weekend."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_018",
+                      "word_en":  "show up",
+                      "word_kr":  "나타나다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람 결국 안 나타났어.",
+                      "example_en":  "He never showed up in the end."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_019",
+                      "word_en":  "run into",
+                      "word_kr":  "우연히 만나다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "어제 마트에서 우연히 만났어.",
+                      "example_en":  "I ran into him at the store yesterday."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_020",
+                      "word_en":  "get along",
+                      "word_kr":  "잘 지내다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "우리 룸메이트랑 잘 지내.",
+                      "example_en":  "I get along well with my roommate."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_021",
+                      "word_en":  "calm down",
+                      "word_kr":  "진정하다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "일단 진정하고 다시 생각해봐.",
+                      "example_en":  "Just calm down and think it over."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_022",
+                      "word_en":  "hurry up",
+                      "word_kr":  "서두르다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "빨리 서둘러, 늦겠어.",
+                      "example_en":  "Hurry up, we\u0027re going to be late."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_023",
+                      "word_en":  "slow down",
+                      "word_kr":  "속도를 늦추다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "너무 빠르니까 좀 천천히 가.",
+                      "example_en":  "Slow down, you\u0027re going too fast."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_024",
+                      "word_en":  "break up",
+                      "word_kr":  "헤어지다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "그 둘이 결국 헤어졌대.",
+                      "example_en":  "I heard they finally broke up."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_025",
+                      "word_en":  "make up",
+                      "word_kr":  "화해하다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "우리 어제 화해했어.",
+                      "example_en":  "We made up yesterday."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_026",
+                      "word_en":  "clean up",
+                      "word_kr":  "청소하다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "방 좀 치워야겠다.",
+                      "example_en":  "I need to clean up my room."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_027",
+                      "word_en":  "throw away",
+                      "word_kr":  "버리다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "이거 그냥 버려도 돼.",
+                      "example_en":  "You can just throw this away."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_028",
+                      "word_en":  "put away",
+                      "word_kr":  "치우다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "다 쓴 거 제자리에 치워놔.",
+                      "example_en":  "Put everything away when you\u0027re done."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_029",
+                      "word_en":  "take out",
+                      "word_kr":  "꺼내다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "쓰레기 좀 내다 버려줄래?",
+                      "example_en":  "Can you take out the trash?"
+                  },
+                  {
+                      "id":  "w_beg_phrasal_030",
+                      "word_en":  "bring back",
+                      "word_kr":  "다시 가져오다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "빌린 책 다음 주에 갖다줄게.",
+                      "example_en":  "I\u0027ll bring back the book next week."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_031",
+                      "word_en":  "come back",
+                      "word_kr":  "돌아오다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "언제 돌아올 거야?",
+                      "example_en":  "When are you coming back?"
+                  },
+                  {
+                      "id":  "w_beg_phrasal_032",
+                      "word_en":  "look after",
+                      "word_kr":  "돌보다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "내가 없는 동안 강아지 좀 봐줄 수 있어?",
+                      "example_en":  "Can you look after my dog while I\u0027m away?"
+                  },
+                  {
+                      "id":  "w_beg_phrasal_033",
+                      "word_en":  "look for",
+                      "word_kr":  "찾다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "지금 새 아파트를 찾고 있어.",
+                      "example_en":  "I\u0027m looking for a new apartment right now."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_034",
+                      "word_en":  "look into",
+                      "word_kr":  "조사하다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "그 문제를 좀 더 알아볼게.",
+                      "example_en":  "I\u0027ll look into that issue further."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_035",
+                      "word_en":  "look up",
+                      "word_kr":  "찾아보다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "모르는 단어는 사전에서 찾아봐.",
+                      "example_en":  "Just look up the word you don\u0027t know."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_036",
+                      "word_en":  "come up with",
+                      "word_kr":  "생각해내다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "좋은 아이디어를 하나 생각해냈어.",
+                      "example_en":  "I came up with a good idea."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_037",
+                      "word_en":  "deal with",
+                      "word_kr":  "처리하다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "이 문제는 내가 처리할게.",
+                      "example_en":  "I\u0027ll deal with this problem."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_038",
+                      "word_en":  "get over",
+                      "word_kr":  "극복하다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "그 일을 극복하는 데 시간이 좀 걸렸어.",
+                      "example_en":  "It took a while to get over that."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_039",
+                      "word_en":  "get through",
+                      "word_kr":  "헤쳐나가다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "이번 주만 잘 버티면 돼.",
+                      "example_en":  "We just need to get through this week."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_040",
+                      "word_en":  "go through",
+                      "word_kr":  "겪다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 힘든 시기를 겪고 있어.",
+                      "example_en":  "I\u0027ve been going through a tough time lately."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_041",
+                      "word_en":  "hold on",
+                      "word_kr":  "기다리다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "잠깐만 기다려줘.",
+                      "example_en":  "Hold on a second."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_042",
+                      "word_en":  "hold off",
+                      "word_kr":  "미루다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "결정은 좀 미루는 게 나을 것 같아.",
+                      "example_en":  "I think we should hold off on the decision."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_043",
+                      "word_en":  "keep up",
+                      "word_kr":  "따라가다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "속도 좀 늦춰, 못 따라가겠어.",
+                      "example_en":  "Slow down, I can\u0027t keep up."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_044",
+                      "word_en":  "give back",
+                      "word_kr":  "돌려주다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "빌린 돈 이번 주에 돌려줄게.",
+                      "example_en":  "I\u0027ll give back the money I borrowed this week."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_045",
+                      "word_en":  "give away",
+                      "word_kr":  "나눠주다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "안 쓰는 옷들 다 나눠줬어.",
+                      "example_en":  "I gave away all my old clothes."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_046",
+                      "word_en":  "move on",
+                      "word_kr":  "넘어가다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "이제 그만 잊고 넘어가자.",
+                      "example_en":  "Let\u0027s just move on from this."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_047",
+                      "word_en":  "move in",
+                      "word_kr":  "이사 들어가다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "다음 달에 새 집으로 이사 들어가.",
+                      "example_en":  "I\u0027m moving in to the new place next month."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_048",
+                      "word_en":  "move out",
+                      "word_kr":  "이사 나가다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "룸메이트가 다음 주에 이사 나간대.",
+                      "example_en":  "My roommate is moving out next week."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_049",
+                      "word_en":  "set up",
+                      "word_kr":  "준비하다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "회의 하나 잡아놨어.",
+                      "example_en":  "I set up a meeting."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_050",
+                      "word_en":  "sort out",
+                      "word_kr":  "해결하다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "그 문제 다 해결됐어?",
+                      "example_en":  "Did you sort out that issue?"
+                  },
+                  {
+                      "id":  "w_beg_phrasal_051",
+                      "word_en":  "stand out",
+                      "word_kr":  "눈에 띄다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "이 디자인이 확실히 눈에 띄어.",
+                      "example_en":  "This design definitely stands out."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_052",
+                      "word_en":  "stick with",
+                      "word_kr":  "고수하다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "원래 계획대로 밀고 나가자.",
+                      "example_en":  "Let\u0027s just stick with the original plan."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_053",
+                      "word_en":  "take over",
+                      "word_kr":  "넘겨받다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람이 프로젝트를 넘겨받았어.",
+                      "example_en":  "He took over the project."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_054",
+                      "word_en":  "turn down",
+                      "word_kr":  "거절하다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "그 제안을 거절할 수밖에 없었어.",
+                      "example_en":  "I had to turn down the offer."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_055",
+                      "word_en":  "turn out",
+                      "word_kr":  "밝혀지다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "결국 그 소문이 사실로 밝혀졌어.",
+                      "example_en":  "It turned out the rumor was true."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_056",
+                      "word_en":  "wear out",
+                      "word_kr":  "닳다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "신발이 다 닳았어.",
+                      "example_en":  "My shoes are completely worn out."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_057",
+                      "word_en":  "write down",
+                      "word_kr":  "적다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "이 번호 좀 적어줄래?",
+                      "example_en":  "Can you write down this number?"
+                  },
+                  {
+                      "id":  "w_beg_phrasal_058",
+                      "word_en":  "call off",
+                      "word_kr":  "취소하다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "결국 그 행사가 취소됐어.",
+                      "example_en":  "The event ended up being called off."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_059",
+                      "word_en":  "carry on",
+                      "word_kr":  "계속하다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "그냥 하던 대로 계속해.",
+                      "example_en":  "Just carry on with what you were doing."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_060",
+                      "word_en":  "catch up",
+                      "word_kr":  "밀린 얘기를 하다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "우리 오랜만에 만나서 밀린 얘기 좀 하자.",
+                      "example_en":  "Let\u0027s meet up and catch up soon."
+                  },
+                  {
+                      "id":  "w_beg_phrasal_061",
+                      "word_en":  "cheer up",
+                      "word_kr":  "기운내다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "기운 내, 다 잘 될 거야.",
+                      "example_en":  "Cheer up, everything will be fine."
+                  },
+                  {
+                      "id":  "w_int_phrasal_001",
+                      "word_en":  "put off",
+                      "word_kr":  "미루다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "이 일을 계속 미루면 나중에 더 힘들어질 거야.",
+                      "example_en":  "If you keep putting this off, it\u0027ll only get harder later."
+                  },
+                  {
+                      "id":  "w_int_phrasal_002",
+                      "word_en":  "bring up",
+                      "word_kr":  "화제를 꺼내다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 얘기는 지금 꺼내지 않는 게 나을 것 같아.",
+                      "example_en":  "I don\u0027t think you should bring that up right now."
+                  },
+                  {
+                      "id":  "w_int_phrasal_003",
+                      "word_en":  "break down",
+                      "word_kr":  "무너지다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "면접 중에 갑자기 감정이 무너졌어.",
+                      "example_en":  "She broke down in tears during the interview."
+                  },
+                  {
+                      "id":  "w_int_phrasal_004",
+                      "word_en":  "break out",
+                      "word_kr":  "발생하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 지역에서 전염병이 퍼지기 시작했대.",
+                      "example_en":  "An outbreak started spreading in that area."
+                  },
+                  {
+                      "id":  "w_int_phrasal_005",
+                      "word_en":  "carry out",
+                      "word_kr":  "수행하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "계획대로 잘 수행해야 해.",
+                      "example_en":  "We need to carry out the plan properly."
+                  },
+                  {
+                      "id":  "w_int_phrasal_006",
+                      "word_en":  "come across",
+                      "word_kr":  "우연히 발견하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "우연히 예전 사진을 발견했어.",
+                      "example_en":  "I came across some old photos by accident."
+                  },
+                  {
+                      "id":  "w_int_phrasal_007",
+                      "word_en":  "come up",
+                      "word_kr":  "생기다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "갑자기 일이 생겨서 못 갈 것 같아.",
+                      "example_en":  "Something came up, so I don\u0027t think I can make it."
+                  },
+                  {
+                      "id":  "w_int_phrasal_008",
+                      "word_en":  "count on",
+                      "word_kr":  "의지하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "이번 일은 너만 믿을게.",
+                      "example_en":  "I\u0027m counting on you for this one."
+                  },
+                  {
+                      "id":  "w_int_phrasal_009",
+                      "word_en":  "cut back on",
+                      "word_kr":  "줄이다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "요즘 커피를 좀 줄이려고 하고 있어.",
+                      "example_en":  "I\u0027ve been trying to cut back on coffee lately."
+                  },
+                  {
+                      "id":  "w_int_phrasal_010",
+                      "word_en":  "draw up",
+                      "word_kr":  "작성하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "계약서를 새로 작성해야 할 것 같아.",
+                      "example_en":  "I think we need to draw up a new contract."
+                  },
+                  {
+                      "id":  "w_int_phrasal_011",
+                      "word_en":  "drop out",
+                      "word_kr":  "중퇴하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 결국 대학을 중퇴했대.",
+                      "example_en":  "I heard he ended up dropping out of college."
+                  },
+                  {
+                      "id":  "w_int_phrasal_012",
+                      "word_en":  "end up",
+                      "word_kr":  "결국 ~하게 되다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "결국 우리 둘 다 야근하게 됐어.",
+                      "example_en":  "We both ended up working late."
+                  },
+                  {
+                      "id":  "w_int_phrasal_013",
+                      "word_en":  "fall apart",
+                      "word_kr":  "무너지다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 관계는 결국 무너지고 말았어.",
+                      "example_en":  "That relationship eventually fell apart."
+                  },
+                  {
+                      "id":  "w_int_phrasal_014",
+                      "word_en":  "fall behind",
+                      "word_kr":  "뒤처지다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "일이 밀려서 진도가 많이 뒤처졌어.",
+                      "example_en":  "I\u0027ve fallen way behind on my work."
+                  },
+                  {
+                      "id":  "w_int_phrasal_015",
+                      "word_en":  "fall through",
+                      "word_kr":  "무산되다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 계약이 결국 무산됐어.",
+                      "example_en":  "The deal ended up falling through."
+                  },
+                  {
+                      "id":  "w_int_phrasal_016",
+                      "word_en":  "get around",
+                      "word_kr":  "피해가다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "이 규칙을 피해갈 방법이 있을까?",
+                      "example_en":  "Is there any way to get around this rule?"
+                  },
+                  {
+                      "id":  "w_int_phrasal_017",
+                      "word_en":  "get away with",
+                      "word_kr":  "처벌 없이 넘어가다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 항상 그런 식으로 넘어가더라.",
+                      "example_en":  "He always seems to get away with that kind of thing."
+                  },
+                  {
+                      "id":  "w_int_phrasal_018",
+                      "word_en":  "hold back",
+                      "word_kr":  "억누르다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "속마음을 계속 숨기고 있었던 것 같아.",
+                      "example_en":  "I think I\u0027ve been holding back my true feelings."
+                  },
+                  {
+                      "id":  "w_int_phrasal_019",
+                      "word_en":  "keep on",
+                      "word_kr":  "계속하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "포기하지 말고 계속 밀어붙여.",
+                      "example_en":  "Just keep on pushing, don\u0027t give up."
+                  },
+                  {
+                      "id":  "w_int_phrasal_020",
+                      "word_en":  "lay off",
+                      "word_kr":  "해고하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "회사가 직원 절반을 해고했대.",
+                      "example_en":  "The company laid off half its employees."
+                  },
+                  {
+                      "id":  "w_int_phrasal_021",
+                      "word_en":  "live up to",
+                      "word_kr":  "부응하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "사람들 기대에 부응하기가 쉽지 않아.",
+                      "example_en":  "It\u0027s not easy to live up to everyone\u0027s expectations."
+                  },
+                  {
+                      "id":  "w_int_phrasal_022",
+                      "word_en":  "make up for",
+                      "word_kr":  "만회하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "이번 실수는 다음에 꼭 만회할게.",
+                      "example_en":  "I\u0027ll definitely make up for this mistake next time."
+                  },
+                  {
+                      "id":  "w_int_phrasal_023",
+                      "word_en":  "narrow down",
+                      "word_kr":  "좁히다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "선택지를 세 개로 좁혔어.",
+                      "example_en":  "We narrowed it down to three options."
+                  },
+                  {
+                      "id":  "w_int_phrasal_024",
+                      "word_en":  "pass out",
+                      "word_kr":  "기절하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "너무 더워서 하마터면 기절할 뻔했어.",
+                      "example_en":  "It was so hot I almost passed out."
+                  },
+                  {
+                      "id":  "w_int_phrasal_025",
+                      "word_en":  "pay off",
+                      "word_kr":  "성과를 거두다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그동안의 노력이 결국 성과를 거뒀어.",
+                      "example_en":  "All that effort finally paid off."
+                  },
+                  {
+                      "id":  "w_int_phrasal_026",
+                      "word_en":  "pull off",
+                      "word_kr":  "해내다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 어려운 발표를 결국 해냈어.",
+                      "example_en":  "She actually managed to pull off that tough presentation."
+                  },
+                  {
+                      "id":  "w_int_phrasal_027",
+                      "word_en":  "put up with",
+                      "word_kr":  "참다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람의 그런 태도를 더는 못 참겠어.",
+                      "example_en":  "I can\u0027t put up with his attitude anymore."
+                  },
+                  {
+                      "id":  "w_int_phrasal_028",
+                      "word_en":  "rule out",
+                      "word_kr":  "배제하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 가능성은 아직 배제할 수 없어.",
+                      "example_en":  "We can\u0027t rule out that possibility yet."
+                  },
+                  {
+                      "id":  "w_int_phrasal_029",
+                      "word_en":  "run out of",
+                      "word_kr":  "다 떨어지다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "시간이 거의 다 떨어졌어.",
+                      "example_en":  "We\u0027re almost running out of time."
+                  },
+                  {
+                      "id":  "w_int_phrasal_030",
+                      "word_en":  "see through",
+                      "word_kr":  "간파하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람 속셈을 바로 알아챘어.",
+                      "example_en":  "I saw right through his plan."
                   }
               ]
 }

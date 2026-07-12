@@ -1,5 +1,5 @@
 {
-    "words_version":  "2026-07-12-05",
+    "words_version":  "2026-07-12-06",
     "words":  [
                   {
                       "id":  "w_beg_verb_001",
@@ -3573,6 +3573,816 @@
                       "level":  "int",
                       "example_kr":  "그 사람은 뭐든 꼼꼼하게 확인해.",
                       "example_en":  "She\u0027s meticulous about checking everything."
+                  },
+                  {
+                      "id":  "w_beg_adv_002",
+                      "word_en":  "actually",
+                      "word_kr":  "사실은",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "사실은 나 그거 안 좋아해.",
+                      "example_en":  "Actually, I don\u0027t really like that."
+                  },
+                  {
+                      "id":  "w_beg_adv_003",
+                      "word_en":  "probably",
+                      "word_kr":  "아마",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "아마 오늘 늦게 끝날 것 같아.",
+                      "example_en":  "I\u0027ll probably finish late today."
+                  },
+                  {
+                      "id":  "w_beg_adv_004",
+                      "word_en":  "definitely",
+                      "word_kr":  "확실히",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "이건 확실히 네가 옳았어.",
+                      "example_en":  "You were definitely right about this."
+                  },
+                  {
+                      "id":  "w_beg_adv_005",
+                      "word_en":  "maybe",
+                      "word_kr":  "아마도",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "아마도 나중에 다시 얘기해보자.",
+                      "example_en":  "Maybe we can talk about it again later."
+                  },
+                  {
+                      "id":  "w_beg_adv_006",
+                      "word_en":  "usually",
+                      "word_kr":  "보통",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "나 보통 일곱 시에 일어나.",
+                      "example_en":  "I usually wake up at seven."
+                  },
+                  {
+                      "id":  "w_beg_adv_007",
+                      "word_en":  "rarely",
+                      "word_kr":  "좀처럼 ~않다",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람 좀처럼 화 안 내.",
+                      "example_en":  "He rarely gets angry."
+                  },
+                  {
+                      "id":  "w_beg_adv_008",
+                      "word_en":  "suddenly",
+                      "word_kr":  "갑자기",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "갑자기 비가 쏟아지기 시작했어.",
+                      "example_en":  "It suddenly started pouring rain."
+                  },
+                  {
+                      "id":  "w_beg_adv_009",
+                      "word_en":  "finally",
+                      "word_kr":  "드디어",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "드디어 다 끝났다!",
+                      "example_en":  "We\u0027re finally done!"
+                  },
+                  {
+                      "id":  "w_beg_adv_010",
+                      "word_en":  "eventually",
+                      "word_kr":  "결국",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "결국 다 잘 풀릴 거야.",
+                      "example_en":  "It\u0027ll all work out eventually."
+                  },
+                  {
+                      "id":  "w_beg_adv_011",
+                      "word_en":  "immediately",
+                      "word_kr":  "즉시",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "메시지 보자마자 바로 답장했어.",
+                      "example_en":  "I replied immediately after seeing the message."
+                  },
+                  {
+                      "id":  "w_beg_adv_012",
+                      "word_en":  "recently",
+                      "word_kr":  "최근에",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "최근에 이사했어.",
+                      "example_en":  "I recently moved."
+                  },
+                  {
+                      "id":  "w_beg_adv_013",
+                      "word_en":  "constantly",
+                      "word_kr":  "끊임없이",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "쟤는 끊임없이 불평해.",
+                      "example_en":  "She constantly complains."
+                  },
+                  {
+                      "id":  "w_beg_adv_014",
+                      "word_en":  "barely",
+                      "word_kr":  "겨우",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "겨우 시간 맞춰 도착했어.",
+                      "example_en":  "I barely made it on time."
+                  },
+                  {
+                      "id":  "w_beg_adv_015",
+                      "word_en":  "totally",
+                      "word_kr":  "완전히",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "네 말에 완전 동의해.",
+                      "example_en":  "I totally agree with you."
+                  },
+                  {
+                      "id":  "w_beg_adv_016",
+                      "word_en":  "seriously",
+                      "word_kr":  "진짜로",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "이거 진짜로 심각한 문제야.",
+                      "example_en":  "This is seriously a big problem."
+                  },
+                  {
+                      "id":  "w_beg_adv_017",
+                      "word_en":  "honestly",
+                      "word_kr":  "솔직히",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "솔직히 나도 잘 모르겠어.",
+                      "example_en":  "Honestly, I\u0027m not sure either."
+                  },
+                  {
+                      "id":  "w_beg_adv_018",
+                      "word_en":  "basically",
+                      "word_kr":  "기본적으로",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "기본적으로 다 똑같은 얘기야.",
+                      "example_en":  "It\u0027s basically the same thing."
+                  },
+                  {
+                      "id":  "w_beg_adv_019",
+                      "word_en":  "literally",
+                      "word_kr":  "말 그대로",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "말 그대로 아무것도 안 남았어.",
+                      "example_en":  "There\u0027s literally nothing left."
+                  },
+                  {
+                      "id":  "w_beg_adv_020",
+                      "word_en":  "obviously",
+                      "word_kr":  "당연히",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "그거야 당연히 안 되지.",
+                      "example_en":  "That obviously won\u0027t work."
+                  },
+                  {
+                      "id":  "w_beg_adv_021",
+                      "word_en":  "clearly",
+                      "word_kr":  "분명히",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "이 문제는 분명히 네 잘못이 아니야.",
+                      "example_en":  "This is clearly not your fault."
+                  },
+                  {
+                      "id":  "w_beg_adv_022",
+                      "word_en":  "exactly",
+                      "word_kr":  "정확히",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "정확히 그게 내가 하려던 말이야.",
+                      "example_en":  "That\u0027s exactly what I was trying to say."
+                  },
+                  {
+                      "id":  "w_beg_adv_023",
+                      "word_en":  "especially",
+                      "word_kr":  "특히",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "여름엔 특히 물을 많이 마셔야 해.",
+                      "example_en":  "You should drink a lot of water, especially in summer."
+                  },
+                  {
+                      "id":  "w_beg_adv_024",
+                      "word_en":  "mostly",
+                      "word_kr":  "대부분",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "요즘은 대부분 집에서 일해.",
+                      "example_en":  "I mostly work from home these days."
+                  },
+                  {
+                      "id":  "w_beg_adv_025",
+                      "word_en":  "slightly",
+                      "word_kr":  "약간",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "이게 저것보다 약간 더 비싸.",
+                      "example_en":  "This one is slightly more expensive than that."
+                  },
+                  {
+                      "id":  "w_beg_adv_026",
+                      "word_en":  "extremely",
+                      "word_kr":  "극도로",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "오늘 진짜 극도로 피곤해.",
+                      "example_en":  "I\u0027m extremely tired today."
+                  },
+                  {
+                      "id":  "w_beg_adv_027",
+                      "word_en":  "nearly",
+                      "word_kr":  "거의",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "거의 다 왔어.",
+                      "example_en":  "We\u0027re nearly there."
+                  },
+                  {
+                      "id":  "w_beg_adv_028",
+                      "word_en":  "gradually",
+                      "word_kr":  "점차",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "실력이 점차 늘고 있어.",
+                      "example_en":  "My skills are gradually improving."
+                  },
+                  {
+                      "id":  "w_beg_adv_029",
+                      "word_en":  "instantly",
+                      "word_kr":  "즉각",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "그 냄새 맡자마자 바로 알아챘어.",
+                      "example_en":  "I recognized it instantly from the smell."
+                  },
+                  {
+                      "id":  "w_beg_adv_030",
+                      "word_en":  "occasionally",
+                      "word_kr":  "가끔",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "가끔 혼자 영화 보러 가.",
+                      "example_en":  "I occasionally go watch a movie alone."
+                  },
+                  {
+                      "id":  "w_beg_adv_031",
+                      "word_en":  "simply",
+                      "word_kr":  "그냥",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "그냥 아니라고 말해.",
+                      "example_en":  "Simply say no."
+                  },
+                  {
+                      "id":  "w_beg_adv_032",
+                      "word_en":  "quickly",
+                      "word_kr":  "빨리",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "빨리 준비해, 늦겠어.",
+                      "example_en":  "Get ready quickly, we\u0027re going to be late."
+                  },
+                  {
+                      "id":  "w_beg_adv_033",
+                      "word_en":  "slowly",
+                      "word_kr":  "천천히",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "좀 천천히 말해줄래?",
+                      "example_en":  "Can you speak a little more slowly?"
+                  },
+                  {
+                      "id":  "w_beg_adv_034",
+                      "word_en":  "carefully",
+                      "word_kr":  "조심스럽게",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "이거 조심스럽게 다뤄야 해.",
+                      "example_en":  "You need to handle this carefully."
+                  },
+                  {
+                      "id":  "w_beg_adv_035",
+                      "word_en":  "easily",
+                      "word_kr":  "쉽게",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "이 문제는 생각보다 쉽게 풀렸어.",
+                      "example_en":  "This problem was solved more easily than expected."
+                  },
+                  {
+                      "id":  "w_beg_adv_036",
+                      "word_en":  "hardly",
+                      "word_kr":  "거의 ~않다",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 시간이 거의 없어.",
+                      "example_en":  "I hardly have any time these days."
+                  },
+                  {
+                      "id":  "w_beg_adv_037",
+                      "word_en":  "quietly",
+                      "word_kr":  "조용히",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "애들 자니까 좀 조용히 얘기하자.",
+                      "example_en":  "Let\u0027s talk quietly since the kids are sleeping."
+                  },
+                  {
+                      "id":  "w_beg_adv_038",
+                      "word_en":  "loudly",
+                      "word_kr":  "크게",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "너무 크게 말하지 마.",
+                      "example_en":  "Don\u0027t talk so loudly."
+                  },
+                  {
+                      "id":  "w_beg_adv_039",
+                      "word_en":  "secretly",
+                      "word_kr":  "몰래",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "사실 나 몰래 계획 세우고 있었어.",
+                      "example_en":  "I\u0027ve actually been secretly planning this."
+                  },
+                  {
+                      "id":  "w_beg_adv_040",
+                      "word_en":  "accidentally",
+                      "word_kr":  "실수로",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "실수로 네 메시지 지워버렸어.",
+                      "example_en":  "I accidentally deleted your message."
+                  },
+                  {
+                      "id":  "w_beg_adv_041",
+                      "word_en":  "purposely",
+                      "word_kr":  "일부러",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "일부러 그렇게 한 게 아니야.",
+                      "example_en":  "I didn\u0027t do that purposely."
+                  },
+                  {
+                      "id":  "w_beg_adv_042",
+                      "word_en":  "politely",
+                      "word_kr":  "예의 바르게",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "손님한테는 항상 예의 바르게 대해야 해.",
+                      "example_en":  "You should always treat customers politely."
+                  },
+                  {
+                      "id":  "w_beg_adv_043",
+                      "word_en":  "patiently",
+                      "word_kr":  "참을성 있게",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람은 항상 참을성 있게 기다려줘.",
+                      "example_en":  "He always waits patiently."
+                  },
+                  {
+                      "id":  "w_beg_adv_044",
+                      "word_en":  "nervously",
+                      "word_kr":  "초조하게",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "면접 내내 초조하게 앉아 있었어.",
+                      "example_en":  "I sat there nervously through the whole interview."
+                  },
+                  {
+                      "id":  "w_beg_adv_045",
+                      "word_en":  "calmly",
+                      "word_kr":  "침착하게",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "일단 침착하게 상황을 설명해봐.",
+                      "example_en":  "Just calmly explain the situation."
+                  },
+                  {
+                      "id":  "w_beg_adv_046",
+                      "word_en":  "happily",
+                      "word_kr":  "행복하게",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "그 소식 듣고 다들 행복해했어.",
+                      "example_en":  "Everyone reacted happily to the news."
+                  },
+                  {
+                      "id":  "w_beg_adv_047",
+                      "word_en":  "sadly",
+                      "word_kr":  "슬프게도",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "슬프게도 그 계획은 취소됐어.",
+                      "example_en":  "Sadly, the plan got cancelled."
+                  },
+                  {
+                      "id":  "w_beg_adv_048",
+                      "word_en":  "luckily",
+                      "word_kr":  "다행히",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "다행히 늦지 않게 도착했어.",
+                      "example_en":  "Luckily, I got there on time."
+                  },
+                  {
+                      "id":  "w_beg_adv_049",
+                      "word_en":  "unfortunately",
+                      "word_kr":  "안타깝게도",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "안타깝게도 표가 다 매진됐어.",
+                      "example_en":  "Unfortunately, all the tickets are sold out."
+                  },
+                  {
+                      "id":  "w_beg_adv_050",
+                      "word_en":  "surprisingly",
+                      "word_kr":  "놀랍게도",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "놀랍게도 시험이 생각보다 쉬웠어.",
+                      "example_en":  "Surprisingly, the exam was easier than expected."
+                  },
+                  {
+                      "id":  "w_beg_adv_051",
+                      "word_en":  "apparently",
+                      "word_kr":  "보아하니",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "보아하니 그 사람 이미 알고 있었나 봐.",
+                      "example_en":  "Apparently, he already knew about it."
+                  },
+                  {
+                      "id":  "w_beg_adv_052",
+                      "word_en":  "supposedly",
+                      "word_kr":  "소문에 의하면",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "소문에 의하면 그 사람 곧 그만둔대.",
+                      "example_en":  "Supposedly, he\u0027s leaving the company soon."
+                  },
+                  {
+                      "id":  "w_beg_adv_053",
+                      "word_en":  "currently",
+                      "word_kr":  "현재",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "지금 다른 일을 알아보고 있어.",
+                      "example_en":  "I\u0027m currently looking into other jobs."
+                  },
+                  {
+                      "id":  "w_beg_adv_054",
+                      "word_en":  "lately",
+                      "word_kr":  "요즘",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 좀 바빴어.",
+                      "example_en":  "I\u0027ve been busy lately."
+                  },
+                  {
+                      "id":  "w_beg_adv_055",
+                      "word_en":  "already",
+                      "word_kr":  "이미",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "나 그거 이미 다 봤어.",
+                      "example_en":  "I\u0027ve already seen that."
+                  },
+                  {
+                      "id":  "w_beg_adv_056",
+                      "word_en":  "still",
+                      "word_kr":  "여전히",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "아직도 그 일 하고 있어?",
+                      "example_en":  "Are you still working on that?"
+                  },
+                  {
+                      "id":  "w_beg_adv_057",
+                      "word_en":  "yet",
+                      "word_kr":  "아직",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "아직 결정 못 했어.",
+                      "example_en":  "I haven\u0027t decided yet."
+                  },
+                  {
+                      "id":  "w_beg_adv_058",
+                      "word_en":  "anymore",
+                      "word_kr":  "더 이상",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "더 이상은 못 참겠어.",
+                      "example_en":  "I can\u0027t take it anymore."
+                  },
+                  {
+                      "id":  "w_beg_adv_059",
+                      "word_en":  "often",
+                      "word_kr":  "자주",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 자주 늦게 자.",
+                      "example_en":  "I\u0027ve been going to bed late often lately."
+                  },
+                  {
+                      "id":  "w_beg_adv_060",
+                      "word_en":  "always",
+                      "word_kr":  "항상",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람은 항상 시간에 딱 맞춰 와.",
+                      "example_en":  "He\u0027s always right on time."
+                  },
+                  {
+                      "id":  "w_beg_adv_061",
+                      "word_en":  "never",
+                      "word_kr":  "절대",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "이런 실수는 절대 다시 안 할 거야.",
+                      "example_en":  "I\u0027ll never make this mistake again."
+                  },
+                  {
+                      "id":  "w_int_adv_001",
+                      "word_en":  "inevitably",
+                      "word_kr":  "불가피하게",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "이런 식으로 계속 밀어붙이면 불가피하게 문제가 생길 거야.",
+                      "example_en":  "If you keep pushing this way, problems will inevitably arise."
+                  },
+                  {
+                      "id":  "w_int_adv_002",
+                      "word_en":  "presumably",
+                      "word_kr":  "아마도",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "그 사람이 늦은 걸 보면 아마 차가 막혔을 거야.",
+                      "example_en":  "Presumably, he got stuck in traffic since he\u0027s late."
+                  },
+                  {
+                      "id":  "w_int_adv_003",
+                      "word_en":  "arguably",
+                      "word_kr":  "주장하건대",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "이건 아마 우리가 지금까지 한 것 중 최고의 결과일 거야.",
+                      "example_en":  "This is arguably the best result we\u0027ve achieved so far."
+                  },
+                  {
+                      "id":  "w_int_adv_004",
+                      "word_en":  "essentially",
+                      "word_kr":  "본질적으로",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "결국 본질적으로 우리는 같은 걸 원하고 있는 거야.",
+                      "example_en":  "We\u0027re essentially wanting the same thing."
+                  },
+                  {
+                      "id":  "w_int_adv_005",
+                      "word_en":  "relatively",
+                      "word_kr":  "비교적",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "다른 도시들에 비하면 여긴 비교적 물가가 저렴해.",
+                      "example_en":  "Compared to other cities, prices here are relatively cheap."
+                  },
+                  {
+                      "id":  "w_int_adv_006",
+                      "word_en":  "considerably",
+                      "word_kr":  "상당히",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "이번 결과는 지난번보다 상당히 좋아졌어.",
+                      "example_en":  "This result has improved considerably compared to last time."
+                  },
+                  {
+                      "id":  "w_int_adv_007",
+                      "word_en":  "significantly",
+                      "word_kr":  "현저히",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "매출이 지난달보다 현저히 늘었어.",
+                      "example_en":  "Sales have increased significantly compared to last month."
+                  },
+                  {
+                      "id":  "w_int_adv_008",
+                      "word_en":  "ultimately",
+                      "word_kr":  "결국",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "결국 그 결정은 너한테 달려있어.",
+                      "example_en":  "Ultimately, the decision is up to you."
+                  },
+                  {
+                      "id":  "w_int_adv_009",
+                      "word_en":  "consequently",
+                      "word_kr":  "그 결과로",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "회의가 취소돼서, 그 결과로 일정이 다 밀렸어.",
+                      "example_en":  "The meeting was cancelled, and consequently the whole schedule got pushed back."
+                  },
+                  {
+                      "id":  "w_int_adv_010",
+                      "word_en":  "accordingly",
+                      "word_kr":  "그에 따라",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "상황이 바뀌었으니까 우리도 그에 따라 계획을 조정해야 해.",
+                      "example_en":  "The situation has changed, so we need to adjust our plan accordingly."
+                  },
+                  {
+                      "id":  "w_int_adv_011",
+                      "word_en":  "inherently",
+                      "word_kr":  "본질적으로",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "그 아이디어 자체가 본질적으로 위험한 건 아니야.",
+                      "example_en":  "The idea itself isn\u0027t inherently risky."
+                  },
+                  {
+                      "id":  "w_int_adv_012",
+                      "word_en":  "increasingly",
+                      "word_kr":  "점점 더",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "요즘 재택근무가 점점 더 흔해지고 있어.",
+                      "example_en":  "Remote work is becoming increasingly common these days."
+                  },
+                  {
+                      "id":  "w_int_adv_013",
+                      "word_en":  "deliberately",
+                      "word_kr":  "의도적으로",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "그 사람이 일부러 그런 말을 한 것 같아.",
+                      "example_en":  "I think he deliberately said that."
+                  },
+                  {
+                      "id":  "w_int_adv_014",
+                      "word_en":  "reluctantly",
+                      "word_kr":  "마지못해",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "결국 마지못해 그 제안을 받아들였어.",
+                      "example_en":  "I reluctantly accepted the offer in the end."
+                  },
+                  {
+                      "id":  "w_int_adv_015",
+                      "word_en":  "thoroughly",
+                      "word_kr":  "철저하게",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "계약서를 서명하기 전에 철저히 검토했어.",
+                      "example_en":  "I thoroughly reviewed the contract before signing it."
+                  },
+                  {
+                      "id":  "w_int_adv_016",
+                      "word_en":  "genuinely",
+                      "word_kr":  "진심으로",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "네가 도와줘서 진심으로 고마워.",
+                      "example_en":  "I\u0027m genuinely grateful for your help."
+                  },
+                  {
+                      "id":  "w_int_adv_017",
+                      "word_en":  "virtually",
+                      "word_kr":  "사실상",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "요즘은 사실상 모든 게 온라인으로 처리돼.",
+                      "example_en":  "Nowadays, virtually everything is handled online."
+                  },
+                  {
+                      "id":  "w_int_adv_018",
+                      "word_en":  "undoubtedly",
+                      "word_kr":  "의심할 여지없이",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "이건 의심할 여지없이 우리가 내린 최고의 선택이야.",
+                      "example_en":  "This is undoubtedly the best choice we\u0027ve made."
+                  },
+                  {
+                      "id":  "w_int_adv_019",
+                      "word_en":  "seemingly",
+                      "word_kr":  "겉보기에는",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "겉보기엔 아무 문제 없어 보였는데, 알고 보니 그게 아니었어.",
+                      "example_en":  "It seemed like nothing was wrong, but it turned out otherwise."
+                  },
+                  {
+                      "id":  "w_int_adv_020",
+                      "word_en":  "formerly",
+                      "word_kr":  "예전에는",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 예전엔 우리 회사에서 일했어.",
+                      "example_en":  "He formerly worked at our company."
+                  },
+                  {
+                      "id":  "w_int_adv_021",
+                      "word_en":  "previously",
+                      "word_kr":  "이전에",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "이 얘기는 전에도 한 번 나눈 적이 있어.",
+                      "example_en":  "We\u0027ve previously talked about this."
+                  },
+                  {
+                      "id":  "w_int_adv_022",
+                      "word_en":  "simultaneously",
+                      "word_kr":  "동시에",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "두 가지 일을 동시에 처리하려니 좀 벅차.",
+                      "example_en":  "It\u0027s overwhelming trying to handle two things simultaneously."
+                  },
+                  {
+                      "id":  "w_int_adv_023",
+                      "word_en":  "temporarily",
+                      "word_kr":  "일시적으로",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "일단 이 문제는 일시적으로 해결됐어.",
+                      "example_en":  "This problem has been temporarily resolved for now."
+                  },
+                  {
+                      "id":  "w_int_adv_024",
+                      "word_en":  "permanently",
+                      "word_kr":  "영구적으로",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 결국 이 도시를 영구적으로 떠나기로 했어.",
+                      "example_en":  "He decided to permanently leave this city."
+                  },
+                  {
+                      "id":  "w_int_adv_025",
+                      "word_en":  "randomly",
+                      "word_kr":  "무작위로",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "그냥 무작위로 하나 골랐어.",
+                      "example_en":  "I just picked one randomly."
+                  },
+                  {
+                      "id":  "w_int_adv_026",
+                      "word_en":  "legitimately",
+                      "word_kr":  "정당하게",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "네 걱정은 정당하게 근거가 있는 거야.",
+                      "example_en":  "Your concern is legitimately grounded."
+                  },
+                  {
+                      "id":  "w_int_adv_027",
+                      "word_en":  "explicitly",
+                      "word_kr":  "명확하게",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "그 사람이 명확하게 하지 말라고 했어.",
+                      "example_en":  "He explicitly told us not to do it."
+                  },
+                  {
+                      "id":  "w_int_adv_028",
+                      "word_en":  "implicitly",
+                      "word_kr":  "암시적으로",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "그 사람 말 속에는 암시적으로 그런 뜻이 담겨 있었어.",
+                      "example_en":  "His words implicitly suggested that."
+                  },
+                  {
+                      "id":  "w_int_adv_029",
+                      "word_en":  "mutually",
+                      "word_kr":  "상호간에",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "우리 서로 상호간에 도움이 되는 방향으로 하자.",
+                      "example_en":  "Let\u0027s do this in a way that\u0027s mutually beneficial."
+                  },
+                  {
+                      "id":  "w_int_adv_030",
+                      "word_en":  "ironically",
+                      "word_kr":  "아이러니하게도",
+                      "pos":  "부사",
+                      "level":  "int",
+                      "example_kr":  "아이러니하게도 제일 반대했던 사람이 결국 그걸 제안했어.",
+                      "example_en":  "Ironically, the person who opposed it the most ended up suggesting it."
                   }
               ]
 }

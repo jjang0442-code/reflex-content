@@ -1,68 +1,1148 @@
 {
-  "words_version": "2026-07-12-01",
-  "words": [
-    {
-      "id": "w_beg_verb_001",
-      "word_en": "give up",
-      "word_kr": "포기하다",
-      "pos": "동사",
-      "level": "beg",
-      "example_kr": "한번 시작했으면 포기하지 마.",
-      "example_en": "Once you start, don't give up."
-    },
-    {
-      "id": "w_beg_verb_002",
-      "word_en": "look forward to",
-      "word_kr": "기대하다",
-      "pos": "동사",
-      "level": "beg",
-      "example_kr": "주말이 정말 기대돼.",
-      "example_en": "I really look forward to the weekend."
-    },
-    {
-      "id": "w_beg_noun_001",
-      "word_en": "opportunity",
-      "word_kr": "기회",
-      "pos": "명사",
-      "level": "beg",
-      "example_kr": "이건 정말 좋은 기회야.",
-      "example_en": "This is a great opportunity."
-    },
-    {
-      "id": "w_beg_noun_002",
-      "word_en": "deadline",
-      "word_kr": "마감일",
-      "pos": "명사",
-      "level": "beg",
-      "example_kr": "마감일이 내일이야.",
-      "example_en": "The deadline is tomorrow."
-    },
-    {
-      "id": "w_beg_adj_001",
-      "word_en": "confident",
-      "word_kr": "자신감 있는",
-      "pos": "형용사",
-      "level": "beg",
-      "example_kr": "너는 좀 더 자신감을 가져야 해.",
-      "example_en": "You need to be more confident."
-    },
-    {
-      "id": "w_beg_phr_001",
-      "word_en": "put off",
-      "word_kr": "미루다",
-      "pos": "구동사",
-      "level": "beg",
-      "example_kr": "계속 미루지 마.",
-      "example_en": "Stop putting it off."
-    },
-    {
-      "id": "w_beg_adv_001",
-      "word_en": "eventually",
-      "word_kr": "결국",
-      "pos": "부사",
-      "level": "beg",
-      "example_kr": "결국엔 다 잘 될 거야.",
-      "example_en": "Everything will work out eventually."
-    }
-  ]
+    "words_version":  "2026-07-12-01",
+    "words":  [
+                  {
+                      "id":  "w_beg_verb_001",
+                      "word_en":  "give up",
+                      "word_kr":  "포기하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "한번 시작했으면 포기하지 마.",
+                      "example_en":  "Once you start, don\u0027t give up."
+                  },
+                  {
+                      "id":  "w_beg_verb_002",
+                      "word_en":  "look forward to",
+                      "word_kr":  "기대하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "주말이 정말 기대돼.",
+                      "example_en":  "I really look forward to the weekend."
+                  },
+                  {
+                      "id":  "w_beg_noun_001",
+                      "word_en":  "opportunity",
+                      "word_kr":  "기회",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이건 정말 좋은 기회야.",
+                      "example_en":  "This is a great opportunity."
+                  },
+                  {
+                      "id":  "w_beg_noun_002",
+                      "word_en":  "deadline",
+                      "word_kr":  "마감일",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "마감일이 내일이야.",
+                      "example_en":  "The deadline is tomorrow."
+                  },
+                  {
+                      "id":  "w_beg_adj_001",
+                      "word_en":  "confident",
+                      "word_kr":  "자신감 있는",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "너는 좀 더 자신감을 가져야 해.",
+                      "example_en":  "You need to be more confident."
+                  },
+                  {
+                      "id":  "w_beg_phr_001",
+                      "word_en":  "put off",
+                      "word_kr":  "미루다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "계속 미루지 마.",
+                      "example_en":  "Stop putting it off."
+                  },
+                  {
+                      "id":  "w_beg_adv_001",
+                      "word_en":  "eventually",
+                      "word_kr":  "결국",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "결국엔 다 잘 될 거야.",
+                      "example_en":  "Everything will work out eventually."
+                  },
+                  {
+                      "id":  "w_beg_verb_003",
+                      "word_en":  "try",
+                      "word_kr":  "시도하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "오늘 저녁에 그 새 식당 한번 가볼까 해.",
+                      "example_en":  "I think I\u0027ll try that new restaurant tonight."
+                  },
+                  {
+                      "id":  "w_beg_verb_004",
+                      "word_en":  "decide",
+                      "word_kr":  "결정하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "아직 뭐 먹을지 결정 못 했어.",
+                      "example_en":  "I still haven\u0027t decided what to eat."
+                  },
+                  {
+                      "id":  "w_beg_verb_005",
+                      "word_en":  "forget",
+                      "word_kr":  "잊다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "미안, 완전히 깜빡했어.",
+                      "example_en":  "Sorry, I totally forgot about it."
+                  },
+                  {
+                      "id":  "w_beg_verb_006",
+                      "word_en":  "remember",
+                      "word_kr":  "기억하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "그 얘기했던 거 기억나?",
+                      "example_en":  "Do you remember what I told you?"
+                  },
+                  {
+                      "id":  "w_beg_verb_007",
+                      "word_en":  "agree",
+                      "word_kr":  "동의하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "네 말에 완전 동의해.",
+                      "example_en":  "I totally agree with you on that."
+                  },
+                  {
+                      "id":  "w_beg_verb_008",
+                      "word_en":  "disagree",
+                      "word_kr":  "동의하지 않다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이번엔 좀 생각이 다른데.",
+                      "example_en":  "I have to disagree with you this time."
+                  },
+                  {
+                      "id":  "w_beg_verb_009",
+                      "word_en":  "explain",
+                      "word_kr":  "설명하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "왜 늦었는지 설명 좀 해줄래?",
+                      "example_en":  "Can you explain why you were late?"
+                  },
+                  {
+                      "id":  "w_beg_verb_010",
+                      "word_en":  "imagine",
+                      "word_kr":  "상상하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "네가 사장이 된다고 상상해봐.",
+                      "example_en":  "Just imagine you\u0027re the boss for a day."
+                  },
+                  {
+                      "id":  "w_beg_verb_011",
+                      "word_en":  "hope",
+                      "word_kr":  "바라다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "내일은 날씨가 좋으면 좋겠다.",
+                      "example_en":  "I hope the weather\u0027s nice tomorrow."
+                  },
+                  {
+                      "id":  "w_beg_verb_012",
+                      "word_en":  "wonder",
+                      "word_kr":  "궁금해하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "쟤가 왜 저러는지 궁금하네.",
+                      "example_en":  "I wonder why she\u0027s acting like that."
+                  },
+                  {
+                      "id":  "w_beg_verb_013",
+                      "word_en":  "realize",
+                      "word_kr":  "깨닫다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "말하고 나서야 실수한 걸 깨달았어.",
+                      "example_en":  "I realized my mistake right after I said it."
+                  },
+                  {
+                      "id":  "w_beg_verb_014",
+                      "word_en":  "believe",
+                      "word_kr":  "믿다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "나 그 사람 말 못 믿겠어.",
+                      "example_en":  "I don\u0027t believe what he said."
+                  },
+                  {
+                      "id":  "w_beg_verb_015",
+                      "word_en":  "complain",
+                      "word_kr":  "불평하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "음식에 대해 계속 불평하지 마.",
+                      "example_en":  "Stop complaining about the food already."
+                  },
+                  {
+                      "id":  "w_beg_verb_016",
+                      "word_en":  "apologize",
+                      "word_kr":  "사과하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "너한테 사과할게, 내가 잘못했어.",
+                      "example_en":  "I want to apologize, it was my fault."
+                  },
+                  {
+                      "id":  "w_beg_verb_017",
+                      "word_en":  "promise",
+                      "word_kr":  "약속하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이번엔 진짜 약속 지킬게.",
+                      "example_en":  "I promise I\u0027ll keep it this time."
+                  },
+                  {
+                      "id":  "w_beg_verb_018",
+                      "word_en":  "admit",
+                      "word_kr":  "인정하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "그건 내가 틀렸다고 인정할게.",
+                      "example_en":  "I have to admit I was wrong."
+                  },
+                  {
+                      "id":  "w_beg_verb_019",
+                      "word_en":  "suggest",
+                      "word_kr":  "제안하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "내가 좋은 데 하나 제안해도 될까?",
+                      "example_en":  "Can I suggest a good place to go?"
+                  },
+                  {
+                      "id":  "w_beg_verb_020",
+                      "word_en":  "warn",
+                      "word_kr":  "경고하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "미리 경고했잖아, 늦을 거라고.",
+                      "example_en":  "I warned you it would be late."
+                  },
+                  {
+                      "id":  "w_beg_verb_021",
+                      "word_en":  "invite",
+                      "word_kr":  "초대하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "저녁 파티에 널 초대하고 싶어.",
+                      "example_en":  "I\u0027d like to invite you to dinner."
+                  },
+                  {
+                      "id":  "w_beg_verb_022",
+                      "word_en":  "refuse",
+                      "word_kr":  "거절하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "그 제안을 거절할 수밖에 없었어.",
+                      "example_en":  "I had no choice but to refuse the offer."
+                  },
+                  {
+                      "id":  "w_beg_verb_023",
+                      "word_en":  "encourage",
+                      "word_kr":  "격려하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "네가 도전하도록 응원해줄게.",
+                      "example_en":  "I\u0027ll encourage you to give it a shot."
+                  },
+                  {
+                      "id":  "w_beg_verb_024",
+                      "word_en":  "avoid",
+                      "word_kr":  "피하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람이랑 마주치는 거 피하고 싶어.",
+                      "example_en":  "I want to avoid running into him."
+                  },
+                  {
+                      "id":  "w_beg_verb_025",
+                      "word_en":  "allow",
+                      "word_kr":  "허락하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "여기서는 흡연이 허용 안 돼.",
+                      "example_en":  "Smoking isn\u0027t allowed in here."
+                  },
+                  {
+                      "id":  "w_beg_verb_026",
+                      "word_en":  "discover",
+                      "word_kr":  "발견하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "우연히 좋은 식당을 하나 발견했어.",
+                      "example_en":  "I discovered a great restaurant by accident."
+                  },
+                  {
+                      "id":  "w_beg_verb_027",
+                      "word_en":  "improve",
+                      "word_kr":  "나아지다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 영어 실력이 많이 늘었어.",
+                      "example_en":  "My English has really improved lately."
+                  },
+                  {
+                      "id":  "w_beg_verb_028",
+                      "word_en":  "share",
+                      "word_kr":  "나누다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이거 같이 나눠 먹을래?",
+                      "example_en":  "Do you want to share this with me?"
+                  },
+                  {
+                      "id":  "w_beg_verb_029",
+                      "word_en":  "borrow",
+                      "word_kr":  "빌리다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "네 우산 좀 빌려도 될까?",
+                      "example_en":  "Can I borrow your umbrella for a bit?"
+                  },
+                  {
+                      "id":  "w_beg_verb_030",
+                      "word_en":  "lend",
+                      "word_kr":  "빌려주다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "돈 좀 빌려줄 수 있어?",
+                      "example_en":  "Could you lend me some money?"
+                  },
+                  {
+                      "id":  "w_beg_verb_031",
+                      "word_en":  "return",
+                      "word_kr":  "반납하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 책 도서관에 반납해야 해.",
+                      "example_en":  "I need to return this book to the library."
+                  },
+                  {
+                      "id":  "w_beg_verb_032",
+                      "word_en":  "celebrate",
+                      "word_kr":  "축하하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "우리 이번 주말에 축하하자.",
+                      "example_en":  "Let\u0027s celebrate this weekend."
+                  },
+                  {
+                      "id":  "w_beg_verb_033",
+                      "word_en":  "finish",
+                      "word_kr":  "끝내다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "숙제 다 끝냈어?",
+                      "example_en":  "Have you finished your homework yet?"
+                  },
+                  {
+                      "id":  "w_beg_verb_034",
+                      "word_en":  "start",
+                      "word_kr":  "시작하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "우리 회의 지금 시작할까?",
+                      "example_en":  "Should we start the meeting now?"
+                  },
+                  {
+                      "id":  "w_beg_verb_035",
+                      "word_en":  "continue",
+                      "word_kr":  "계속하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 얘기는 나중에 계속하자.",
+                      "example_en":  "Let\u0027s continue this conversation later."
+                  },
+                  {
+                      "id":  "w_beg_verb_036",
+                      "word_en":  "stop",
+                      "word_kr":  "멈추다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "제발 좀 그만해.",
+                      "example_en":  "Please just stop doing that."
+                  },
+                  {
+                      "id":  "w_beg_verb_037",
+                      "word_en":  "wait",
+                      "word_kr":  "기다리다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "여기서 조금만 기다려줘.",
+                      "example_en":  "Just wait here for a minute."
+                  },
+                  {
+                      "id":  "w_beg_verb_038",
+                      "word_en":  "arrive",
+                      "word_kr":  "도착하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "몇 분 안에 도착할 거야.",
+                      "example_en":  "We should arrive in a few minutes."
+                  },
+                  {
+                      "id":  "w_beg_verb_039",
+                      "word_en":  "leave",
+                      "word_kr":  "떠나다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "나 지금 나가야 해.",
+                      "example_en":  "I have to leave right now."
+                  },
+                  {
+                      "id":  "w_beg_verb_040",
+                      "word_en":  "miss",
+                      "word_kr":  "놓치다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "버스를 놓쳐서 늦었어.",
+                      "example_en":  "I missed the bus, so I was late."
+                  },
+                  {
+                      "id":  "w_beg_verb_041",
+                      "word_en":  "lose",
+                      "word_kr":  "잃어버리다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "지갑을 또 잃어버렸어.",
+                      "example_en":  "I lost my wallet again."
+                  },
+                  {
+                      "id":  "w_beg_verb_042",
+                      "word_en":  "find",
+                      "word_kr":  "찾다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "열쇠 어디 있는지 못 찾겠어.",
+                      "example_en":  "I can\u0027t find my keys anywhere."
+                  },
+                  {
+                      "id":  "w_beg_verb_043",
+                      "word_en":  "choose",
+                      "word_kr":  "고르다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "둘 중에 뭘 골라야 할지 모르겠어.",
+                      "example_en":  "I don\u0027t know which one to choose."
+                  },
+                  {
+                      "id":  "w_beg_verb_044",
+                      "word_en":  "change",
+                      "word_kr":  "바꾸다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "계획 좀 바꿔야 할 것 같아.",
+                      "example_en":  "I think we need to change the plan."
+                  },
+                  {
+                      "id":  "w_beg_verb_045",
+                      "word_en":  "move",
+                      "word_kr":  "이사하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "나 다음 달에 이사가.",
+                      "example_en":  "I\u0027m moving to a new place next month."
+                  },
+                  {
+                      "id":  "w_beg_verb_046",
+                      "word_en":  "stay",
+                      "word_kr":  "머무르다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "오늘 밤은 집에 있을래.",
+                      "example_en":  "I think I\u0027ll just stay home tonight."
+                  },
+                  {
+                      "id":  "w_beg_verb_047",
+                      "word_en":  "visit",
+                      "word_kr":  "방문하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이번 주말에 부모님 뵈러 갈 거야.",
+                      "example_en":  "I\u0027m going to visit my parents this weekend."
+                  },
+                  {
+                      "id":  "w_beg_verb_048",
+                      "word_en":  "meet",
+                      "word_kr":  "만나다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "내일 몇 시에 만날까?",
+                      "example_en":  "What time should we meet tomorrow?"
+                  },
+                  {
+                      "id":  "w_beg_verb_049",
+                      "word_en":  "call",
+                      "word_kr":  "전화하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "도착하면 나한테 전화해줘.",
+                      "example_en":  "Call me when you get there."
+                  },
+                  {
+                      "id":  "w_beg_verb_050",
+                      "word_en":  "answer",
+                      "word_kr":  "대답하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "그 질문에 대답 못 하겠어.",
+                      "example_en":  "I can\u0027t answer that question."
+                  },
+                  {
+                      "id":  "w_beg_verb_051",
+                      "word_en":  "ask",
+                      "word_kr":  "물어보다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "너한테 뭐 하나 물어봐도 돼?",
+                      "example_en":  "Can I ask you something?"
+                  },
+                  {
+                      "id":  "w_beg_verb_052",
+                      "word_en":  "reply",
+                      "word_kr":  "답장하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "문자 보냈는데 아직 답장이 없어.",
+                      "example_en":  "I texted him but he hasn\u0027t replied yet."
+                  },
+                  {
+                      "id":  "w_beg_verb_053",
+                      "word_en":  "listen",
+                      "word_kr":  "듣다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "내 말 좀 들어봐.",
+                      "example_en":  "Just listen to me for a second."
+                  },
+                  {
+                      "id":  "w_beg_verb_054",
+                      "word_en":  "watch",
+                      "word_kr":  "보다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "우리 오늘 영화 볼까?",
+                      "example_en":  "Should we watch a movie tonight?"
+                  },
+                  {
+                      "id":  "w_beg_verb_055",
+                      "word_en":  "check",
+                      "word_kr":  "확인하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이메일 확인해봤어?",
+                      "example_en":  "Did you check your email?"
+                  },
+                  {
+                      "id":  "w_beg_verb_056",
+                      "word_en":  "fix",
+                      "word_kr":  "고치다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이거 고칠 수 있어?",
+                      "example_en":  "Can you fix this for me?"
+                  },
+                  {
+                      "id":  "w_beg_verb_057",
+                      "word_en":  "break",
+                      "word_kr":  "고장나다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "핸드폰이 또 고장났어.",
+                      "example_en":  "My phone broke again."
+                  },
+                  {
+                      "id":  "w_beg_verb_058",
+                      "word_en":  "build",
+                      "word_kr":  "짓다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "여기다 새 집을 지을 거래.",
+                      "example_en":  "They\u0027re going to build a new house here."
+                  },
+                  {
+                      "id":  "w_beg_verb_059",
+                      "word_en":  "create",
+                      "word_kr":  "만들어내다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "새로운 뭔가를 만들고 싶어.",
+                      "example_en":  "I want to create something new."
+                  },
+                  {
+                      "id":  "w_beg_verb_060",
+                      "word_en":  "plan",
+                      "word_kr":  "계획하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이번 여행 계획 다 세웠어?",
+                      "example_en":  "Have you planned this trip yet?"
+                  },
+                  {
+                      "id":  "w_beg_verb_061",
+                      "word_en":  "prepare",
+                      "word_kr":  "준비하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "발표 준비하고 있어.",
+                      "example_en":  "I\u0027m preparing for the presentation."
+                  },
+                  {
+                      "id":  "w_beg_verb_062",
+                      "word_en":  "expect",
+                      "word_kr":  "예상하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이런 결과는 예상 못 했어.",
+                      "example_en":  "I didn\u0027t expect this result."
+                  },
+                  {
+                      "id":  "w_int_verb_001",
+                      "word_en":  "postpone",
+                      "word_kr":  "연기하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "회의가 다음 주로 연기됐다고 들었어.",
+                      "example_en":  "I heard the meeting has been postponed until next week."
+                  },
+                  {
+                      "id":  "w_int_verb_002",
+                      "word_en":  "accomplish",
+                      "word_kr":  "해내다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 프로젝트를 끝까지 해내서 정말 뿌듯해.",
+                      "example_en":  "I feel proud that I managed to accomplish this project."
+                  },
+                  {
+                      "id":  "w_int_verb_003",
+                      "word_en":  "achieve",
+                      "word_kr":  "달성하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "네가 목표를 달성할 때까지 포기하지 마.",
+                      "example_en":  "Don\u0027t give up until you achieve your goal."
+                  },
+                  {
+                      "id":  "w_int_verb_004",
+                      "word_en":  "involve",
+                      "word_kr":  "관련되다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 일은 생각보다 많은 사람이 관련되어 있어.",
+                      "example_en":  "This matter involves more people than you\u0027d think."
+                  },
+                  {
+                      "id":  "w_int_verb_005",
+                      "word_en":  "consider",
+                      "word_kr":  "고려하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이직을 진지하게 고려하고 있어.",
+                      "example_en":  "I\u0027m seriously considering changing jobs."
+                  },
+                  {
+                      "id":  "w_int_verb_006",
+                      "word_en":  "assume",
+                      "word_kr":  "짐작하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "네가 알고 있을 거라고 그냥 짐작했어.",
+                      "example_en":  "I just assumed you already knew about it."
+                  },
+                  {
+                      "id":  "w_int_verb_007",
+                      "word_en":  "determine",
+                      "word_kr":  "결정짓다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "결과가 나올 때까지는 아무것도 결정짓기 어려워.",
+                      "example_en":  "It\u0027s hard to determine anything until the results come out."
+                  },
+                  {
+                      "id":  "w_int_verb_008",
+                      "word_en":  "maintain",
+                      "word_kr":  "유지하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "친구 관계를 유지하는 게 생각보다 힘들어.",
+                      "example_en":  "Maintaining friendships is harder than it seems."
+                  },
+                  {
+                      "id":  "w_int_verb_009",
+                      "word_en":  "contribute",
+                      "word_kr":  "기여하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이번 성공에 네가 크게 기여했어.",
+                      "example_en":  "You contributed a lot to this success."
+                  },
+                  {
+                      "id":  "w_int_verb_010",
+                      "word_en":  "recognize",
+                      "word_kr":  "알아보다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "너무 변해서 처음엔 못 알아봤어.",
+                      "example_en":  "You\u0027ve changed so much that I didn\u0027t recognize you at first."
+                  },
+                  {
+                      "id":  "w_int_verb_011",
+                      "word_en":  "emphasize",
+                      "word_kr":  "강조하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 정직함을 항상 강조해.",
+                      "example_en":  "He always emphasizes the importance of honesty."
+                  },
+                  {
+                      "id":  "w_int_verb_012",
+                      "word_en":  "justify",
+                      "word_kr":  "정당화하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그렇게 행동한 걸 정당화할 순 없어.",
+                      "example_en":  "You can\u0027t justify acting that way."
+                  },
+                  {
+                      "id":  "w_int_verb_013",
+                      "word_en":  "eliminate",
+                      "word_kr":  "없애다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "예산에서 불필요한 항목을 없애야 해.",
+                      "example_en":  "We need to eliminate unnecessary items from the budget."
+                  },
+                  {
+                      "id":  "w_int_verb_014",
+                      "word_en":  "overcome",
+                      "word_kr":  "극복하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 두려움을 극복하는 데 오래 걸렸어.",
+                      "example_en":  "It took a long time to overcome that fear."
+                  },
+                  {
+                      "id":  "w_int_verb_015",
+                      "word_en":  "tolerate",
+                      "word_kr":  "참다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "더 이상은 이런 태도를 못 참겠어.",
+                      "example_en":  "I can\u0027t tolerate this kind of attitude anymore."
+                  },
+                  {
+                      "id":  "w_int_verb_016",
+                      "word_en":  "resolve",
+                      "word_kr":  "해결하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "우리끼리 이 문제를 해결할 수 있을 것 같아.",
+                      "example_en":  "I think we can resolve this issue on our own."
+                  },
+                  {
+                      "id":  "w_int_verb_017",
+                      "word_en":  "negotiate",
+                      "word_kr":  "협상하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "월급을 좀 더 협상해볼 생각이야.",
+                      "example_en":  "I\u0027m planning to negotiate for a higher salary."
+                  },
+                  {
+                      "id":  "w_int_verb_018",
+                      "word_en":  "anticipate",
+                      "word_kr":  "예상하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이런 반응은 전혀 예상하지 못했어.",
+                      "example_en":  "I didn\u0027t anticipate this kind of reaction at all."
+                  },
+                  {
+                      "id":  "w_int_verb_019",
+                      "word_en":  "exaggerate",
+                      "word_kr":  "과장하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "네가 좀 과장해서 말하는 것 같은데.",
+                      "example_en":  "I think you\u0027re exaggerating a little bit."
+                  },
+                  {
+                      "id":  "w_int_verb_020",
+                      "word_en":  "criticize",
+                      "word_kr":  "비판하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "다른 사람 앞에서 나를 비판하지 말아줘.",
+                      "example_en":  "Please don\u0027t criticize me in front of others."
+                  },
+                  {
+                      "id":  "w_int_verb_021",
+                      "word_en":  "accuse",
+                      "word_kr":  "비난하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "괜히 나를 거짓말쟁이라고 몰아붙이지 마.",
+                      "example_en":  "Don\u0027t accuse me of lying for no reason."
+                  },
+                  {
+                      "id":  "w_int_verb_022",
+                      "word_en":  "deny",
+                      "word_kr":  "부인하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 끝까지 잘못을 부인했어.",
+                      "example_en":  "He denied doing anything wrong until the end."
+                  },
+                  {
+                      "id":  "w_int_verb_023",
+                      "word_en":  "confirm",
+                      "word_kr":  "확인해주다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "예약이 됐는지 다시 확인해줄 수 있어?",
+                      "example_en":  "Can you confirm whether the reservation went through?"
+                  },
+                  {
+                      "id":  "w_int_verb_024",
+                      "word_en":  "reveal",
+                      "word_kr":  "드러내다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "결국 그 사람이 진짜 이유를 밝혔어.",
+                      "example_en":  "He finally revealed the real reason behind it."
+                  },
+                  {
+                      "id":  "w_int_verb_025",
+                      "word_en":  "persuade",
+                      "word_kr":  "설득하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "널 설득하는 데 시간이 좀 걸렸어.",
+                      "example_en":  "It took a while to persuade you."
+                  },
+                  {
+                      "id":  "w_int_verb_026",
+                      "word_en":  "convince",
+                      "word_kr":  "확신시키다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람들을 확신시키기가 쉽지 않았어.",
+                      "example_en":  "It wasn\u0027t easy to convince them."
+                  },
+                  {
+                      "id":  "w_int_verb_027",
+                      "word_en":  "neglect",
+                      "word_kr":  "소홀히 하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "요즘 건강 관리를 너무 소홀히 했어.",
+                      "example_en":  "I\u0027ve been neglecting my health lately."
+                  },
+                  {
+                      "id":  "w_int_verb_028",
+                      "word_en":  "hesitate",
+                      "word_kr":  "망설이다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "궁금한 게 있으면 망설이지 말고 물어봐.",
+                      "example_en":  "If you have questions, don\u0027t hesitate to ask."
+                  },
+                  {
+                      "id":  "w_int_verb_029",
+                      "word_en":  "sacrifice",
+                      "word_kr":  "희생하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "가족을 위해 많은 걸 희생했어.",
+                      "example_en":  "She sacrificed a lot for her family."
+                  },
+                  {
+                      "id":  "w_int_verb_030",
+                      "word_en":  "compromise",
+                      "word_kr":  "타협하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "우리 서로 조금씩 타협하는 게 어때?",
+                      "example_en":  "Why don\u0027t we compromise a little on both sides?"
+                  },
+                  {
+                      "id":  "w_int_verb_031",
+                      "word_en":  "acknowledge",
+                      "word_kr":  "인정하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "네가 애쓴 걸 인정 안 할 수가 없네.",
+                      "example_en":  "I have to acknowledge how hard you worked."
+                  },
+                  {
+                      "id":  "w_int_verb_032",
+                      "word_en":  "address",
+                      "word_kr":  "다루다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 문제는 지금 다뤄야 할 것 같아.",
+                      "example_en":  "I think we need to address this issue now."
+                  },
+                  {
+                      "id":  "w_int_verb_033",
+                      "word_en":  "adapt",
+                      "word_kr":  "적응하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "새 환경에 적응하는 데 시간이 좀 걸렸어.",
+                      "example_en":  "It took a while to adapt to the new environment."
+                  },
+                  {
+                      "id":  "w_int_verb_034",
+                      "word_en":  "adjust",
+                      "word_kr":  "조정하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "일정을 좀 조정할 수 있을까?",
+                      "example_en":  "Can we adjust the schedule a little?"
+                  },
+                  {
+                      "id":  "w_int_verb_035",
+                      "word_en":  "analyze",
+                      "word_kr":  "분석하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "데이터를 좀 더 분석해봐야 할 것 같아.",
+                      "example_en":  "I think we need to analyze the data more closely."
+                  },
+                  {
+                      "id":  "w_int_verb_036",
+                      "word_en":  "appreciate",
+                      "word_kr":  "고맙게 생각하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "네가 도와준 거 정말 고맙게 생각해.",
+                      "example_en":  "I really appreciate you helping me out."
+                  },
+                  {
+                      "id":  "w_int_verb_037",
+                      "word_en":  "approach",
+                      "word_kr":  "접근하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 문제는 다르게 접근해야 할 것 같아.",
+                      "example_en":  "I think we should approach this problem differently."
+                  },
+                  {
+                      "id":  "w_int_verb_038",
+                      "word_en":  "arrange",
+                      "word_kr":  "마련하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "다음 주에 미팅 하나 잡아놓을게.",
+                      "example_en":  "I\u0027ll arrange a meeting for next week."
+                  },
+                  {
+                      "id":  "w_int_verb_039",
+                      "word_en":  "assess",
+                      "word_kr":  "평가하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "먼저 상황을 정확히 평가해보자.",
+                      "example_en":  "Let\u0027s assess the situation carefully first."
+                  },
+                  {
+                      "id":  "w_int_verb_040",
+                      "word_en":  "assist",
+                      "word_kr":  "돕다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "필요하면 언제든 도와줄게.",
+                      "example_en":  "I\u0027ll assist you whenever you need it."
+                  },
+                  {
+                      "id":  "w_int_verb_041",
+                      "word_en":  "assure",
+                      "word_kr":  "장담하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "다 잘 될 거라고 장담할게.",
+                      "example_en":  "I assure you everything will be fine."
+                  },
+                  {
+                      "id":  "w_int_verb_042",
+                      "word_en":  "attach",
+                      "word_kr":  "첨부하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "파일 하나 첨부해서 보냈어.",
+                      "example_en":  "I attached a file and sent it over."
+                  },
+                  {
+                      "id":  "w_int_verb_043",
+                      "word_en":  "attempt",
+                      "word_kr":  "시도하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "포기하기 전에 한 번 더 시도해봐.",
+                      "example_en":  "Make one more attempt before giving up."
+                  },
+                  {
+                      "id":  "w_int_verb_044",
+                      "word_en":  "attribute",
+                      "word_kr":  "~탓으로 돌리다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 성공을 팀 전체의 노력으로 돌렸어.",
+                      "example_en":  "She attributed the success to the whole team\u0027s effort."
+                  },
+                  {
+                      "id":  "w_int_verb_045",
+                      "word_en":  "blame",
+                      "word_kr":  "탓하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "누구 탓을 해도 상황은 안 바뀌어.",
+                      "example_en":  "Blaming someone won\u0027t change the situation."
+                  },
+                  {
+                      "id":  "w_int_verb_046",
+                      "word_en":  "calculate",
+                      "word_kr":  "계산하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "총 비용을 다시 계산해봐야 해.",
+                      "example_en":  "We need to calculate the total cost again."
+                  },
+                  {
+                      "id":  "w_int_verb_047",
+                      "word_en":  "cancel",
+                      "word_kr":  "취소하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "예약을 취소해야 할 것 같아.",
+                      "example_en":  "I think I need to cancel the reservation."
+                  },
+                  {
+                      "id":  "w_int_verb_048",
+                      "word_en":  "clarify",
+                      "word_kr":  "명확히 하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "네가 말한 게 정확히 무슨 뜻인지 명확히 해줄래?",
+                      "example_en":  "Could you clarify exactly what you meant?"
+                  },
+                  {
+                      "id":  "w_int_verb_049",
+                      "word_en":  "collaborate",
+                      "word_kr":  "협력하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이번 프로젝트는 다른 팀이랑 협력해서 진행해.",
+                      "example_en":  "We\u0027re collaborating with another team on this project."
+                  },
+                  {
+                      "id":  "w_int_verb_050",
+                      "word_en":  "combine",
+                      "word_kr":  "결합하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "두 아이디어를 합치면 더 나을 것 같아.",
+                      "example_en":  "I think it\u0027d be better to combine the two ideas."
+                  },
+                  {
+                      "id":  "w_int_verb_051",
+                      "word_en":  "commit",
+                      "word_kr":  "전념하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 프로젝트에 전념하기로 결심했어.",
+                      "example_en":  "I\u0027ve decided to commit to this project fully."
+                  },
+                  {
+                      "id":  "w_int_verb_052",
+                      "word_en":  "communicate",
+                      "word_kr":  "소통하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "서로 좀 더 솔직하게 소통해야 할 것 같아.",
+                      "example_en":  "We need to communicate more honestly with each other."
+                  },
+                  {
+                      "id":  "w_int_verb_053",
+                      "word_en":  "compare",
+                      "word_kr":  "비교하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "가격을 좀 더 비교해보고 결정하자.",
+                      "example_en":  "Let\u0027s compare the prices before deciding."
+                  },
+                  {
+                      "id":  "w_int_verb_054",
+                      "word_en":  "complicate",
+                      "word_kr":  "복잡하게 만들다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "괜히 상황을 더 복잡하게 만들지 마.",
+                      "example_en":  "Don\u0027t complicate things any further than they already are."
+                  },
+                  {
+                      "id":  "w_int_verb_055",
+                      "word_en":  "conclude",
+                      "word_kr":  "결론짓다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "결국 우리는 그 계획을 포기하기로 결론지었어.",
+                      "example_en":  "We eventually concluded that we should drop the plan."
+                  },
+                  {
+                      "id":  "w_int_verb_056",
+                      "word_en":  "conduct",
+                      "word_kr":  "수행하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "다음 주에 설문조사를 진행할 예정이야.",
+                      "example_en":  "We\u0027re planning to conduct a survey next week."
+                  },
+                  {
+                      "id":  "w_int_verb_057",
+                      "word_en":  "confront",
+                      "word_kr":  "맞서다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "언젠가는 그 문제를 직접 마주해야 해.",
+                      "example_en":  "You\u0027ll have to confront that problem eventually."
+                  },
+                  {
+                      "id":  "w_int_verb_058",
+                      "word_en":  "connect",
+                      "word_kr":  "연결하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 두 가지가 어떻게 연결되는지 모르겠어.",
+                      "example_en":  "I don\u0027t quite see how these two are connected."
+                  },
+                  {
+                      "id":  "w_int_verb_059",
+                      "word_en":  "cope",
+                      "word_kr":  "대처하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "요즘 스트레스를 어떻게 견디고 있어?",
+                      "example_en":  "How are you coping with the stress lately?"
+                  },
+                  {
+                      "id":  "w_int_verb_060",
+                      "word_en":  "consult",
+                      "word_kr":  "상담하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "결정하기 전에 전문가랑 상담해보는 게 좋겠어.",
+                      "example_en":  "It\u0027d be good to consult an expert before deciding."
+                  }
+              ]
 }

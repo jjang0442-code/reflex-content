@@ -1,0 +1,68 @@
+{
+  "words_version": "2026-07-12-01",
+  "words": [
+    {
+      "id": "w_beg_verb_001",
+      "word_en": "give up",
+      "word_kr": "포기하다",
+      "pos": "동사",
+      "level": "beg",
+      "example_kr": "한번 시작했으면 포기하지 마.",
+      "example_en": "Once you start, don't give up."
+    },
+    {
+      "id": "w_beg_verb_002",
+      "word_en": "look forward to",
+      "word_kr": "기대하다",
+      "pos": "동사",
+      "level": "beg",
+      "example_kr": "주말이 정말 기대돼.",
+      "example_en": "I really look forward to the weekend."
+    },
+    {
+      "id": "w_beg_noun_001",
+      "word_en": "opportunity",
+      "word_kr": "기회",
+      "pos": "명사",
+      "level": "beg",
+      "example_kr": "이건 정말 좋은 기회야.",
+      "example_en": "This is a great opportunity."
+    },
+    {
+      "id": "w_beg_noun_002",
+      "word_en": "deadline",
+      "word_kr": "마감일",
+      "pos": "명사",
+      "level": "beg",
+      "example_kr": "마감일이 내일이야.",
+      "example_en": "The deadline is tomorrow."
+    },
+    {
+      "id": "w_beg_adj_001",
+      "word_en": "confident",
+      "word_kr": "자신감 있는",
+      "pos": "형용사",
+      "level": "beg",
+      "example_kr": "너는 좀 더 자신감을 가져야 해.",
+      "example_en": "You need to be more confident."
+    },
+    {
+      "id": "w_beg_phr_001",
+      "word_en": "put off",
+      "word_kr": "미루다",
+      "pos": "구동사",
+      "level": "beg",
+      "example_kr": "계속 미루지 마.",
+      "example_en": "Stop putting it off."
+    },
+    {
+      "id": "w_beg_adv_001",
+      "word_en": "eventually",
+      "word_kr": "결국",
+      "pos": "부사",
+      "level": "beg",
+      "example_kr": "결국엔 다 잘 될 거야.",
+      "example_en": "Everything will work out eventually."
+    }
+  ]
+}

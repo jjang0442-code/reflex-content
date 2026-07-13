@@ -1,5 +1,5 @@
 {
-    "words_version":  "2026-07-13-01",
+    "words_version":  "2026-07-13-02",
     "words":  [
                   {
                       "id":  "w_beg_verb_001",
@@ -6003,6 +6003,1086 @@
                       "level":  "int",
                       "example_kr":  "다음 주 일정을 미리 준비해놨어.",
                       "example_en":  "I\u0027ve lined up the schedule for next week."
+                  },
+                  {
+                      "id":  "w_beg_adj_092",
+                      "word_en":  "cheap",
+                      "word_kr":  "저렴한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이거 생각보다 되게 싸다.",
+                      "example_en":  "This is way cheaper than I thought."
+                  },
+                  {
+                      "id":  "w_beg_adj_093",
+                      "word_en":  "fast",
+                      "word_kr":  "빠른",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 차 진짜 빠르다.",
+                      "example_en":  "This car is really fast."
+                  },
+                  {
+                      "id":  "w_beg_adj_094",
+                      "word_en":  "slow",
+                      "word_kr":  "느린",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "인터넷이 너무 느려.",
+                      "example_en":  "The internet is so slow."
+                  },
+                  {
+                      "id":  "w_beg_adj_095",
+                      "word_en":  "easy",
+                      "word_kr":  "쉬운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 게임 진짜 쉬워.",
+                      "example_en":  "This game is really easy."
+                  },
+                  {
+                      "id":  "w_beg_adj_096",
+                      "word_en":  "difficult",
+                      "word_kr":  "어려운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이번 시험이 좀 어려웠어.",
+                      "example_en":  "This exam was a bit difficult."
+                  },
+                  {
+                      "id":  "w_beg_adj_097",
+                      "word_en":  "simple",
+                      "word_kr":  "간단한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 방법이 훨씬 간단해.",
+                      "example_en":  "This method is much simpler."
+                  },
+                  {
+                      "id":  "w_beg_adj_098",
+                      "word_en":  "complicated",
+                      "word_kr":  "복잡한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이거 생각보다 복잡하네.",
+                      "example_en":  "This is more complicated than I thought."
+                  },
+                  {
+                      "id":  "w_beg_adj_099",
+                      "word_en":  "important",
+                      "word_kr":  "중요한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 미팅 진짜 중요해.",
+                      "example_en":  "This meeting is really important."
+                  },
+                  {
+                      "id":  "w_beg_adj_100",
+                      "word_en":  "useless",
+                      "word_kr":  "쓸모없는",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 앱 완전 쓸모없어.",
+                      "example_en":  "This app is totally useless."
+                  },
+                  {
+                      "id":  "w_beg_adj_101",
+                      "word_en":  "useful",
+                      "word_kr":  "유용한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 정보 진짜 유용했어.",
+                      "example_en":  "This information was really useful."
+                  },
+                  {
+                      "id":  "w_beg_adj_102",
+                      "word_en":  "popular",
+                      "word_kr":  "인기 있는",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 노래 요즘 진짜 인기 많아.",
+                      "example_en":  "This song is really popular these days."
+                  },
+                  {
+                      "id":  "w_beg_adj_103",
+                      "word_en":  "famous",
+                      "word_kr":  "유명한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람 되게 유명해.",
+                      "example_en":  "He\u0027s pretty famous."
+                  },
+                  {
+                      "id":  "w_beg_adj_104",
+                      "word_en":  "common",
+                      "word_kr":  "흔한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이런 실수는 흔해.",
+                      "example_en":  "This kind of mistake is common."
+                  },
+                  {
+                      "id":  "w_beg_adj_105",
+                      "word_en":  "rare",
+                      "word_kr":  "드문",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이런 기회는 흔치 않아.",
+                      "example_en":  "An opportunity like this is rare."
+                  },
+                  {
+                      "id":  "w_beg_adj_106",
+                      "word_en":  "normal",
+                      "word_kr":  "평범한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 정도는 그냥 평범한 거야.",
+                      "example_en":  "This is just normal, nothing special."
+                  },
+                  {
+                      "id":  "w_beg_adj_107",
+                      "word_en":  "strange",
+                      "word_kr":  "이상한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람 좀 이상해.",
+                      "example_en":  "He\u0027s a bit strange."
+                  },
+                  {
+                      "id":  "w_beg_adj_108",
+                      "word_en":  "weird",
+                      "word_kr":  "이상한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이거 진짜 이상하게 생겼다.",
+                      "example_en":  "This looks really weird."
+                  },
+                  {
+                      "id":  "w_beg_adj_109",
+                      "word_en":  "unusual",
+                      "word_kr":  "특이한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람 취향이 좀 특이해.",
+                      "example_en":  "His taste is a bit unusual."
+                  },
+                  {
+                      "id":  "w_beg_adj_110",
+                      "word_en":  "perfect",
+                      "word_kr":  "완벽한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이거 완벽해 보여.",
+                      "example_en":  "This looks perfect."
+                  },
+                  {
+                      "id":  "w_beg_adj_111",
+                      "word_en":  "terrible",
+                      "word_kr":  "최악인",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "오늘 컨디션 진짜 최악이야.",
+                      "example_en":  "I feel terrible today."
+                  },
+                  {
+                      "id":  "w_beg_adj_112",
+                      "word_en":  "wonderful",
+                      "word_kr":  "멋진",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "정말 멋진 하루였어.",
+                      "example_en":  "It was a wonderful day."
+                  },
+                  {
+                      "id":  "w_beg_adj_113",
+                      "word_en":  "boring",
+                      "word_kr":  "지루한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 수업 진짜 지루해.",
+                      "example_en":  "This class is really boring."
+                  },
+                  {
+                      "id":  "w_beg_adj_114",
+                      "word_en":  "interesting",
+                      "word_kr":  "흥미로운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이거 되게 흥미롭다.",
+                      "example_en":  "This is pretty interesting."
+                  },
+                  {
+                      "id":  "w_beg_adj_115",
+                      "word_en":  "huge",
+                      "word_kr":  "거대한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 집 진짜 크다.",
+                      "example_en":  "This house is huge."
+                  },
+                  {
+                      "id":  "w_beg_adj_116",
+                      "word_en":  "tiny",
+                      "word_kr":  "아주 작은",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 방은 진짜 작아.",
+                      "example_en":  "This room is tiny."
+                  },
+                  {
+                      "id":  "w_beg_adj_117",
+                      "word_en":  "narrow",
+                      "word_kr":  "좁은",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 골목 진짜 좁아.",
+                      "example_en":  "This alley is really narrow."
+                  },
+                  {
+                      "id":  "w_beg_adj_118",
+                      "word_en":  "thick",
+                      "word_kr":  "두꺼운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 책 진짜 두껍다.",
+                      "example_en":  "This book is really thick."
+                  },
+                  {
+                      "id":  "w_beg_adj_119",
+                      "word_en":  "thin",
+                      "word_kr":  "얇은",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "핸드폰이 되게 얇아졌어.",
+                      "example_en":  "The phone has gotten really thin."
+                  },
+                  {
+                      "id":  "w_beg_adj_120",
+                      "word_en":  "round",
+                      "word_kr":  "둥근",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 테이블은 둥글게 생겼어.",
+                      "example_en":  "This table is round."
+                  },
+                  {
+                      "id":  "w_beg_adj_121",
+                      "word_en":  "square",
+                      "word_kr":  "네모난",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 상자는 네모난 모양이야.",
+                      "example_en":  "This box is square-shaped."
+                  },
+                  {
+                      "id":  "w_int_adj_031",
+                      "word_en":  "sophisticated",
+                      "word_kr":  "정교한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "이 시스템은 생각보다 훨씬 정교해.",
+                      "example_en":  "This system is far more sophisticated than it looks."
+                  },
+                  {
+                      "id":  "w_int_adj_032",
+                      "word_en":  "pragmatic",
+                      "word_kr":  "실용적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "이상보다는 실용적인 접근이 필요해.",
+                      "example_en":  "We need a more pragmatic approach than an idealistic one."
+                  },
+                  {
+                      "id":  "w_int_adj_033",
+                      "word_en":  "versatile",
+                      "word_kr":  "다재다능한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 어떤 역할이든 잘 소화하는 다재다능한 사람이야.",
+                      "example_en":  "He\u0027s a versatile person who can handle any role."
+                  },
+                  {
+                      "id":  "w_int_adj_034",
+                      "word_en":  "innovative",
+                      "word_kr":  "혁신적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "이건 정말 혁신적인 아이디어야.",
+                      "example_en":  "This is a truly innovative idea."
+                  },
+                  {
+                      "id":  "w_int_adj_035",
+                      "word_en":  "conventional",
+                      "word_kr":  "관습적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "전통적인 방식으로는 이 문제를 풀기 어려워.",
+                      "example_en":  "It\u0027s hard to solve this problem with a conventional approach."
+                  },
+                  {
+                      "id":  "w_int_adj_036",
+                      "word_en":  "unconventional",
+                      "word_kr":  "비관습적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 좀 비관습적인 방법을 선호해.",
+                      "example_en":  "He tends to prefer unconventional methods."
+                  },
+                  {
+                      "id":  "w_int_adj_037",
+                      "word_en":  "authentic",
+                      "word_kr":  "진정성 있는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "이 식당 음식이 훨씬 정통에 가까워.",
+                      "example_en":  "This restaurant\u0027s food feels much more authentic."
+                  },
+                  {
+                      "id":  "w_int_adj_038",
+                      "word_en":  "credible",
+                      "word_kr":  "신뢰할 만한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 정보 출처가 신뢰할 만한지 확인해봐야 해.",
+                      "example_en":  "We need to check if that source is credible."
+                  },
+                  {
+                      "id":  "w_int_adj_039",
+                      "word_en":  "dubious",
+                      "word_kr":  "의심스러운",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 소문은 좀 의심스러워.",
+                      "example_en":  "That rumor seems pretty dubious."
+                  },
+                  {
+                      "id":  "w_int_adj_040",
+                      "word_en":  "eccentric",
+                      "word_kr":  "괴짜같은",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 좀 괴짜 같은 데가 있어.",
+                      "example_en":  "He\u0027s a bit eccentric."
+                  },
+                  {
+                      "id":  "w_int_adj_041",
+                      "word_en":  "pretentious",
+                      "word_kr":  "허세부리는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그렇게 말하는 게 좀 허세처럼 들려.",
+                      "example_en":  "Talking like that sounds a bit pretentious."
+                  },
+                  {
+                      "id":  "w_int_adj_042",
+                      "word_en":  "modest",
+                      "word_kr":  "겸손한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 성공했는데도 되게 겸손해.",
+                      "example_en":  "He\u0027s really modest despite his success."
+                  },
+                  {
+                      "id":  "w_int_adj_043",
+                      "word_en":  "candid",
+                      "word_kr":  "솔직한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "솔직하게 말해줘서 고마워.",
+                      "example_en":  "Thanks for being so candid with me."
+                  },
+                  {
+                      "id":  "w_int_adj_044",
+                      "word_en":  "blunt",
+                      "word_kr":  "직설적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 너무 직설적으로 말해.",
+                      "example_en":  "He\u0027s way too blunt when he talks."
+                  },
+                  {
+                      "id":  "w_int_adj_045",
+                      "word_en":  "tactful",
+                      "word_kr":  "재치있는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 항상 재치있게 말을 잘 해.",
+                      "example_en":  "He always knows how to be tactful."
+                  },
+                  {
+                      "id":  "w_int_adj_046",
+                      "word_en":  "inconsiderate",
+                      "word_kr":  "배려 없는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그렇게 행동하는 건 좀 배려가 없어 보여.",
+                      "example_en":  "Acting like that seems pretty inconsiderate."
+                  },
+                  {
+                      "id":  "w_int_adj_047",
+                      "word_en":  "insensitive",
+                      "word_kr":  "무신경한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 농담은 좀 무신경했어.",
+                      "example_en":  "That joke was a bit insensitive."
+                  },
+                  {
+                      "id":  "w_int_adj_048",
+                      "word_en":  "considerate",
+                      "word_kr":  "배려심 있는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 항상 다른 사람을 배려해.",
+                      "example_en":  "He\u0027s always so considerate of others."
+                  },
+                  {
+                      "id":  "w_int_adj_049",
+                      "word_en":  "assertive",
+                      "word_kr":  "단호한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "네 의견을 좀 더 단호하게 말할 필요가 있어.",
+                      "example_en":  "You need to be more assertive about your opinions."
+                  },
+                  {
+                      "id":  "w_int_adj_050",
+                      "word_en":  "passive",
+                      "word_kr":  "수동적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 회의에서 너무 수동적이야.",
+                      "example_en":  "He\u0027s too passive in meetings."
+                  },
+                  {
+                      "id":  "w_int_adj_051",
+                      "word_en":  "proactive",
+                      "word_kr":  "적극적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "문제가 생기기 전에 미리 적극적으로 대처하는 게 좋아.",
+                      "example_en":  "It\u0027s better to be proactive before problems arise."
+                  },
+                  {
+                      "id":  "w_int_adj_052",
+                      "word_en":  "spontaneous",
+                      "word_kr":  "즉흥적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "가끔은 즉흥적으로 여행 가는 것도 좋아.",
+                      "example_en":  "Sometimes it\u0027s nice to be spontaneous and just travel."
+                  },
+                  {
+                      "id":  "w_int_adj_053",
+                      "word_en":  "methodical",
+                      "word_kr":  "체계적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람 일 처리 방식이 되게 체계적이야.",
+                      "example_en":  "His way of handling work is very methodical."
+                  },
+                  {
+                      "id":  "w_int_adj_054",
+                      "word_en":  "erratic",
+                      "word_kr":  "변덕스러운",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "요즘 그 사람 행동이 좀 변덕스러워.",
+                      "example_en":  "His behavior has been a bit erratic lately."
+                  },
+                  {
+                      "id":  "w_int_adj_055",
+                      "word_en":  "volatile",
+                      "word_kr":  "불안정한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 시장은 요즘 너무 불안정해.",
+                      "example_en":  "That market has been really volatile lately."
+                  },
+                  {
+                      "id":  "w_int_adj_056",
+                      "word_en":  "adamant",
+                      "word_kr":  "완강한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 자기 입장을 절대 안 바꾸겠다고 완강했어.",
+                      "example_en":  "He was adamant about not changing his position."
+                  },
+                  {
+                      "id":  "w_int_adj_057",
+                      "word_en":  "rigid",
+                      "word_kr":  "융통성 없는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 규칙은 너무 융통성이 없어.",
+                      "example_en":  "That rule is way too rigid."
+                  },
+                  {
+                      "id":  "w_int_adj_058",
+                      "word_en":  "lenient",
+                      "word_kr":  "관대한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "이번엔 좀 관대하게 봐줄 수 있을까?",
+                      "example_en":  "Could you be a bit more lenient this time?"
+                  },
+                  {
+                      "id":  "w_int_adj_059",
+                      "word_en":  "impartial",
+                      "word_kr":  "공정한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "심사위원은 공정해야 해.",
+                      "example_en":  "The judge needs to be impartial."
+                  },
+                  {
+                      "id":  "w_int_adj_060",
+                      "word_en":  "biased",
+                      "word_kr":  "편향된",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 기사는 좀 편향된 것 같아.",
+                      "example_en":  "That article seems a bit biased."
+                  },
+                  {
+                      "id":  "w_int_noun_031",
+                      "word_en":  "implication",
+                      "word_kr":  "함의",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 결정의 함의를 잘 생각해봐야 해.",
+                      "example_en":  "We need to carefully think through the implications of this decision."
+                  },
+                  {
+                      "id":  "w_int_noun_032",
+                      "word_en":  "perception",
+                      "word_kr":  "인식",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "사람들의 인식이 생각보다 빨리 바뀌었어.",
+                      "example_en":  "People\u0027s perception changed faster than expected."
+                  },
+                  {
+                      "id":  "w_int_noun_033",
+                      "word_en":  "insight",
+                      "word_kr":  "통찰",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 사람 발표에서 좋은 통찰을 얻었어.",
+                      "example_en":  "I gained a lot of insight from his presentation."
+                  },
+                  {
+                      "id":  "w_int_noun_034",
+                      "word_en":  "motive",
+                      "word_kr":  "동기",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 사람의 동기가 뭔지 잘 모르겠어.",
+                      "example_en":  "I\u0027m not sure what his motive is."
+                  },
+                  {
+                      "id":  "w_int_noun_035",
+                      "word_en":  "intention",
+                      "word_kr":  "의도",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "나쁜 의도는 전혀 없었어.",
+                      "example_en":  "I had no bad intention at all."
+                  },
+                  {
+                      "id":  "w_int_noun_036",
+                      "word_en":  "rationale",
+                      "word_kr":  "근거",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 결정의 근거가 뭐였는지 설명해줄 수 있어?",
+                      "example_en":  "Can you explain the rationale behind that decision?"
+                  },
+                  {
+                      "id":  "w_int_noun_037",
+                      "word_en":  "justification",
+                      "word_kr":  "정당한 이유",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 행동에 대한 정당한 이유가 없어 보여.",
+                      "example_en":  "There doesn\u0027t seem to be any justification for that behavior."
+                  },
+                  {
+                      "id":  "w_int_noun_038",
+                      "word_en":  "clarification",
+                      "word_kr":  "설명",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 부분에 대한 설명이 좀 더 필요해.",
+                      "example_en":  "We need some clarification on this part."
+                  },
+                  {
+                      "id":  "w_int_noun_039",
+                      "word_en":  "resolution",
+                      "word_kr":  "결심",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "새해 결심이 뭐야?",
+                      "example_en":  "What\u0027s your New Year\u0027s resolution?"
+                  },
+                  {
+                      "id":  "w_int_noun_040",
+                      "word_en":  "negotiation",
+                      "word_kr":  "협상",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "협상이 예상보다 오래 걸렸어.",
+                      "example_en":  "The negotiation took longer than expected."
+                  },
+                  {
+                      "id":  "w_int_noun_041",
+                      "word_en":  "transaction",
+                      "word_kr":  "거래",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 거래는 아직 처리 중이야.",
+                      "example_en":  "This transaction is still being processed."
+                  },
+                  {
+                      "id":  "w_int_noun_042",
+                      "word_en":  "agreement",
+                      "word_kr":  "합의",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "우리 결국 합의에 도달했어.",
+                      "example_en":  "We finally reached an agreement."
+                  },
+                  {
+                      "id":  "w_int_noun_043",
+                      "word_en":  "breach",
+                      "word_kr":  "위반",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이건 명백한 계약 위반이야.",
+                      "example_en":  "This is a clear breach of contract."
+                  },
+                  {
+                      "id":  "w_int_noun_044",
+                      "word_en":  "liability",
+                      "word_kr":  "법적 책임",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "회사가 그 손해에 대한 법적 책임이 있어.",
+                      "example_en":  "The company has legal liability for the damage."
+                  },
+                  {
+                      "id":  "w_int_noun_045",
+                      "word_en":  "asset",
+                      "word_kr":  "자산",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 회사의 소중한 자산이야.",
+                      "example_en":  "He\u0027s a valuable asset to the company."
+                  },
+                  {
+                      "id":  "w_int_noun_046",
+                      "word_en":  "deficit",
+                      "word_kr":  "적자",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이번 분기에 적자가 났어.",
+                      "example_en":  "We had a deficit this quarter."
+                  },
+                  {
+                      "id":  "w_int_noun_047",
+                      "word_en":  "surplus",
+                      "word_kr":  "흑자",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "예산에 흑자가 좀 생겼어.",
+                      "example_en":  "We ended up with a small surplus in the budget."
+                  },
+                  {
+                      "id":  "w_int_noun_048",
+                      "word_en":  "investment",
+                      "word_kr":  "투자",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이건 장기적으로 좋은 투자야.",
+                      "example_en":  "This is a good investment in the long run."
+                  },
+                  {
+                      "id":  "w_int_noun_049",
+                      "word_en":  "revenue",
+                      "word_kr":  "매출",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "매출이 작년보다 늘었어.",
+                      "example_en":  "Revenue has increased compared to last year."
+                  },
+                  {
+                      "id":  "w_int_noun_050",
+                      "word_en":  "expenditure",
+                      "word_kr":  "지출",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이번 달 지출이 좀 많았어.",
+                      "example_en":  "Our expenditure was a bit high this month."
+                  },
+                  {
+                      "id":  "w_int_noun_051",
+                      "word_en":  "inflation",
+                      "word_kr":  "물가 상승",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "요즘 물가 상승이 너무 심해.",
+                      "example_en":  "Inflation has been really high lately."
+                  },
+                  {
+                      "id":  "w_int_noun_052",
+                      "word_en":  "recession",
+                      "word_kr":  "경기 침체",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "경기 침체가 다시 올까 봐 걱정돼.",
+                      "example_en":  "I\u0027m worried about another recession coming."
+                  },
+                  {
+                      "id":  "w_int_noun_053",
+                      "word_en":  "downturn",
+                      "word_kr":  "하락세",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "시장이 갑자기 하락세로 돌아섰어.",
+                      "example_en":  "The market suddenly took a downturn."
+                  },
+                  {
+                      "id":  "w_int_noun_054",
+                      "word_en":  "milestone",
+                      "word_kr":  "이정표",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이번 프로젝트에서 중요한 이정표를 세웠어.",
+                      "example_en":  "We hit an important milestone on this project."
+                  },
+                  {
+                      "id":  "w_int_noun_055",
+                      "word_en":  "benchmark",
+                      "word_kr":  "기준",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 결과를 기준으로 다음 목표를 세우자.",
+                      "example_en":  "Let\u0027s set our next goal based on this benchmark."
+                  },
+                  {
+                      "id":  "w_int_noun_056",
+                      "word_en":  "framework",
+                      "word_kr":  "프레임워크",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "새로운 프레임워크를 도입해야 할 것 같아.",
+                      "example_en":  "I think we need to introduce a new framework."
+                  },
+                  {
+                      "id":  "w_int_noun_057",
+                      "word_en":  "strategy",
+                      "word_kr":  "전략",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이번 전략은 꽤 효과적이었어.",
+                      "example_en":  "This strategy turned out to be quite effective."
+                  },
+                  {
+                      "id":  "w_int_noun_058",
+                      "word_en":  "tactic",
+                      "word_kr":  "전술",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그건 좋은 전술이 아니었던 것 같아.",
+                      "example_en":  "I don\u0027t think that was a good tactic."
+                  },
+                  {
+                      "id":  "w_int_noun_059",
+                      "word_en":  "scenario",
+                      "word_kr":  "시나리오",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "최악의 시나리오도 대비해야 해.",
+                      "example_en":  "We need to prepare for the worst-case scenario."
+                  },
+                  {
+                      "id":  "w_int_noun_060",
+                      "word_en":  "variable",
+                      "word_kr":  "변수",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "여기엔 고려해야 할 변수가 많아.",
+                      "example_en":  "There are a lot of variables to consider here."
+                  },
+                  {
+                      "id":  "w_int_verb_091",
+                      "word_en":  "depict",
+                      "word_kr":  "묘사하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 그림은 도시의 밤 풍경을 묘사하고 있어.",
+                      "example_en":  "This painting depicts the city at night."
+                  },
+                  {
+                      "id":  "w_int_verb_092",
+                      "word_en":  "illustrate",
+                      "word_kr":  "예시로 보여주다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 예시가 그 개념을 잘 보여줘.",
+                      "example_en":  "This example illustrates the concept well."
+                  },
+                  {
+                      "id":  "w_int_verb_093",
+                      "word_en":  "demonstrate",
+                      "word_kr":  "입증하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 실험이 이론이 맞다는 걸 입증했어.",
+                      "example_en":  "The experiment demonstrated that the theory was correct."
+                  },
+                  {
+                      "id":  "w_int_verb_094",
+                      "word_en":  "verify",
+                      "word_kr":  "확인하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 정보가 맞는지 다시 확인해봐야 해.",
+                      "example_en":  "We need to verify whether that information is accurate."
+                  },
+                  {
+                      "id":  "w_int_verb_095",
+                      "word_en":  "validate",
+                      "word_kr":  "검증하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 결과를 검증하는 데 시간이 좀 걸렸어.",
+                      "example_en":  "It took some time to validate the results."
+                  },
+                  {
+                      "id":  "w_int_verb_096",
+                      "word_en":  "approve",
+                      "word_kr":  "승인하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "상사가 그 계획을 승인했어.",
+                      "example_en":  "My boss approved the plan."
+                  },
+                  {
+                      "id":  "w_int_verb_097",
+                      "word_en":  "authorize",
+                      "word_kr":  "권한을 부여하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람만이 이 결제를 승인할 권한이 있어.",
+                      "example_en":  "Only he is authorized to approve this payment."
+                  },
+                  {
+                      "id":  "w_int_verb_098",
+                      "word_en":  "dismiss",
+                      "word_kr":  "묵살하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 내 걱정을 그냥 묵살해버렸어.",
+                      "example_en":  "He just dismissed my concerns."
+                  },
+                  {
+                      "id":  "w_int_verb_099",
+                      "word_en":  "dispute",
+                      "word_kr":  "이의를 제기하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 결정에 이의를 제기하고 싶어.",
+                      "example_en":  "I want to dispute that decision."
+                  },
+                  {
+                      "id":  "w_int_verb_100",
+                      "word_en":  "challenge",
+                      "word_kr":  "반박하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람이 내 의견에 도전적으로 반박했어.",
+                      "example_en":  "He challenged my opinion."
+                  },
+                  {
+                      "id":  "w_int_verb_101",
+                      "word_en":  "object",
+                      "word_kr":  "반대하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "몇몇 사람들이 그 계획에 반대했어.",
+                      "example_en":  "A few people objected to the plan."
+                  },
+                  {
+                      "id":  "w_int_verb_102",
+                      "word_en":  "oppose",
+                      "word_kr":  "반대하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "많은 주민들이 그 개발 계획에 반대하고 있어.",
+                      "example_en":  "Many residents oppose the development plan."
+                  },
+                  {
+                      "id":  "w_int_verb_103",
+                      "word_en":  "endorse",
+                      "word_kr":  "지지하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 제품을 공개적으로 지지하기로 했어.",
+                      "example_en":  "She decided to publicly endorse the product."
+                  },
+                  {
+                      "id":  "w_int_verb_104",
+                      "word_en":  "advocate",
+                      "word_kr":  "옹호하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 항상 노동자 권리를 옹호해.",
+                      "example_en":  "He always advocates for workers\u0027 rights."
+                  },
+                  {
+                      "id":  "w_int_verb_105",
+                      "word_en":  "sustain",
+                      "word_kr":  "지속시키다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 성장세를 계속 유지하기가 쉽지 않을 거야.",
+                      "example_en":  "It won\u0027t be easy to sustain this growth."
+                  },
+                  {
+                      "id":  "w_int_verb_106",
+                      "word_en":  "preserve",
+                      "word_kr":  "보존하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "전통을 보존하는 게 중요해.",
+                      "example_en":  "It\u0027s important to preserve our traditions."
+                  },
+                  {
+                      "id":  "w_int_verb_107",
+                      "word_en":  "restore",
+                      "word_kr":  "복원하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 오래된 건물을 원래 모습으로 복원했어.",
+                      "example_en":  "They restored the old building to its original state."
+                  },
+                  {
+                      "id":  "w_int_verb_108",
+                      "word_en":  "renovate",
+                      "word_kr":  "개조하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 집을 완전히 새로 개조할 계획이야.",
+                      "example_en":  "We\u0027re planning to completely renovate this house."
+                  },
+                  {
+                      "id":  "w_int_verb_109",
+                      "word_en":  "transform",
+                      "word_kr":  "변형시키다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 경험이 그 사람을 완전히 바꿔놨어.",
+                      "example_en":  "That experience completely transformed him."
+                  },
+                  {
+                      "id":  "w_int_verb_110",
+                      "word_en":  "convert",
+                      "word_kr":  "전환하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 방을 사무실로 개조할 거야.",
+                      "example_en":  "We\u0027re going to convert this room into an office."
+                  },
+                  {
+                      "id":  "w_int_verb_111",
+                      "word_en":  "derive",
+                      "word_kr":  "도출하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 결론은 실제 데이터에서 도출된 거야.",
+                      "example_en":  "That conclusion is derived from actual data."
+                  },
+                  {
+                      "id":  "w_int_verb_112",
+                      "word_en":  "originate",
+                      "word_kr":  "유래하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 전통은 오래전 한 마을에서 유래됐어.",
+                      "example_en":  "This tradition originated from a small village long ago."
+                  },
+                  {
+                      "id":  "w_int_verb_113",
+                      "word_en":  "evolve",
+                      "word_kr":  "진화하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "우리 팀의 역할이 점점 변화하고 있어.",
+                      "example_en":  "Our team\u0027s role has been evolving over time."
+                  },
+                  {
+                      "id":  "w_int_verb_114",
+                      "word_en":  "emerge",
+                      "word_kr":  "부상하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "새로운 문제가 갑자기 생겨났어.",
+                      "example_en":  "A new issue suddenly emerged."
+                  },
+                  {
+                      "id":  "w_int_verb_115",
+                      "word_en":  "diminish",
+                      "word_kr":  "감소시키다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "시간이 지나면서 그 영향력이 줄어들었어.",
+                      "example_en":  "Its influence has diminished over time."
+                  },
+                  {
+                      "id":  "w_int_verb_116",
+                      "word_en":  "escalate",
+                      "word_kr":  "악화되다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "상황이 점점 더 악화되고 있어.",
+                      "example_en":  "The situation keeps escalating."
+                  },
+                  {
+                      "id":  "w_int_verb_117",
+                      "word_en":  "intensify",
+                      "word_kr":  "심화되다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "경쟁이 갈수록 치열해지고 있어.",
+                      "example_en":  "The competition has been intensifying."
+                  },
+                  {
+                      "id":  "w_int_verb_118",
+                      "word_en":  "alleviate",
+                      "word_kr":  "완화하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "이 약이 통증을 좀 완화해줄 거야.",
+                      "example_en":  "This medicine should help alleviate the pain."
+                  },
+                  {
+                      "id":  "w_int_verb_119",
+                      "word_en":  "exacerbate",
+                      "word_kr":  "악화시키다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "그 발언이 상황을 더 악화시켰어.",
+                      "example_en":  "That comment only exacerbated the situation."
+                  },
+                  {
+                      "id":  "w_int_verb_120",
+                      "word_en":  "mitigate",
+                      "word_kr":  "완화하다",
+                      "pos":  "동사",
+                      "level":  "int",
+                      "example_kr":  "위험을 줄이기 위해 몇 가지 조치를 취했어.",
+                      "example_en":  "We took some steps to mitigate the risk."
                   }
               ]
 }

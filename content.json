@@ -1,5 +1,5 @@
 {
-    "content_version":  "2026-07-13-04",
+    "content_version":  "2026-07-14-01",
     "cards":  [
                   {
                       "id":  "beg_talk_001",
@@ -1470,8 +1470,8 @@
                       "level":  "초급",
                       "category":  "식당 / 카페",
                       "sentence_ko":  "여기 자리 있나요?",
-                      "sentence_en":  "Is this seat taken?",
-                      "hint_chunk":  "Is this seat taken?",
+                      "sentence_en":  "Do you have a table available?",
+                      "hint_chunk":  "Do you have + 명사 + available? (이용 가능 여부 문의)",
                       "extension_words":  [
                                               {
                                                   "en":  "available",
@@ -1793,7 +1793,7 @@
                       "level":  "중급",
                       "category":  "식당 / 카페",
                       "sentence_ko":  "저희가 주문한 게 아직도 안 나왔어요.",
-                      "sentence_en":  "Our order still hasn\u0027t come out yet.",
+                      "sentence_en":  "Our food still hasn\u0027t come yet.",
                       "hint_chunk":  "주어 + still hasn\u0027t + 과거분사 + yet",
                       "extension_words":  [
                                               {
@@ -2249,8 +2249,8 @@
                       "level":  "중급",
                       "category":  "쇼핑",
                       "sentence_ko":  "세일 기간이 언제까지인지 알 수 있을까요?",
-                      "sentence_en":  "Could you tell me until when the sale is running?",
-                      "hint_chunk":  "Could you tell me until when + 주어+동사?",
+                      "sentence_en":  "Could you tell me when the sale ends?",
+                      "hint_chunk":  "Could you tell me when + 주어 + 동사? (정중한 질문)",
                       "extension_words":  [
                                               {
                                                   "en":  "sale ends",
@@ -3788,8 +3788,8 @@
                       "level":  "초급",
                       "category":  "감정 표현",
                       "sentence_ko":  "나 완전 자랑스러워.",
-                      "sentence_en":  "I\u0027m so proud of you.",
-                      "hint_chunk":  "I\u0027m so proud of + 사람",
+                      "sentence_en":  "I\u0027m so proud.",
+                      "hint_chunk":  "I\u0027m so ~. (감정 강조)",
                       "extension_words":  [
                                               {
                                                   "en":  "impressed",
@@ -4491,7 +4491,7 @@
                       "level":  "중급",
                       "category":  "병원 / 약국",
                       "sentence_ko":  "이 약을 먹은 후로 오히려 더 어지러워졌어요.",
-                      "sentence_en":  "Ever since I started taking this medicine, I\u0027ve actually felt more dizzy.",
+                      "sentence_en":  "Ever since I started taking this medicine, I\u0027ve actually felt dizzier.",
                       "hint_chunk":  "ever since + 절, 현재완료",
                       "extension_words":  [
                                               {
@@ -4719,8 +4719,8 @@
                       "level":  "중급",
                       "category":  "병원 / 약국",
                       "sentence_ko":  "그 약사분이 자세히 설명해준 덕분에 부작용을 미리 알 수 있었어요.",
-                      "sentence_en":  "Thanks to the pharmacist explaining it in detail, I was able to know about the side effects in advance.",
-                      "hint_chunk":  "thanks to + 명사(구), 결과절",
+                      "sentence_en":  "Thanks to the pharmacist\u0027s detailed explanation, I found out about the side effects ahead of time.",
+                      "hint_chunk":  "Thanks to + 명사(구), 결과절",
                       "extension_words":  [
                                               {
                                                   "en":  "thanks to the doctor\u0027s advice",
@@ -5783,8 +5783,8 @@
                       "level":  "중급",
                       "category":  "인터넷 / SNS",
                       "sentence_ko":  "그 인플루언서가 광고인 걸 숨겼다는 게 밝혀지면서 논란이 커졌어요.",
-                      "sentence_en":  "As it came out that the influencer had hidden the fact it was an ad, the controversy grew.",
-                      "hint_chunk":  "as it came out that + 절 (과거완료)",
+                      "sentence_en":  "The controversy blew up when it came out that the influencer had been hiding that it was a paid ad.",
+                      "hint_chunk":  "주어 + blew up when it came out that + 과거완료절",
                       "extension_words":  [
                                               {
                                                   "en":  "got called out",
@@ -7018,21 +7018,17 @@
                       "content_type":  "sentence",
                       "level":  "초급",
                       "category":  "식당 / 카페",
-                      "sentence_ko":  "포장되나요?",
-                      "sentence_en":  "Can I get this to go?",
-                      "hint_chunk":  "Can I get this to go? (포장 요청)",
+                      "sentence_ko":  "남은 거 싸줄 수 있어요?",
+                      "sentence_en":  "Can you wrap up the rest to go?",
+                      "hint_chunk":  "Can you wrap up the rest to go? (남은 음식 포장 요청)",
                       "extension_words":  [
                                               {
-                                                  "en":  "to go",
-                                                  "ko":  "포장"
+                                                  "en":  "wrap up",
+                                                  "ko":  "싸다, 포장하다"
                                               },
                                               {
-                                                  "en":  "take out",
-                                                  "ko":  "테이크아웃"
-                                              },
-                                              {
-                                                  "en":  "container",
-                                                  "ko":  "용기"
+                                                  "en":  "leftover",
+                                                  "ko":  "남은 음식"
                                               }
                                           ]
                   },
@@ -7755,8 +7751,8 @@
                       "level":  "초급",
                       "category":  "쇼핑",
                       "sentence_ko":  "이 세일 언제까지예요?",
-                      "sentence_en":  "Until when is this sale?",
-                      "hint_chunk":  "Until when is ~?",
+                      "sentence_en":  "When does this sale end?",
+                      "hint_chunk":  "When does ~ end? (마감/종료 문의)",
                       "extension_words":  [
                                               {
                                                   "en":  "sale",
@@ -8306,21 +8302,17 @@
                       "content_type":  "sentence",
                       "level":  "초급",
                       "category":  "전화 통화",
-                      "sentence_ko":  "여보세요?",
-                      "sentence_en":  "Hello?",
-                      "hint_chunk":  "Hello? (전화 받을 때)",
+                      "sentence_ko":  "전화번호 좀 알려줄 수 있어요?",
+                      "sentence_en":  "Can you give me your number?",
+                      "hint_chunk":  "Can you give me your ~? (정보 요청)",
                       "extension_words":  [
                                               {
-                                                  "en":  "answer the phone",
-                                                  "ko":  "전화를 받다"
+                                                  "en":  "contact",
+                                                  "ko":  "연락처"
                                               },
                                               {
-                                                  "en":  "caller",
-                                                  "ko":  "전화 건 사람"
-                                              },
-                                              {
-                                                  "en":  "ring",
-                                                  "ko":  "울리다"
+                                                  "en":  "reach",
+                                                  "ko":  "연락하다"
                                               }
                                           ]
                   },
@@ -8629,8 +8621,8 @@
                       "level":  "초급",
                       "category":  "전화 통화",
                       "sentence_ko":  "벨소리를 못 들었어요.",
-                      "sentence_en":  "I didn\u0027t hear the ringtone.",
-                      "hint_chunk":  "I didn\u0027t hear the ~.",
+                      "sentence_en":  "I didn\u0027t hear my phone ring.",
+                      "hint_chunk":  "I didn\u0027t hear my ~ ring. (놓친 상황 표현)",
                       "extension_words":  [
                                               {
                                                   "en":  "ringtone",
@@ -9204,8 +9196,8 @@
                       "level":  "초급",
                       "category":  "인터넷 / SNS",
                       "sentence_ko":  "로딩이 너무 느려요.",
-                      "sentence_en":  "It\u0027s buffering so slowly.",
-                      "hint_chunk":  "It\u0027s ~ so slowly.",
+                      "sentence_en":  "It\u0027s loading so slowly.",
+                      "hint_chunk":  "It\u0027s ~ so slowly. (속도 불만)",
                       "extension_words":  [
                                               {
                                                   "en":  "buffering",
@@ -11952,26 +11944,19 @@
                       "content_type":  "sentence",
                       "level":  "초급",
                       "category":  "비즈니스",
-                      "sentence_ko":  "이메일 보냈어요.",
-                      "sentence_en":  "I sent the email.",
-                      "hint_chunk":  "I sent the ~.",
-                      "extension_words":  {
-                                              "value":  [
-                                                            {
-                                                                "en":  "email",
-                                                                "ko":  "이메일"
-                                                            },
-                                                            {
-                                                                "en":  "file",
-                                                                "ko":  "파일"
-                                                            },
-                                                            {
-                                                                "en":  "report",
-                                                                "ko":  "보고서"
-                                                            }
-                                                        ],
-                                              "Count":  3
-                                          },
+                      "sentence_ko":  "이메일에 첨부 파일이 있어요.",
+                      "sentence_en":  "There\u0027s an attachment in the email.",
+                      "hint_chunk":  "There\u0027s + 명사 (파일/자료 언급)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "attached file",
+                                                  "ko":  "첨부 파일"
+                                              },
+                                              {
+                                                  "en":  "forward",
+                                                  "ko":  "전달하다"
+                                              }
+                                          ],
                       "status":  "new",
                       "fail_count":  0,
                       "success_count":  0
@@ -12213,26 +12198,19 @@
                       "content_type":  "sentence",
                       "level":  "초급",
                       "category":  "비즈니스",
-                      "sentence_ko":  "계약서에 서명했어요.",
-                      "sentence_en":  "I signed the contract.",
-                      "hint_chunk":  "I signed the ~.",
-                      "extension_words":  {
-                                              "value":  [
-                                                            {
-                                                                "en":  "contract",
-                                                                "ko":  "계약서"
-                                                            },
-                                                            {
-                                                                "en":  "agreement",
-                                                                "ko":  "합의서"
-                                                            },
-                                                            {
-                                                                "en":  "form",
-                                                                "ko":  "서류"
-                                                            }
-                                                        ],
-                                              "Count":  3
-                                          },
+                      "sentence_ko":  "계약서 검토했어요?",
+                      "sentence_en":  "Did you review the contract?",
+                      "hint_chunk":  "Did you + 동사원형 (확인 요청)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "go over",
+                                                  "ko":  "검토하다"
+                                              },
+                                              {
+                                                  "en":  "terms",
+                                                  "ko":  "조건"
+                                              }
+                                          ],
                       "status":  "new",
                       "fail_count":  0,
                       "success_count":  0
@@ -12242,26 +12220,19 @@
                       "content_type":  "sentence",
                       "level":  "초급",
                       "category":  "비즈니스",
-                      "sentence_ko":  "예산이 부족해요.",
-                      "sentence_en":  "The budget is tight.",
-                      "hint_chunk":  "The ~ is tight.",
-                      "extension_words":  {
-                                              "value":  [
-                                                            {
-                                                                "en":  "budget",
-                                                                "ko":  "예산"
-                                                            },
-                                                            {
-                                                                "en":  "schedule",
-                                                                "ko":  "일정"
-                                                            },
-                                                            {
-                                                                "en":  "deadline",
-                                                                "ko":  "마감기한"
-                                                            }
-                                                        ],
-                                              "Count":  3
-                                          },
+                      "sentence_ko":  "예산을 초과했어요.",
+                      "sentence_en":  "We went over budget.",
+                      "hint_chunk":  "We went over ~. (초과 표현)",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "cut costs",
+                                                  "ko":  "비용을 줄이다"
+                                              },
+                                              {
+                                                  "en":  "overspent",
+                                                  "ko":  "초과 지출"
+                                              }
+                                          ],
                       "status":  "new",
                       "fail_count":  0,
                       "success_count":  0
@@ -14510,8 +14481,8 @@
                       "level":  "중급",
                       "category":  "여행 / 교통",
                       "sentence_ko":  "저는 이 도시에 가본 후로 완전히 반했어요.",
-                      "sentence_en":  "I\u0027ve been completely in love with this city since I visited.",
-                      "hint_chunk":  "I\u0027ve been completely in love with ~ since I visited.",
+                      "sentence_en":  "I fell completely in love with this city when I visited.",
+                      "hint_chunk":  "I fell in love with ~ when I visited. (방문 후 감정)",
                       "extension_words":  [
                                               {
                                                   "en":  "this city",
@@ -14579,8 +14550,8 @@
                       "level":  "중급",
                       "category":  "여행 / 교통",
                       "sentence_ko":  "이 배낭은 오래 여행하기에 딱 맞게 디자인됐어요.",
-                      "sentence_en":  "This backpack is designed to be perfect for long trips.",
-                      "hint_chunk":  "This ~ is designed to be perfect for long trips.",
+                      "sentence_en":  "This backpack is perfect for long trips.",
+                      "hint_chunk":  "This ~ is perfect for + 명사 (추천 표현)",
                       "extension_words":  [
                                               {
                                                   "en":  "backpack",
@@ -14762,21 +14733,17 @@
                       "content_type":  "sentence",
                       "level":  "중급",
                       "category":  "식당 / 카페",
-                      "sentence_ko":  "주문한 지 30분이 지났는데 아직 안 나왔어요.",
-                      "sentence_en":  "It\u0027s been 30 minutes since I ordered, and it still hasn\u0027t come out.",
-                      "hint_chunk":  "It\u0027s been ~ since I ordered, and it still hasn\u0027t come out.",
+                      "sentence_ko":  "주문이 잘못 나온 것 같아요.",
+                      "sentence_en":  "I think we got the wrong order.",
+                      "hint_chunk":  "I think + 과거절 (잘못된 상황 표현)",
                       "extension_words":  [
                                               {
-                                                  "en":  "30 minutes",
-                                                  "ko":  "30분"
+                                                  "en":  "mix-up",
+                                                  "ko":  "실수, 혼선"
                                               },
                                               {
-                                                  "en":  "an hour",
-                                                  "ko":  "한 시간"
-                                              },
-                                              {
-                                                  "en":  "a while",
-                                                  "ko":  "한참"
+                                                  "en":  "reorder",
+                                                  "ko":  "다시 주문하다"
                                               }
                                           ]
                   },
@@ -17132,8 +17099,8 @@
                       "level":  "중급",
                       "category":  "일상 스몰토크",
                       "sentence_ko":  "이 영화는 사람들한테 정말 사랑받고 있어요.",
-                      "sentence_en":  "This movie is really loved by people.",
-                      "hint_chunk":  "This ~ is really loved by people.",
+                      "sentence_en":  "This movie is super popular right now.",
+                      "hint_chunk":  "This ~ is super popular right now. (인기 표현)",
                       "extension_words":  [
                                               {
                                                   "en":  "movie",
@@ -17224,8 +17191,8 @@
                       "level":  "중급",
                       "category":  "일상 스몰토크",
                       "sentence_ko":  "이 일 끝내고 나서 좀 쉴 거예요.",
-                      "sentence_en":  "I\u0027m going to rest after I finish this.",
-                      "hint_chunk":  "I\u0027m going to ~ after I finish this.",
+                      "sentence_en":  "I\u0027m going to take a break once I\u0027m done with this.",
+                      "hint_chunk":  "I\u0027m going to ~ once I\u0027m done with this.",
                       "extension_words":  [
                                               {
                                                   "en":  "rest",
@@ -17638,8 +17605,8 @@
                       "level":  "중급",
                       "category":  "일상 스몰토크",
                       "sentence_ko":  "이 소설은 실화를 바탕으로 쓰여졌어요.",
-                      "sentence_en":  "This novel was written based on a true story.",
-                      "hint_chunk":  "This ~ was written based on a true story.",
+                      "sentence_en":  "This novel is based on a true story.",
+                      "hint_chunk":  "This ~ is based on + 명사 (원작/소재 언급)",
                       "extension_words":  [
                                               {
                                                   "en":  "novel",
@@ -17983,8 +17950,8 @@
                       "level":  "중급",
                       "category":  "전화 통화",
                       "sentence_ko":  "전화 목소리를 들으니까 뭔가 안 좋은 일이 있는 것 같았어요.",
-                      "sentence_en":  "Hearing your voice on the phone, it sounded like something was wrong.",
-                      "hint_chunk":  "Hearing your voice on the phone, it sounded like ~.",
+                      "sentence_en":  "I could tell something was wrong just from hearing your voice.",
+                      "hint_chunk":  "I could tell ~ just from + 동명사 (감지 표현)",
                       "extension_words":  [
                                               {
                                                   "en":  "something was wrong",
@@ -18512,8 +18479,8 @@
                       "level":  "중급",
                       "category":  "감정 표현",
                       "sentence_ko":  "만약 누군가 저한테 그렇게 말했다면 저도 화났을 거예요.",
-                      "sentence_en":  "If someone said that to me, I would have been angry too.",
-                      "hint_chunk":  "If someone said that to me, I would have been ~ too.",
+                      "sentence_en":  "If someone had said that to me, I would have been angry too.",
+                      "hint_chunk":  "If someone had said that to me, I would have been ~ too. (가정법 과거완료)",
                       "extension_words":  [
                                               {
                                                   "en":  "angry",
@@ -19317,8 +19284,8 @@
                       "level":  "중급",
                       "category":  "비즈니스",
                       "sentence_ko":  "저는 그 동료랑 의견이 안 맞아서 좀 힘들었어요.",
-                      "sentence_en":  "I had a hard time because my opinions didn\u0027t match with that coworker\u0027s.",
-                      "hint_chunk":  "I had a hard time because my opinions didn\u0027t match with that ~\u0027s.",
+                      "sentence_en":  "I had a tough time because I couldn\u0027t see eye to eye with that coworker.",
+                      "hint_chunk":  "I had a tough time because I couldn\u0027t see eye to eye with ~.",
                       "extension_words":  [
                                               {
                                                   "en":  "coworker",
@@ -19685,8 +19652,8 @@
                       "level":  "중급",
                       "category":  "인터넷 / SNS",
                       "sentence_ko":  "저는 그 사람이 올린 글을 보고 나서 마음이 불편해졌어요.",
-                      "sentence_en":  "I felt uncomfortable after seeing the post that person uploaded.",
-                      "hint_chunk":  "I felt uncomfortable after seeing the ~ that person uploaded.",
+                      "sentence_en":  "I felt uncomfortable after seeing what that person posted.",
+                      "hint_chunk":  "I felt ~ after seeing what + 주어 + 동사",
                       "extension_words":  [
                                               {
                                                   "en":  "post",
@@ -19869,8 +19836,8 @@
                       "level":  "중급",
                       "category":  "인터넷 / SNS",
                       "sentence_ko":  "저는 이 구독 서비스를 해지하려고 했는데 방법을 못 찾겠어요.",
-                      "sentence_en":  "I tried to cancel this subscription, but I can\u0027t find how.",
-                      "hint_chunk":  "I tried to cancel this ~, but I can\u0027t find how.",
+                      "sentence_en":  "I tried to cancel this subscription, but I can\u0027t figure out how.",
+                      "hint_chunk":  "I tried to ~, but I can\u0027t figure out how. (방법을 모를 때)",
                       "extension_words":  [
                                               {
                                                   "en":  "subscription",
@@ -21065,8 +21032,8 @@
                       "level":  "초급",
                       "category":  "감정 표현",
                       "sentence_ko":  "저 좀 무기력해요.",
-                      "sentence_en":  "I feel a bit lethargic.",
-                      "hint_chunk":  "I feel a bit ~.",
+                      "sentence_en":  "I feel so drained.",
+                      "hint_chunk":  "I feel so ~. (상태 표현)",
                       "extension_words":  [
                                               {
                                                   "en":  "lethargic",
@@ -21364,8 +21331,8 @@
                       "level":  "초급",
                       "category":  "감정 표현",
                       "sentence_ko":  "저 그 사람한테 무관심해졌어요.",
-                      "sentence_en":  "I\u0027ve become indifferent toward that person.",
-                      "hint_chunk":  "I\u0027ve become ~ toward that person.",
+                      "sentence_en":  "I just don\u0027t care about them anymore.",
+                      "hint_chunk":  "I just don\u0027t care about ~ anymore. (무관심 표현)",
                       "extension_words":  [
                                               {
                                                   "en":  "indifferent",

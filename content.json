@@ -1,5 +1,5 @@
 {
-    "content_version":  "2026-07-13-02",
+    "content_version":  "2026-07-13-03",
     "cards":  [
                   {
                       "id":  "beg_talk_001",
@@ -17698,6 +17698,2306 @@
                                               {
                                                   "en":  "get too hot",
                                                   "ko":  "너무 더워지다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_016",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화를 안 받아서 문자를 남겼어요.",
+                      "sentence_en":  "I left a text because you didn\u0027t answer the phone.",
+                      "hint_chunk":  "I left a text because you didn\u0027t ~ the phone.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "answer",
+                                                  "ko":  "받다"
+                                              },
+                                              {
+                                                  "en":  "pick up",
+                                                  "ko":  "받다(구어)"
+                                              },
+                                              {
+                                                  "en":  "return",
+                                                  "ko":  "다시 걸다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_017",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "만약 전화를 못 받으면 문자 남겨주세요.",
+                      "sentence_en":  "If you can\u0027t answer, please leave me a text.",
+                      "hint_chunk":  "If you can\u0027t answer, please ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "leave me a text",
+                                                  "ko":  "문자를 남기다"
+                                              },
+                                              {
+                                                  "en":  "leave a message",
+                                                  "ko":  "메시지를 남기다"
+                                              },
+                                              {
+                                                  "en":  "call back",
+                                                  "ko":  "다시 전화하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_018",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "저는 그 사람한테 세 번이나 전화했는데 안 받았어요.",
+                      "sentence_en":  "I called that person three times, but they didn\u0027t pick up.",
+                      "hint_chunk":  "I called ~ times, but they didn\u0027t pick up.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "three",
+                                                  "ko":  "세 번"
+                                              },
+                                              {
+                                                  "en":  "several",
+                                                  "ko":  "여러 번"
+                                              },
+                                              {
+                                                  "en":  "twice",
+                                                  "ko":  "두 번"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_019",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화가 끊겼는데 다시 걸어야 할지 기다려야 할지 모르겠어요.",
+                      "sentence_en":  "The call got disconnected, and I don\u0027t know whether to call back or wait.",
+                      "hint_chunk":  "The call got disconnected, and I don\u0027t know whether to ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "call back",
+                                                  "ko":  "다시 걸다"
+                                              },
+                                              {
+                                                  "en":  "wait",
+                                                  "ko":  "기다리다"
+                                              },
+                                              {
+                                                  "en":  "text instead",
+                                                  "ko":  "대신 문자하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_020",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "통화 중에 배터리가 갑자기 나가버렸어요.",
+                      "sentence_en":  "My battery suddenly died in the middle of the call.",
+                      "hint_chunk":  "My battery suddenly died in the middle of ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the call",
+                                                  "ko":  "통화"
+                                              },
+                                              {
+                                                  "en":  "the meeting",
+                                                  "ko":  "회의"
+                                              },
+                                              {
+                                                  "en":  "the movie",
+                                                  "ko":  "영화"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_021",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "저는 운전 중에는 전화를 안 받아요.",
+                      "sentence_en":  "I don\u0027t answer calls while I\u0027m driving.",
+                      "hint_chunk":  "I don\u0027t answer calls while I\u0027m ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "driving",
+                                                  "ko":  "운전하다"
+                                              },
+                                              {
+                                                  "en":  "working",
+                                                  "ko":  "일하다"
+                                              },
+                                              {
+                                                  "en":  "sleeping",
+                                                  "ko":  "자다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_022",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "스팸 전화가 계속 와서 번호를 차단했어요.",
+                      "sentence_en":  "I kept getting spam calls, so I blocked the number.",
+                      "hint_chunk":  "I kept getting ~ calls, so I blocked the number.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "spam",
+                                                  "ko":  "스팸"
+                                              },
+                                              {
+                                                  "en":  "prank",
+                                                  "ko":  "장난"
+                                              },
+                                              {
+                                                  "en":  "unknown",
+                                                  "ko":  "모르는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_023",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "만약 급한 일이면 문자 말고 전화로 해주세요.",
+                      "sentence_en":  "If it\u0027s urgent, please call instead of texting.",
+                      "hint_chunk":  "If it\u0027s urgent, please ~ instead of texting.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "call",
+                                                  "ko":  "전화하다"
+                                              },
+                                              {
+                                                  "en":  "come by",
+                                                  "ko":  "들르다"
+                                              },
+                                              {
+                                                  "en":  "email",
+                                                  "ko":  "이메일 보내다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_024",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "저는 전화하는 것보다 문자하는 게 더 편해요.",
+                      "sentence_en":  "I feel more comfortable texting than calling.",
+                      "hint_chunk":  "I feel more comfortable ~ing than calling.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "texting",
+                                                  "ko":  "문자하는 것"
+                                              },
+                                              {
+                                                  "en":  "emailing",
+                                                  "ko":  "이메일 보내는 것"
+                                              },
+                                              {
+                                                  "en":  "messaging",
+                                                  "ko":  "메시지 보내는 것"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_025",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "회의가 길어져서 전화를 못 받았어요.",
+                      "sentence_en":  "The meeting ran long, so I couldn\u0027t answer the phone.",
+                      "hint_chunk":  "The ~ ran long, so I couldn\u0027t answer the phone.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "meeting",
+                                                  "ko":  "회의"
+                                              },
+                                              {
+                                                  "en":  "class",
+                                                  "ko":  "수업"
+                                              },
+                                              {
+                                                  "en":  "flight",
+                                                  "ko":  "비행기"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_026",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "국제전화라서 요금이 많이 나왔어요.",
+                      "sentence_en":  "Since it was an international call, the bill was expensive.",
+                      "hint_chunk":  "Since it was an international call, the ~ was expensive.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "bill",
+                                                  "ko":  "요금"
+                                              },
+                                              {
+                                                  "en":  "charge",
+                                                  "ko":  "요금"
+                                              },
+                                              {
+                                                  "en":  "fee",
+                                                  "ko":  "수수료"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_027",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "저는 전화번호를 바꿔서 사람들한테 알려야 해요.",
+                      "sentence_en":  "I changed my phone number, so I need to let people know.",
+                      "hint_chunk":  "I changed my ~, so I need to let people know.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "phone number",
+                                                  "ko":  "전화번호"
+                                              },
+                                              {
+                                                  "en":  "email",
+                                                  "ko":  "이메일"
+                                              },
+                                              {
+                                                  "en":  "address",
+                                                  "ko":  "주소"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_028",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화 목소리를 들으니까 뭔가 안 좋은 일이 있는 것 같았어요.",
+                      "sentence_en":  "Hearing your voice on the phone, it sounded like something was wrong.",
+                      "hint_chunk":  "Hearing your voice on the phone, it sounded like ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "something was wrong",
+                                                  "ko":  "뭔가 안 좋은 일이 있다"
+                                              },
+                                              {
+                                                  "en":  "you were tired",
+                                                  "ko":  "피곤한 것 같다"
+                                              },
+                                              {
+                                                  "en":  "you were busy",
+                                                  "ko":  "바쁜 것 같다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_029",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "다시 전화한다고 했는데 아직 안 왔어요.",
+                      "sentence_en":  "You said you\u0027d call back, but you still haven\u0027t.",
+                      "hint_chunk":  "You said you\u0027d ~, but you still haven\u0027t.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "call back",
+                                                  "ko":  "다시 전화하다"
+                                              },
+                                              {
+                                                  "en":  "text me",
+                                                  "ko":  "문자하다"
+                                              },
+                                              {
+                                                  "en":  "let me know",
+                                                  "ko":  "알려주다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_030",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "화상통화를 하는 동안 인터넷이 자꾸 끊겼어요.",
+                      "sentence_en":  "The internet kept cutting out while we were on a video call.",
+                      "hint_chunk":  "The internet kept cutting out while we were on a ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "video call",
+                                                  "ko":  "화상통화"
+                                              },
+                                              {
+                                                  "en":  "call",
+                                                  "ko":  "통화"
+                                              },
+                                              {
+                                                  "en":  "meeting",
+                                                  "ko":  "회의"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_031",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "저는 모르는 번호로 오는 전화는 잘 안 받아요.",
+                      "sentence_en":  "I usually don\u0027t answer calls from numbers I don\u0027t know.",
+                      "hint_chunk":  "I usually don\u0027t answer calls from numbers I don\u0027t ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "know",
+                                                  "ko":  "알다"
+                                              },
+                                              {
+                                                  "en":  "recognize",
+                                                  "ko":  "알아보다"
+                                              },
+                                              {
+                                                  "en":  "save",
+                                                  "ko":  "저장하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_032",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "만약 그 전화를 받았더라면 상황이 달라졌을 거예요.",
+                      "sentence_en":  "If I had answered that call, things would have been different.",
+                      "hint_chunk":  "If I had answered that call, ~ would have been different.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "things",
+                                                  "ko":  "상황"
+                                              },
+                                              {
+                                                  "en":  "my day",
+                                                  "ko":  "내 하루"
+                                              },
+                                              {
+                                                  "en":  "everything",
+                                                  "ko":  "모든 것"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_033",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "전화 예절이 나라마다 다르다고 들었어요.",
+                      "sentence_en":  "I heard that phone etiquette is different depending on the country.",
+                      "hint_chunk":  "I heard that ~ is different depending on the country.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "phone etiquette",
+                                                  "ko":  "전화 예절"
+                                              },
+                                              {
+                                                  "en":  "tipping culture",
+                                                  "ko":  "팁 문화"
+                                              },
+                                              {
+                                                  "en":  "business hours",
+                                                  "ko":  "영업시간"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_034",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "저는 전화하다가 말이 자꾸 끊겨서 답답했어요.",
+                      "sentence_en":  "I got frustrated because the call kept cutting out while I was talking.",
+                      "hint_chunk":  "I got frustrated because the call kept ~ing while I was talking.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "cutting out",
+                                                  "ko":  "끊기다"
+                                              },
+                                              {
+                                                  "en":  "breaking up",
+                                                  "ko":  "끊기다(구어)"
+                                              },
+                                              {
+                                                  "en":  "lagging",
+                                                  "ko":  "지연되다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_call_035",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "전화 통화",
+                      "sentence_ko":  "이 번호로 전화가 자꾸 와서 누군지 찾아봤어요.",
+                      "sentence_en":  "I kept getting calls from this number, so I looked up who it was.",
+                      "hint_chunk":  "I kept getting calls from this number, so I ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "looked up who it was",
+                                                  "ko":  "누군지 찾아봤다"
+                                              },
+                                              {
+                                                  "en":  "blocked it",
+                                                  "ko":  "차단했다"
+                                              },
+                                              {
+                                                  "en":  "ignored it",
+                                                  "ko":  "무시했다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_016",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "그 소식을 듣고 나서 마음이 좀 놓였어요.",
+                      "sentence_en":  "I felt relieved after hearing that news.",
+                      "hint_chunk":  "I felt relieved after hearing ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "that news",
+                                                  "ko":  "그 소식"
+                                              },
+                                              {
+                                                  "en":  "the results",
+                                                  "ko":  "결과"
+                                              },
+                                              {
+                                                  "en":  "the good news",
+                                                  "ko":  "좋은 소식"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_017",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "만약 시험에 떨어지면 정말 속상할 것 같아요.",
+                      "sentence_en":  "I think I\u0027d be really upset if I failed the exam.",
+                      "hint_chunk":  "I think I\u0027d be really upset if I ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "failed the exam",
+                                                  "ko":  "시험에 떨어지다"
+                                              },
+                                              {
+                                                  "en":  "lost the game",
+                                                  "ko":  "경기에서 지다"
+                                              },
+                                              {
+                                                  "en":  "missed the deadline",
+                                                  "ko":  "마감을 놓치다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_018",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저는 그 일 이후로 계속 불안했어요.",
+                      "sentence_en":  "I\u0027ve been anxious ever since that happened.",
+                      "hint_chunk":  "I\u0027ve been ~ ever since that happened.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "anxious",
+                                                  "ko":  "불안한"
+                                              },
+                                              {
+                                                  "en":  "worried",
+                                                  "ko":  "걱정되는"
+                                              },
+                                              {
+                                                  "en":  "on edge",
+                                                  "ko":  "예민한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_019",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "그 사람 말을 듣고 나니까 화가 좀 풀렸어요.",
+                      "sentence_en":  "After hearing what he said, I felt less angry.",
+                      "hint_chunk":  "After hearing what he said, I felt ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "less angry",
+                                                  "ko":  "화가 덜 난"
+                                              },
+                                              {
+                                                  "en":  "better",
+                                                  "ko":  "나은"
+                                              },
+                                              {
+                                                  "en":  "relieved",
+                                                  "ko":  "안심된"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_020",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저는 이 일이 잘 풀릴 거라고 믿고 있어요.",
+                      "sentence_en":  "I believe that this will work out well.",
+                      "hint_chunk":  "I believe that ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "this will work out well",
+                                                  "ko":  "이 일이 잘 풀리다"
+                                              },
+                                              {
+                                                  "en":  "things will get better",
+                                                  "ko":  "상황이 나아지다"
+                                              },
+                                              {
+                                                  "en":  "it\u0027ll be fine",
+                                                  "ko":  "괜찮아질 것이다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_021",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "그때 좀 더 참았더라면 좋았을 텐데요.",
+                      "sentence_en":  "I wish I had been more patient back then.",
+                      "hint_chunk":  "I wish I had been more ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "patient",
+                                                  "ko":  "참을성 있는"
+                                              },
+                                              {
+                                                  "en":  "careful",
+                                                  "ko":  "조심스러운"
+                                              },
+                                              {
+                                                  "en":  "honest",
+                                                  "ko":  "솔직한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_022",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저는 요즘 뭘 해도 만족스럽지가 않아요.",
+                      "sentence_en":  "Nothing I do these days feels satisfying.",
+                      "hint_chunk":  "Nothing I do these days feels ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "satisfying",
+                                                  "ko":  "만족스러운"
+                                              },
+                                              {
+                                                  "en":  "fun",
+                                                  "ko":  "재밌는"
+                                              },
+                                              {
+                                                  "en":  "meaningful",
+                                                  "ko":  "의미있는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_023",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "그 얘기를 듣자마자 눈물이 났어요.",
+                      "sentence_en":  "As soon as I heard that, I started crying.",
+                      "hint_chunk":  "As soon as I heard that, I ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "started crying",
+                                                  "ko":  "눈물이 났다"
+                                              },
+                                              {
+                                                  "en":  "felt relieved",
+                                                  "ko":  "안심했다"
+                                              },
+                                              {
+                                                  "en":  "got angry",
+                                                  "ko":  "화가 났다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_024",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저는 그 사람이 잘 지내고 있는지 계속 걱정돼요.",
+                      "sentence_en":  "I keep worrying about whether that person is doing okay.",
+                      "hint_chunk":  "I keep worrying about whether ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "that person is doing okay",
+                                                  "ko":  "그 사람이 잘 지내다"
+                                              },
+                                              {
+                                                  "en":  "I made the right choice",
+                                                  "ko":  "내가 옳은 선택을 했다"
+                                              },
+                                              {
+                                                  "en":  "things will work out",
+                                                  "ko":  "상황이 잘 풀리다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_025",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "만약 제가 그때 그렇게 말하지 않았더라면 싸우지 않았을 거예요.",
+                      "sentence_en":  "If I hadn\u0027t said that back then, we wouldn\u0027t have fought.",
+                      "hint_chunk":  "If I hadn\u0027t said that back then, we wouldn\u0027t have ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "fought",
+                                                  "ko":  "싸우다"
+                                              },
+                                              {
+                                                  "en":  "argued",
+                                                  "ko":  "다투다"
+                                              },
+                                              {
+                                                  "en":  "broken up",
+                                                  "ko":  "헤어지다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_026",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저는 이 일에 대해 아직도 마음이 복잡해요.",
+                      "sentence_en":  "I still have mixed feelings about this.",
+                      "hint_chunk":  "I still have mixed feelings about ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "this",
+                                                  "ko":  "이 일"
+                                              },
+                                              {
+                                                  "en":  "that decision",
+                                                  "ko":  "그 결정"
+                                              },
+                                              {
+                                                  "en":  "what happened",
+                                                  "ko":  "있었던 일"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_027",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "그 결과를 보고 나서 실망했지만 곧 괜찮아졌어요.",
+                      "sentence_en":  "I was disappointed after seeing the results, but I felt okay soon after.",
+                      "hint_chunk":  "I was disappointed after seeing ~, but I felt okay soon after.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the results",
+                                                  "ko":  "결과"
+                                              },
+                                              {
+                                                  "en":  "the reaction",
+                                                  "ko":  "반응"
+                                              },
+                                              {
+                                                  "en":  "the review",
+                                                  "ko":  "리뷰"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_028",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저는 예전보다 감정을 잘 조절하게 됐어요.",
+                      "sentence_en":  "I\u0027ve gotten better at controlling my emotions than before.",
+                      "hint_chunk":  "I\u0027ve gotten better at ~ing than before.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "controlling my emotions",
+                                                  "ko":  "감정을 조절하다"
+                                              },
+                                              {
+                                                  "en":  "handling stress",
+                                                  "ko":  "스트레스를 다루다"
+                                              },
+                                              {
+                                                  "en":  "staying calm",
+                                                  "ko":  "침착함을 유지하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_029",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "그 사람이 그렇게 말해줘서 정말 위로가 됐어요.",
+                      "sentence_en":  "It was really comforting that he said that.",
+                      "hint_chunk":  "It was really comforting that ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "he said that",
+                                                  "ko":  "그가 그렇게 말했다"
+                                              },
+                                              {
+                                                  "en":  "she stayed with me",
+                                                  "ko":  "그녀가 곁에 있어줬다"
+                                              },
+                                              {
+                                                  "en":  "they understood",
+                                                  "ko":  "그들이 이해해줬다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_030",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저는 그 사건 이후로 사람을 잘 못 믿게 됐어요.",
+                      "sentence_en":  "I\u0027ve had a hard time trusting people since that incident.",
+                      "hint_chunk":  "I\u0027ve had a hard time ~ing since that incident.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "trusting people",
+                                                  "ko":  "사람을 믿다"
+                                              },
+                                              {
+                                                  "en":  "sleeping well",
+                                                  "ko":  "잘 자다"
+                                              },
+                                              {
+                                                  "en":  "feeling safe",
+                                                  "ko":  "안전하다고 느끼다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_031",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "만약 누군가 저한테 그렇게 말했다면 저도 화났을 거예요.",
+                      "sentence_en":  "If someone said that to me, I would have been angry too.",
+                      "hint_chunk":  "If someone said that to me, I would have been ~ too.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "angry",
+                                                  "ko":  "화난"
+                                              },
+                                              {
+                                                  "en":  "upset",
+                                                  "ko":  "속상한"
+                                              },
+                                              {
+                                                  "en":  "hurt",
+                                                  "ko":  "상처받은"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_032",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저는 이 감정을 어떻게 표현해야 할지 모르겠어요.",
+                      "sentence_en":  "I don\u0027t know how to express this feeling.",
+                      "hint_chunk":  "I don\u0027t know how to ~ this feeling.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "express",
+                                                  "ko":  "표현하다"
+                                              },
+                                              {
+                                                  "en":  "explain",
+                                                  "ko":  "설명하다"
+                                              },
+                                              {
+                                                  "en":  "deal with",
+                                                  "ko":  "다루다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_033",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "그 소식을 듣고 다들 충격을 받은 것 같았어요.",
+                      "sentence_en":  "Everyone seemed shocked after hearing that news.",
+                      "hint_chunk":  "Everyone seemed ~ after hearing that news.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "shocked",
+                                                  "ko":  "충격받은"
+                                              },
+                                              {
+                                                  "en":  "surprised",
+                                                  "ko":  "놀란"
+                                              },
+                                              {
+                                                  "en":  "worried",
+                                                  "ko":  "걱정하는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_034",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저는 그 순간이 지나고 나서야 얼마나 무서웠는지 깨달았어요.",
+                      "sentence_en":  "I only realized how scared I had been after that moment had passed.",
+                      "hint_chunk":  "I only realized how ~ I had been after that moment had passed.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "scared",
+                                                  "ko":  "무서웠는지"
+                                              },
+                                              {
+                                                  "en":  "nervous",
+                                                  "ko":  "긴장했는지"
+                                              },
+                                              {
+                                                  "en":  "sad",
+                                                  "ko":  "슬펐는지"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_emotion_035",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "감정 표현",
+                      "sentence_ko":  "저는 이 일을 겪고 나서 더 강해진 것 같아요.",
+                      "sentence_en":  "I feel like I\u0027ve become stronger after going through this.",
+                      "hint_chunk":  "I feel like I\u0027ve become ~ after going through this.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "stronger",
+                                                  "ko":  "더 강한"
+                                              },
+                                              {
+                                                  "en":  "wiser",
+                                                  "ko":  "더 지혜로운"
+                                              },
+                                              {
+                                                  "en":  "more mature",
+                                                  "ko":  "더 성숙한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_016",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "약을 먹었는데도 열이 안 내려가서 다시 병원에 갔어요.",
+                      "sentence_en":  "Even though I took the medicine, my fever didn\u0027t go down, so I went back to the hospital.",
+                      "hint_chunk":  "Even though I took the medicine, my ~ didn\u0027t go down.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "fever",
+                                                  "ko":  "열"
+                                              },
+                                              {
+                                                  "en":  "swelling",
+                                                  "ko":  "부기"
+                                              },
+                                              {
+                                                  "en":  "pain",
+                                                  "ko":  "통증"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_017",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "만약 증상이 계속되면 다른 병원에 가보는 게 좋을 것 같아요.",
+                      "sentence_en":  "If the symptoms continue, I think it\u0027d be better to see another doctor.",
+                      "hint_chunk":  "If the ~ continue, I think it\u0027d be better to see another doctor.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "symptoms",
+                                                  "ko":  "증상"
+                                              },
+                                              {
+                                                  "en":  "headaches",
+                                                  "ko":  "두통"
+                                              },
+                                              {
+                                                  "en":  "allergies",
+                                                  "ko":  "알레르기"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_018",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "저는 이 약을 먹은 후로 계속 어지러워요.",
+                      "sentence_en":  "I\u0027ve been dizzy ever since I started taking this medicine.",
+                      "hint_chunk":  "I\u0027ve been ~ ever since I started taking this medicine.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "dizzy",
+                                                  "ko":  "어지러운"
+                                              },
+                                              {
+                                                  "en":  "nauseous",
+                                                  "ko":  "메스꺼운"
+                                              },
+                                              {
+                                                  "en":  "tired",
+                                                  "ko":  "피곤한"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_019",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "검사 결과가 나올 때까지 기다려야 한다고 했어요.",
+                      "sentence_en":  "They said I need to wait until the test results come out.",
+                      "hint_chunk":  "They said I need to wait until the ~ come out.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "test results",
+                                                  "ko":  "검사 결과"
+                                              },
+                                              {
+                                                  "en":  "X-ray results",
+                                                  "ko":  "엑스레이 결과"
+                                              },
+                                              {
+                                                  "en":  "blood test results",
+                                                  "ko":  "혈액검사 결과"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_020",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "의사 선생님이 처방해준 약을 먹고 나서 좀 나아졌어요.",
+                      "sentence_en":  "I felt a bit better after taking the medicine the doctor prescribed.",
+                      "hint_chunk":  "I felt a bit better after taking the medicine the ~ prescribed.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "doctor",
+                                                  "ko":  "의사"
+                                              },
+                                              {
+                                                  "en":  "pharmacist",
+                                                  "ko":  "약사"
+                                              },
+                                              {
+                                                  "en":  "specialist",
+                                                  "ko":  "전문의"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_021",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "저는 이 약에 알레르기가 있는 줄 몰랐어요.",
+                      "sentence_en":  "I didn\u0027t know I was allergic to this medicine.",
+                      "hint_chunk":  "I didn\u0027t know I was allergic to ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "this medicine",
+                                                  "ko":  "이 약"
+                                              },
+                                              {
+                                                  "en":  "penicillin",
+                                                  "ko":  "페니실린"
+                                              },
+                                              {
+                                                  "en":  "this ingredient",
+                                                  "ko":  "이 성분"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_022",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "만약 통증이 심해지면 바로 응급실로 가세요.",
+                      "sentence_en":  "If the pain gets worse, go straight to the emergency room.",
+                      "hint_chunk":  "If the ~ gets worse, go straight to the emergency room.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "pain",
+                                                  "ko":  "통증"
+                                              },
+                                              {
+                                                  "en":  "fever",
+                                                  "ko":  "열"
+                                              },
+                                              {
+                                                  "en":  "swelling",
+                                                  "ko":  "부기"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_023",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "저는 정기적으로 건강검진을 받고 있어요.",
+                      "sentence_en":  "I\u0027ve been getting regular checkups.",
+                      "hint_chunk":  "I\u0027ve been getting regular ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "checkups",
+                                                  "ko":  "건강검진"
+                                              },
+                                              {
+                                                  "en":  "blood tests",
+                                                  "ko":  "혈액검사"
+                                              },
+                                              {
+                                                  "en":  "dental checkups",
+                                                  "ko":  "치과검진"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_024",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "이 병원은 예약하지 않으면 오래 기다려야 한다고 들었어요.",
+                      "sentence_en":  "I heard that you have to wait a long time here if you don\u0027t make an appointment.",
+                      "hint_chunk":  "I heard that you have to wait a long time here if you don\u0027t make ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "an appointment",
+                                                  "ko":  "예약"
+                                              },
+                                              {
+                                                  "en":  "a reservation",
+                                                  "ko":  "예약"
+                                              },
+                                              {
+                                                  "en":  "an online booking",
+                                                  "ko":  "온라인 예약"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_025",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "수술한 지 얼마 안 됐는데 벌써 많이 나아졌어요.",
+                      "sentence_en":  "It hasn\u0027t been long since the surgery, but I\u0027ve already improved a lot.",
+                      "hint_chunk":  "It hasn\u0027t been long since the ~, but I\u0027ve already improved a lot.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "surgery",
+                                                  "ko":  "수술"
+                                              },
+                                              {
+                                                  "en":  "treatment",
+                                                  "ko":  "치료"
+                                              },
+                                              {
+                                                  "en":  "procedure",
+                                                  "ko":  "시술"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_026",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "저는 이 약을 먹으면 졸려서 운전을 못 해요.",
+                      "sentence_en":  "I can\u0027t drive when I take this medicine because it makes me drowsy.",
+                      "hint_chunk":  "I can\u0027t drive when I take this medicine because it makes me ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "drowsy",
+                                                  "ko":  "졸린"
+                                              },
+                                              {
+                                                  "en":  "dizzy",
+                                                  "ko":  "어지러운"
+                                              },
+                                              {
+                                                  "en":  "weak",
+                                                  "ko":  "힘없는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_027",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "만약 보험이 없었다면 이 진료비를 감당하지 못했을 거예요.",
+                      "sentence_en":  "If I hadn\u0027t had insurance, I wouldn\u0027t have been able to afford this treatment.",
+                      "hint_chunk":  "If I hadn\u0027t had ~, I wouldn\u0027t have been able to afford this treatment.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "insurance",
+                                                  "ko":  "보험"
+                                              },
+                                              {
+                                                  "en":  "savings",
+                                                  "ko":  "저축"
+                                              },
+                                              {
+                                                  "en":  "help",
+                                                  "ko":  "도움"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_028",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "저는 스트레스 때문에 몸이 안 좋아진 것 같아요.",
+                      "sentence_en":  "I think my health has gotten worse because of stress.",
+                      "hint_chunk":  "I think my health has gotten worse because of ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "stress",
+                                                  "ko":  "스트레스"
+                                              },
+                                              {
+                                                  "en":  "overwork",
+                                                  "ko":  "과로"
+                                              },
+                                              {
+                                                  "en":  "lack of sleep",
+                                                  "ko":  "수면 부족"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_029",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "이 증상은 감기라기보다는 알레르기에 가까운 것 같아요.",
+                      "sentence_en":  "This symptom seems more like an allergy than a cold.",
+                      "hint_chunk":  "This symptom seems more like ~ than a cold.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "an allergy",
+                                                  "ko":  "알레르기"
+                                              },
+                                              {
+                                                  "en":  "a sinus infection",
+                                                  "ko":  "축농증"
+                                              },
+                                              {
+                                                  "en":  "food poisoning",
+                                                  "ko":  "식중독"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_030",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "저는 이 약을 처방받고 나서 부작용을 겪었어요.",
+                      "sentence_en":  "I experienced side effects after being prescribed this medicine.",
+                      "hint_chunk":  "I experienced ~ after being prescribed this medicine.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "side effects",
+                                                  "ko":  "부작용"
+                                              },
+                                              {
+                                                  "en":  "a rash",
+                                                  "ko":  "발진"
+                                              },
+                                              {
+                                                  "en":  "nausea",
+                                                  "ko":  "메스꺼움"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_031",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "의사 선생님이 며칠 더 지켜보자고 하셨어요.",
+                      "sentence_en":  "The doctor said we should keep an eye on it for a few more days.",
+                      "hint_chunk":  "The doctor said we should keep an eye on it for a few more ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "days",
+                                                  "ko":  "일"
+                                              },
+                                              {
+                                                  "en":  "weeks",
+                                                  "ko":  "주"
+                                              },
+                                              {
+                                                  "en":  "hours",
+                                                  "ko":  "시간"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_032",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "저는 그 수술을 받기 전에 다른 의견을 들어보고 싶어요.",
+                      "sentence_en":  "I want to get a second opinion before having that surgery.",
+                      "hint_chunk":  "I want to get a ~ before having that surgery.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "second opinion",
+                                                  "ko":  "다른 의견"
+                                              },
+                                              {
+                                                  "en":  "consultation",
+                                                  "ko":  "상담"
+                                              },
+                                              {
+                                                  "en":  "checkup",
+                                                  "ko":  "검진"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_033",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "만약 통증이 계속되면 진통제를 드릴게요.",
+                      "sentence_en":  "If the pain continues, I\u0027ll give you some painkillers.",
+                      "hint_chunk":  "If the pain continues, I\u0027ll give you some ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "painkillers",
+                                                  "ko":  "진통제"
+                                              },
+                                              {
+                                                  "en":  "medicine",
+                                                  "ko":  "약"
+                                              },
+                                              {
+                                                  "en":  "an injection",
+                                                  "ko":  "주사"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_034",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "저는 이 병 때문에 몇 달 동안 병원을 다니고 있어요.",
+                      "sentence_en":  "I\u0027ve been going to the hospital for months because of this illness.",
+                      "hint_chunk":  "I\u0027ve been going to the hospital for ~ because of this illness.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "months",
+                                                  "ko":  "몇 달"
+                                              },
+                                              {
+                                                  "en":  "weeks",
+                                                  "ko":  "몇 주"
+                                              },
+                                              {
+                                                  "en":  "a long time",
+                                                  "ko":  "오랫동안"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_clinic_035",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "병원 / 약국",
+                      "sentence_ko":  "백신을 맞고 나서 팔이 좀 아팠어요.",
+                      "sentence_en":  "My arm hurt a little after getting the vaccine.",
+                      "hint_chunk":  "My ~ hurt a little after getting the vaccine.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "arm",
+                                                  "ko":  "팔"
+                                              },
+                                              {
+                                                  "en":  "shoulder",
+                                                  "ko":  "어깨"
+                                              },
+                                              {
+                                                  "en":  "leg",
+                                                  "ko":  "다리"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_016",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "만약 이 계약을 놓치면 큰 손해를 볼 거예요.",
+                      "sentence_en":  "If we lose this contract, we\u0027ll suffer a big loss.",
+                      "hint_chunk":  "If we lose this ~, we\u0027ll suffer a big loss.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "contract",
+                                                  "ko":  "계약"
+                                              },
+                                              {
+                                                  "en":  "deal",
+                                                  "ko":  "거래"
+                                              },
+                                              {
+                                                  "en":  "client",
+                                                  "ko":  "고객"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_017",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "저는 이 프로젝트를 맡은 후로 계속 바빠요.",
+                      "sentence_en":  "I\u0027ve been busy ever since I took on this project.",
+                      "hint_chunk":  "I\u0027ve been ~ ever since I took on this project.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "busy",
+                                                  "ko":  "바쁜"
+                                              },
+                                              {
+                                                  "en":  "stressed",
+                                                  "ko":  "스트레스 받는"
+                                              },
+                                              {
+                                                  "en":  "exhausted",
+                                                  "ko":  "지친"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_018",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "회의가 갑자기 취소돼서 일정을 다시 짜야 했어요.",
+                      "sentence_en":  "The meeting was suddenly canceled, so we had to rearrange the schedule.",
+                      "hint_chunk":  "The ~ was suddenly canceled, so we had to rearrange the schedule.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "meeting",
+                                                  "ko":  "회의"
+                                              },
+                                              {
+                                                  "en":  "presentation",
+                                                  "ko":  "발표"
+                                              },
+                                              {
+                                                  "en":  "call",
+                                                  "ko":  "통화"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_019",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "저는 그 제안을 받아들이기 전에 좀 더 생각해보고 싶어요.",
+                      "sentence_en":  "I want to think it over more before accepting that offer.",
+                      "hint_chunk":  "I want to think it over more before accepting that ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "offer",
+                                                  "ko":  "제안"
+                                              },
+                                              {
+                                                  "en":  "deal",
+                                                  "ko":  "거래"
+                                              },
+                                              {
+                                                  "en":  "job",
+                                                  "ko":  "일자리"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_020",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "만약 마감을 못 지키면 클라이언트가 화낼 거예요.",
+                      "sentence_en":  "If we miss the deadline, the client will be upset.",
+                      "hint_chunk":  "If we miss the ~, the client will be upset.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "deadline",
+                                                  "ko":  "마감"
+                                              },
+                                              {
+                                                  "en":  "due date",
+                                                  "ko":  "기한"
+                                              },
+                                              {
+                                                  "en":  "schedule",
+                                                  "ko":  "일정"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_021",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "저는 승진하고 나서 책임이 훨씬 많아졌어요.",
+                      "sentence_en":  "I\u0027ve had a lot more responsibility since I got promoted.",
+                      "hint_chunk":  "I\u0027ve had a lot more ~ since I got promoted.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "responsibility",
+                                                  "ko":  "책임"
+                                              },
+                                              {
+                                                  "en":  "work",
+                                                  "ko":  "일"
+                                              },
+                                              {
+                                                  "en":  "pressure",
+                                                  "ko":  "부담"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_022",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "이 계약서는 변호사가 검토한 후에 서명하는 게 좋겠어요.",
+                      "sentence_en":  "It\u0027d be better to sign this contract after a lawyer reviews it.",
+                      "hint_chunk":  "It\u0027d be better to sign this ~ after a lawyer reviews it.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "contract",
+                                                  "ko":  "계약서"
+                                              },
+                                              {
+                                                  "en":  "agreement",
+                                                  "ko":  "합의서"
+                                              },
+                                              {
+                                                  "en":  "document",
+                                                  "ko":  "문서"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_023",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "저는 그 프로젝트가 끝나자마자 휴가를 갈 거예요.",
+                      "sentence_en":  "I\u0027m going to take a vacation as soon as that project is done.",
+                      "hint_chunk":  "I\u0027m going to take a ~ as soon as that project is done.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "vacation",
+                                                  "ko":  "휴가"
+                                              },
+                                              {
+                                                  "en":  "break",
+                                                  "ko":  "휴식"
+                                              },
+                                              {
+                                                  "en":  "trip",
+                                                  "ko":  "여행"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_024",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "예산이 삭감돼서 계획을 다시 세워야 했어요.",
+                      "sentence_en":  "The budget was cut, so we had to make a new plan.",
+                      "hint_chunk":  "The ~ was cut, so we had to make a new plan.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "budget",
+                                                  "ko":  "예산"
+                                              },
+                                              {
+                                                  "en":  "funding",
+                                                  "ko":  "자금"
+                                              },
+                                              {
+                                                  "en":  "schedule",
+                                                  "ko":  "일정"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_025",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "만약 이 협상이 실패하면 다른 방법을 찾아야 해요.",
+                      "sentence_en":  "If this negotiation fails, we need to find another way.",
+                      "hint_chunk":  "If this ~ fails, we need to find another way.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "negotiation",
+                                                  "ko":  "협상"
+                                              },
+                                              {
+                                                  "en":  "plan",
+                                                  "ko":  "계획"
+                                              },
+                                              {
+                                                  "en":  "deal",
+                                                  "ko":  "거래"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_026",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "저는 그 동료랑 의견이 안 맞아서 좀 힘들었어요.",
+                      "sentence_en":  "I had a hard time because my opinions didn\u0027t match with that coworker\u0027s.",
+                      "hint_chunk":  "I had a hard time because my opinions didn\u0027t match with that ~\u0027s.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "coworker",
+                                                  "ko":  "동료"
+                                              },
+                                              {
+                                                  "en":  "manager",
+                                                  "ko":  "매니저"
+                                              },
+                                              {
+                                                  "en":  "client",
+                                                  "ko":  "클라이언트"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_027",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "이 보고서는 다음 회의 전까지 끝내야 한다고 들었어요.",
+                      "sentence_en":  "I heard that this report needs to be finished before the next meeting.",
+                      "hint_chunk":  "I heard that this ~ needs to be finished before the next meeting.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "report",
+                                                  "ko":  "보고서"
+                                              },
+                                              {
+                                                  "en":  "presentation",
+                                                  "ko":  "발표"
+                                              },
+                                              {
+                                                  "en":  "proposal",
+                                                  "ko":  "제안서"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_028",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "저는 재택근무를 하면서 오히려 더 집중이 잘 돼요.",
+                      "sentence_en":  "I actually focus better while working from home.",
+                      "hint_chunk":  "I actually focus better while working from ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "home",
+                                                  "ko":  "집"
+                                              },
+                                              {
+                                                  "en":  "a café",
+                                                  "ko":  "카페"
+                                              },
+                                              {
+                                                  "en":  "the library",
+                                                  "ko":  "도서관"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_029",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "만약 그때 그 제안을 받아들였더라면 지금 상황이 달랐을 거예요.",
+                      "sentence_en":  "If I had accepted that offer back then, things would be different now.",
+                      "hint_chunk":  "If I had accepted that offer back then, ~ would be different now.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "things",
+                                                  "ko":  "상황"
+                                              },
+                                              {
+                                                  "en":  "my career",
+                                                  "ko":  "내 커리어"
+                                              },
+                                              {
+                                                  "en":  "my life",
+                                                  "ko":  "내 인생"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_030",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "저는 이 회사에서 일한 지 벌써 5년이 됐어요.",
+                      "sentence_en":  "It\u0027s already been five years since I started working at this company.",
+                      "hint_chunk":  "It\u0027s already been ~ since I started working at this company.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "five years",
+                                                  "ko":  "5년"
+                                              },
+                                              {
+                                                  "en":  "three years",
+                                                  "ko":  "3년"
+                                              },
+                                              {
+                                                  "en":  "a while",
+                                                  "ko":  "한참"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_031",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "그 클라이언트는 계속 요구사항을 바꿔서 힘들었어요.",
+                      "sentence_en":  "It was tough because that client kept changing their requirements.",
+                      "hint_chunk":  "It was tough because that ~ kept changing their requirements.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "client",
+                                                  "ko":  "클라이언트"
+                                              },
+                                              {
+                                                  "en":  "manager",
+                                                  "ko":  "매니저"
+                                              },
+                                              {
+                                                  "en":  "team",
+                                                  "ko":  "팀"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_032",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "저는 이번 분기 실적이 좋아서 보너스를 받았어요.",
+                      "sentence_en":  "I got a bonus because our performance was good this quarter.",
+                      "hint_chunk":  "I got a ~ because our performance was good this quarter.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "bonus",
+                                                  "ko":  "보너스"
+                                              },
+                                              {
+                                                  "en":  "raise",
+                                                  "ko":  "월급 인상"
+                                              },
+                                              {
+                                                  "en":  "promotion",
+                                                  "ko":  "승진"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_033",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "회의 시간이 겹쳐서 하나는 취소해야 했어요.",
+                      "sentence_en":  "The meeting times overlapped, so I had to cancel one.",
+                      "hint_chunk":  "The ~ times overlapped, so I had to cancel one.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "meeting",
+                                                  "ko":  "회의"
+                                              },
+                                              {
+                                                  "en":  "appointment",
+                                                  "ko":  "약속"
+                                              },
+                                              {
+                                                  "en":  "call",
+                                                  "ko":  "통화"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_034",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "저는 이직을 고민하고 있는데 아직 결정을 못 했어요.",
+                      "sentence_en":  "I\u0027m thinking about changing jobs, but I haven\u0027t decided yet.",
+                      "hint_chunk":  "I\u0027m thinking about ~ing, but I haven\u0027t decided yet.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "changing jobs",
+                                                  "ko":  "이직하다"
+                                              },
+                                              {
+                                                  "en":  "quitting",
+                                                  "ko":  "그만두다"
+                                              },
+                                              {
+                                                  "en":  "moving",
+                                                  "ko":  "이사하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_biz_035",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "비즈니스",
+                      "sentence_ko":  "만약 이 프로젝트가 성공하면 팀 전체가 보상을 받을 거예요.",
+                      "sentence_en":  "If this project succeeds, the whole team will be rewarded.",
+                      "hint_chunk":  "If this project succeeds, the whole ~ will be rewarded.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "team",
+                                                  "ko":  "팀"
+                                              },
+                                              {
+                                                  "en":  "company",
+                                                  "ko":  "회사"
+                                              },
+                                              {
+                                                  "en":  "department",
+                                                  "ko":  "부서"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_016",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "제 계정이 해킹당해서 비밀번호를 다 바꿨어요.",
+                      "sentence_en":  "My account got hacked, so I changed all my passwords.",
+                      "hint_chunk":  "My ~ got hacked, so I changed all my passwords.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "account",
+                                                  "ko":  "계정"
+                                              },
+                                              {
+                                                  "en":  "email",
+                                                  "ko":  "이메일"
+                                              },
+                                              {
+                                                  "en":  "phone",
+                                                  "ko":  "전화"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_017",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "만약 이 영상이 알고리즘을 탄다면 조회수가 폭발할 거예요.",
+                      "sentence_en":  "If this video gets picked up by the algorithm, the views will explode.",
+                      "hint_chunk":  "If this ~ gets picked up by the algorithm, the views will explode.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "video",
+                                                  "ko":  "영상"
+                                              },
+                                              {
+                                                  "en":  "post",
+                                                  "ko":  "게시물"
+                                              },
+                                              {
+                                                  "en":  "reel",
+                                                  "ko":  "릴스"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_018",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "저는 SNS를 끊은 후로 훨씬 마음이 편해졌어요.",
+                      "sentence_en":  "I\u0027ve felt much more at ease since I quit social media.",
+                      "hint_chunk":  "I\u0027ve felt much more at ease since I quit ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "social media",
+                                                  "ko":  "SNS"
+                                              },
+                                              {
+                                                  "en":  "this app",
+                                                  "ko":  "이 앱"
+                                              },
+                                              {
+                                                  "en":  "gaming",
+                                                  "ko":  "게임"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_019",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이 게시물은 올리자마자 삭제해야 했어요.",
+                      "sentence_en":  "I had to delete this post right after I uploaded it.",
+                      "hint_chunk":  "I had to delete this ~ right after I uploaded it.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "post",
+                                                  "ko":  "게시물"
+                                              },
+                                              {
+                                                  "en":  "photo",
+                                                  "ko":  "사진"
+                                              },
+                                              {
+                                                  "en":  "comment",
+                                                  "ko":  "댓글"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_020",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "저는 이 앱을 업데이트한 후로 자꾸 오류가 나요.",
+                      "sentence_en":  "I keep getting errors ever since I updated this app.",
+                      "hint_chunk":  "I keep getting ~ ever since I updated this app.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "errors",
+                                                  "ko":  "오류"
+                                              },
+                                              {
+                                                  "en":  "bugs",
+                                                  "ko":  "버그"
+                                              },
+                                              {
+                                                  "en":  "crashes",
+                                                  "ko":  "다운"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_021",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "만약 개인정보 설정을 확인하지 않으면 위험할 수 있어요.",
+                      "sentence_en":  "It can be dangerous if you don\u0027t check your privacy settings.",
+                      "hint_chunk":  "It can be dangerous if you don\u0027t check your ~ settings.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "privacy",
+                                                  "ko":  "개인정보"
+                                              },
+                                              {
+                                                  "en":  "security",
+                                                  "ko":  "보안"
+                                              },
+                                              {
+                                                  "en":  "account",
+                                                  "ko":  "계정"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_022",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "저는 그 사람이 올린 글을 보고 나서 마음이 불편해졌어요.",
+                      "sentence_en":  "I felt uncomfortable after seeing the post that person uploaded.",
+                      "hint_chunk":  "I felt uncomfortable after seeing the ~ that person uploaded.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "post",
+                                                  "ko":  "게시물"
+                                              },
+                                              {
+                                                  "en":  "photo",
+                                                  "ko":  "사진"
+                                              },
+                                              {
+                                                  "en":  "video",
+                                                  "ko":  "영상"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_023",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이 계정은 팔로워가 갑자기 늘어서 놀랐어요.",
+                      "sentence_en":  "I was surprised because this account\u0027s followers suddenly increased.",
+                      "hint_chunk":  "I was surprised because this account\u0027s ~ suddenly increased.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "followers",
+                                                  "ko":  "팔로워"
+                                              },
+                                              {
+                                                  "en":  "likes",
+                                                  "ko":  "좋아요 수"
+                                              },
+                                              {
+                                                  "en":  "views",
+                                                  "ko":  "조회수"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_024",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "저는 알림을 너무 많이 받아서 다 꺼버렸어요.",
+                      "sentence_en":  "I was getting way too many notifications, so I turned them all off.",
+                      "hint_chunk":  "I was getting way too many ~, so I turned them all off.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "notifications",
+                                                  "ko":  "알림"
+                                              },
+                                              {
+                                                  "en":  "messages",
+                                                  "ko":  "메시지"
+                                              },
+                                              {
+                                                  "en":  "alerts",
+                                                  "ko":  "알림"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_025",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "만약 이 글이 논란이 되면 바로 삭제하는 게 나을 것 같아요.",
+                      "sentence_en":  "If this post becomes controversial, it\u0027d probably be better to delete it right away.",
+                      "hint_chunk":  "If this ~ becomes controversial, it\u0027d probably be better to delete it right away.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "post",
+                                                  "ko":  "게시물"
+                                              },
+                                              {
+                                                  "en":  "comment",
+                                                  "ko":  "댓글"
+                                              },
+                                              {
+                                                  "en":  "video",
+                                                  "ko":  "영상"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_026",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "저는 이 뉴스가 사실인지 아닌지 확인해봐야 할 것 같아요.",
+                      "sentence_en":  "I think I need to check whether this news is true or not.",
+                      "hint_chunk":  "I think I need to check whether this ~ is true or not.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "news",
+                                                  "ko":  "뉴스"
+                                              },
+                                              {
+                                                  "en":  "rumor",
+                                                  "ko":  "소문"
+                                              },
+                                              {
+                                                  "en":  "information",
+                                                  "ko":  "정보"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_027",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "그 영상은 편집이 잘 돼서 훨씬 재밌어 보여요.",
+                      "sentence_en":  "That video was edited well, so it looks a lot more interesting.",
+                      "hint_chunk":  "That ~ was edited well, so it looks a lot more interesting.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "video",
+                                                  "ko":  "영상"
+                                              },
+                                              {
+                                                  "en":  "photo",
+                                                  "ko":  "사진"
+                                              },
+                                              {
+                                                  "en":  "trailer",
+                                                  "ko":  "예고편"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_028",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "저는 이 사이트에서 결제한 후에 이상한 이메일을 받았어요.",
+                      "sentence_en":  "I got a strange email after making a payment on this site.",
+                      "hint_chunk":  "I got a strange email after making a ~ on this site.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "payment",
+                                                  "ko":  "결제"
+                                              },
+                                              {
+                                                  "en":  "purchase",
+                                                  "ko":  "구매"
+                                              },
+                                              {
+                                                  "en":  "order",
+                                                  "ko":  "주문"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_029",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "만약 클라우드에 저장해두지 않았다면 파일을 다 잃어버렸을 거예요.",
+                      "sentence_en":  "If I hadn\u0027t saved it to the cloud, I would have lost all my files.",
+                      "hint_chunk":  "If I hadn\u0027t saved it to the ~, I would have lost all my files.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "cloud",
+                                                  "ko":  "클라우드"
+                                              },
+                                              {
+                                                  "en":  "hard drive",
+                                                  "ko":  "하드드라이브"
+                                              },
+                                              {
+                                                  "en":  "USB",
+                                                  "ko":  "USB"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_030",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "저는 이 구독 서비스를 해지하려고 했는데 방법을 못 찾겠어요.",
+                      "sentence_en":  "I tried to cancel this subscription, but I can\u0027t find how.",
+                      "hint_chunk":  "I tried to cancel this ~, but I can\u0027t find how.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "subscription",
+                                                  "ko":  "구독 서비스"
+                                              },
+                                              {
+                                                  "en":  "membership",
+                                                  "ko":  "멤버십"
+                                              },
+                                              {
+                                                  "en":  "plan",
+                                                  "ko":  "요금제"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_031",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이 앱은 업데이트되고 나서 훨씬 느려졌어요.",
+                      "sentence_en":  "This app has gotten a lot slower since it was updated.",
+                      "hint_chunk":  "This app has gotten a lot ~ since it was updated.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "slower",
+                                                  "ko":  "느려진"
+                                              },
+                                              {
+                                                  "en":  "buggier",
+                                                  "ko":  "버그가 더 많은"
+                                              },
+                                              {
+                                                  "en":  "worse",
+                                                  "ko":  "나빠진"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_032",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "저는 온라인에서 사기를 당한 적이 있어요.",
+                      "sentence_en":  "I\u0027ve been scammed online before.",
+                      "hint_chunk":  "I\u0027ve been ~ before.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "scammed online",
+                                                  "ko":  "온라인에서 사기당한"
+                                              },
+                                              {
+                                                  "en":  "hacked",
+                                                  "ko":  "해킹당한"
+                                              },
+                                              {
+                                                  "en":  "catfished",
+                                                  "ko":  "사진과 다른 사람에게 속은"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_033",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "만약 와이파이가 계속 끊기면 다른 통신사로 바꿔야 할 것 같아요.",
+                      "sentence_en":  "If the wifi keeps cutting out, I think I need to switch to a different carrier.",
+                      "hint_chunk":  "If the ~ keeps cutting out, I think I need to switch to a different carrier.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "wifi",
+                                                  "ko":  "와이파이"
+                                              },
+                                              {
+                                                  "en":  "signal",
+                                                  "ko":  "신호"
+                                              },
+                                              {
+                                                  "en":  "connection",
+                                                  "ko":  "연결"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_034",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "저는 그 댓글을 보고 나서 기분이 나빠졌어요.",
+                      "sentence_en":  "I felt bad after seeing that comment.",
+                      "hint_chunk":  "I felt bad after seeing that ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "comment",
+                                                  "ko":  "댓글"
+                                              },
+                                              {
+                                                  "en":  "message",
+                                                  "ko":  "메시지"
+                                              },
+                                              {
+                                                  "en":  "post",
+                                                  "ko":  "게시물"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_sns_035",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "인터넷 / SNS",
+                      "sentence_ko":  "이 정보는 유출됐다고 뉴스에 나왔어요.",
+                      "sentence_en":  "The news reported that this information was leaked.",
+                      "hint_chunk":  "The news reported that this ~ was leaked.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "information",
+                                                  "ko":  "정보"
+                                              },
+                                              {
+                                                  "en":  "data",
+                                                  "ko":  "데이터"
+                                              },
+                                              {
+                                                  "en":  "footage",
+                                                  "ko":  "영상"
                                               }
                                           ]
                   }

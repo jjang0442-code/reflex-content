@@ -1,5 +1,5 @@
 {
-    "content_version":  "2026-07-12-02",
+    "content_version":  "2026-07-13-01",
     "cards":  [
                   {
                       "id":  "beg_talk_001",
@@ -14248,6 +14248,1386 @@
                                               {
                                                   "en":  "waiting room",
                                                   "ko":  "대기실"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_016",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "제가 예약했던 호텔이 갑자기 취소됐어요.",
+                      "sentence_en":  "The hotel I had booked was suddenly canceled.",
+                      "hint_chunk":  "The ~ I had booked was suddenly canceled.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "hotel",
+                                                  "ko":  "호텔"
+                                              },
+                                              {
+                                                  "en":  "flight",
+                                                  "ko":  "비행기"
+                                              },
+                                              {
+                                                  "en":  "tour",
+                                                  "ko":  "투어"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_017",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "비행기가 연착돼서 환승을 놓칠 뻔했어요.",
+                      "sentence_en":  "The flight was delayed, so I almost missed my connection.",
+                      "hint_chunk":  "The flight was delayed, so I almost ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "missed my connection",
+                                                  "ko":  "환승을 놓치다"
+                                              },
+                                              {
+                                                  "en":  "missed the bus",
+                                                  "ko":  "버스를 놓치다"
+                                              },
+                                              {
+                                                  "en":  "was late",
+                                                  "ko":  "늦었다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_018",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "짐을 다 쌌으면 이제 출발합시다.",
+                      "sentence_en":  "Once you\u0027re done packing, let\u0027s get going.",
+                      "hint_chunk":  "Once you\u0027re done ~ing, let\u0027s ...",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "packing",
+                                                  "ko":  "짐 싸기"
+                                              },
+                                              {
+                                                  "en":  "eating",
+                                                  "ko":  "식사"
+                                              },
+                                              {
+                                                  "en":  "checking in",
+                                                  "ko":  "체크인"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_019",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "만약 여권을 잃어버리면 대사관에 연락해야 해요.",
+                      "sentence_en":  "If you lose your passport, you need to contact the embassy.",
+                      "hint_chunk":  "If you lose your ~, you need to ...",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "passport",
+                                                  "ko":  "여권"
+                                              },
+                                              {
+                                                  "en":  "wallet",
+                                                  "ko":  "지갑"
+                                              },
+                                              {
+                                                  "en":  "phone",
+                                                  "ko":  "전화"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_020",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "저는 그 나라에 가본 적이 없어요.",
+                      "sentence_en":  "I\u0027ve never been to that country.",
+                      "hint_chunk":  "I\u0027ve never been to ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "that country",
+                                                  "ko":  "그 나라"
+                                              },
+                                              {
+                                                  "en":  "this city",
+                                                  "ko":  "이 도시"
+                                              },
+                                              {
+                                                  "en":  "Europe",
+                                                  "ko":  "유럽"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_021",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "이 티켓은 환불이 안 된다고 들었어요.",
+                      "sentence_en":  "I heard that this ticket isn\u0027t refundable.",
+                      "hint_chunk":  "I heard that ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "this ticket isn\u0027t refundable",
+                                                  "ko":  "이 티켓은 환불 안 된다"
+                                              },
+                                              {
+                                                  "en":  "the flight is full",
+                                                  "ko":  "비행기가 만석이다"
+                                              },
+                                              {
+                                                  "en":  "the hotel is booked",
+                                                  "ko":  "호텔이 예약이 다 찼다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_022",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "공항에 도착했을 때 이미 탑승이 시작된 상태였어요.",
+                      "sentence_en":  "Boarding had already started by the time I got to the airport.",
+                      "hint_chunk":  "~ had already started by the time I got there.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "boarding",
+                                                  "ko":  "탑승"
+                                              },
+                                              {
+                                                  "en":  "the tour",
+                                                  "ko":  "투어"
+                                              },
+                                              {
+                                                  "en":  "the meeting",
+                                                  "ko":  "회의"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_023",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "저는 여행 가기 전에 항상 짐을 미리 싸요.",
+                      "sentence_en":  "I always pack in advance before I go on a trip.",
+                      "hint_chunk":  "I always ~ before I go on a trip.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "pack in advance",
+                                                  "ko":  "미리 짐을 싸다"
+                                              },
+                                              {
+                                                  "en":  "check the weather",
+                                                  "ko":  "날씨를 확인하다"
+                                              },
+                                              {
+                                                  "en":  "book a hotel",
+                                                  "ko":  "호텔을 예약하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_024",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "렌터카를 예약했는데 픽업할 때 문제가 생겼어요.",
+                      "sentence_en":  "I had booked a rental car, but there was a problem when I picked it up.",
+                      "hint_chunk":  "I had booked ~, but there was a problem when ...",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "a rental car",
+                                                  "ko":  "렌터카"
+                                              },
+                                              {
+                                                  "en":  "a hotel",
+                                                  "ko":  "호텔"
+                                              },
+                                              {
+                                                  "en":  "a tour",
+                                                  "ko":  "투어"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_025",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "이 지역은 여행객들 사이에서 꽤 알려져 있어요.",
+                      "sentence_en":  "This area is pretty well known among travelers.",
+                      "hint_chunk":  "This ~ is pretty well known among travelers.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "area",
+                                                  "ko":  "지역"
+                                              },
+                                              {
+                                                  "en":  "restaurant",
+                                                  "ko":  "식당"
+                                              },
+                                              {
+                                                  "en":  "trail",
+                                                  "ko":  "등산로"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_026",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "날씨가 안 좋으면 항공편이 취소될 수도 있어요.",
+                      "sentence_en":  "If the weather is bad, the flight could be canceled.",
+                      "hint_chunk":  "If the weather is bad, ~ could be canceled.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the flight",
+                                                  "ko":  "비행기"
+                                              },
+                                              {
+                                                  "en":  "the tour",
+                                                  "ko":  "투어"
+                                              },
+                                              {
+                                                  "en":  "the event",
+                                                  "ko":  "행사"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_027",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "저는 이 도시에 가본 후로 완전히 반했어요.",
+                      "sentence_en":  "I\u0027ve been completely in love with this city since I visited.",
+                      "hint_chunk":  "I\u0027ve been completely in love with ~ since I visited.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "this city",
+                                                  "ko":  "이 도시"
+                                              },
+                                              {
+                                                  "en":  "this place",
+                                                  "ko":  "이 장소"
+                                              },
+                                              {
+                                                  "en":  "this country",
+                                                  "ko":  "이 나라"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_028",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "그 호텔은 리뷰가 좋아서 예약했어요.",
+                      "sentence_en":  "I booked that hotel because it had good reviews.",
+                      "hint_chunk":  "I booked ~ because it had good reviews.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "that hotel",
+                                                  "ko":  "그 호텔"
+                                              },
+                                              {
+                                                  "en":  "this restaurant",
+                                                  "ko":  "이 식당"
+                                              },
+                                              {
+                                                  "en":  "this tour",
+                                                  "ko":  "이 투어"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_029",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "공항에서 기다리는 동안 책을 읽었어요.",
+                      "sentence_en":  "I read a book while I was waiting at the airport.",
+                      "hint_chunk":  "I ~ while I was waiting at the airport.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "read a book",
+                                                  "ko":  "책을 읽었다"
+                                              },
+                                              {
+                                                  "en":  "listened to music",
+                                                  "ko":  "음악을 들었다"
+                                              },
+                                              {
+                                                  "en":  "took a nap",
+                                                  "ko":  "낮잠을 잤다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_030",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "이 배낭은 오래 여행하기에 딱 맞게 디자인됐어요.",
+                      "sentence_en":  "This backpack is designed to be perfect for long trips.",
+                      "hint_chunk":  "This ~ is designed to be perfect for long trips.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "backpack",
+                                                  "ko":  "배낭"
+                                              },
+                                              {
+                                                  "en":  "suitcase",
+                                                  "ko":  "캐리어"
+                                              },
+                                              {
+                                                  "en":  "jacket",
+                                                  "ko":  "자켓"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_031",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "저는 짐을 부치지 않고 기내에 들고 탔어요.",
+                      "sentence_en":  "I carried my bag on board instead of checking it.",
+                      "hint_chunk":  "I carried my bag on board instead of ~ing it.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "checking",
+                                                  "ko":  "부치다"
+                                              },
+                                              {
+                                                  "en":  "leaving",
+                                                  "ko":  "두고 가다"
+                                              },
+                                              {
+                                                  "en":  "losing",
+                                                  "ko":  "잃어버리다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_032",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "이번에 예산이 좀 부족해서 다음 여행에는 더 넉넉하게 잡을 거예요.",
+                      "sentence_en":  "I ran a little short on budget this time, so I\u0027ll budget more for my next trip.",
+                      "hint_chunk":  "I ran a little short on ~, so I\u0027ll ... for my next trip.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "budget",
+                                                  "ko":  "예산"
+                                              },
+                                              {
+                                                  "en":  "time",
+                                                  "ko":  "시간"
+                                              },
+                                              {
+                                                  "en":  "energy",
+                                                  "ko":  "기운"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_033",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "이 지역 날씨가 계절마다 많이 달라진다고 해요.",
+                      "sentence_en":  "I heard that the weather in this area changes a lot depending on the season.",
+                      "hint_chunk":  "I heard that ~ changes a lot depending on the season.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the weather",
+                                                  "ko":  "날씨"
+                                              },
+                                              {
+                                                  "en":  "the prices",
+                                                  "ko":  "가격"
+                                              },
+                                              {
+                                                  "en":  "the crowd",
+                                                  "ko":  "사람 수"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_034",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "저는 가기 전에 그 나라 말을 조금 배웠어요.",
+                      "sentence_en":  "I learned a little of the language before I went.",
+                      "hint_chunk":  "I learned a little of the ~ before I went.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "language",
+                                                  "ko":  "언어"
+                                              },
+                                              {
+                                                  "en":  "culture",
+                                                  "ko":  "문화"
+                                              },
+                                              {
+                                                  "en":  "history",
+                                                  "ko":  "역사"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_travel_035",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "여행 / 교통",
+                      "sentence_ko":  "만약 시간이 더 있었다면 다른 도시도 가봤을 거예요.",
+                      "sentence_en":  "If I had had more time, I would have visited other cities too.",
+                      "hint_chunk":  "If I had had more ~, I would have ...",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "time",
+                                                  "ko":  "시간"
+                                              },
+                                              {
+                                                  "en":  "money",
+                                                  "ko":  "돈"
+                                              },
+                                              {
+                                                  "en":  "energy",
+                                                  "ko":  "기운"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_016",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "예약을 했는데도 자리가 없다고 했어요.",
+                      "sentence_en":  "Even though I had a reservation, they said there was no table.",
+                      "hint_chunk":  "Even though I had a ~, they said ...",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "reservation",
+                                                  "ko":  "예약"
+                                              },
+                                              {
+                                                  "en":  "ticket",
+                                                  "ko":  "티켓"
+                                              },
+                                              {
+                                                  "en":  "appointment",
+                                                  "ko":  "약속"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_017",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "이 식당은 예약하지 않으면 들어갈 수가 없어요.",
+                      "sentence_en":  "You can\u0027t get in unless you make a reservation.",
+                      "hint_chunk":  "You can\u0027t ~ unless you make a reservation.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "get in",
+                                                  "ko":  "들어가다"
+                                              },
+                                              {
+                                                  "en":  "order",
+                                                  "ko":  "주문하다"
+                                              },
+                                              {
+                                                  "en":  "sit down",
+                                                  "ko":  "앉다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_018",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "주문한 지 30분이 지났는데 아직 안 나왔어요.",
+                      "sentence_en":  "It\u0027s been 30 minutes since I ordered, and it still hasn\u0027t come out.",
+                      "hint_chunk":  "It\u0027s been ~ since I ordered, and it still hasn\u0027t come out.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "30 minutes",
+                                                  "ko":  "30분"
+                                              },
+                                              {
+                                                  "en":  "an hour",
+                                                  "ko":  "한 시간"
+                                              },
+                                              {
+                                                  "en":  "a while",
+                                                  "ko":  "한참"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_019",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "이 레스토랑은 유명한 셰프가 운영한다고 들었어요.",
+                      "sentence_en":  "I heard that this restaurant is run by a famous chef.",
+                      "hint_chunk":  "I heard that ~ is run by a famous chef.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "this restaurant",
+                                                  "ko":  "이 레스토랑"
+                                              },
+                                              {
+                                                  "en":  "that place",
+                                                  "ko":  "그 곳"
+                                              },
+                                              {
+                                                  "en":  "the bakery",
+                                                  "ko":  "빵집"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_020",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "음식이 나오자마자 다 먹어버렸어요.",
+                      "sentence_en":  "As soon as the food came out, we finished it all.",
+                      "hint_chunk":  "As soon as the ~ came out, we finished it all.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "food",
+                                                  "ko":  "음식"
+                                              },
+                                              {
+                                                  "en":  "dessert",
+                                                  "ko":  "디저트"
+                                              },
+                                              {
+                                                  "en":  "appetizer",
+                                                  "ko":  "애피타이저"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_021",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "저는 이 음식을 먹어본 적이 없어요.",
+                      "sentence_en":  "I\u0027ve never tried this food before.",
+                      "hint_chunk":  "I\u0027ve never tried ~ before.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "this food",
+                                                  "ko":  "이 음식"
+                                              },
+                                              {
+                                                  "en":  "this dish",
+                                                  "ko":  "이 요리"
+                                              },
+                                              {
+                                                  "en":  "this drink",
+                                                  "ko":  "이 음료"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_022",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "만약 예약을 안 했으면 오래 기다려야 했을 거예요.",
+                      "sentence_en":  "If we hadn\u0027t made a reservation, we would have had to wait a long time.",
+                      "hint_chunk":  "If we hadn\u0027t made a ~, we would have had to wait a long time.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "reservation",
+                                                  "ko":  "예약"
+                                              },
+                                              {
+                                                  "en":  "call",
+                                                  "ko":  "전화"
+                                              },
+                                              {
+                                                  "en":  "plan",
+                                                  "ko":  "계획"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_023",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "이 메뉴는 계절에 따라 바뀐다고 해요.",
+                      "sentence_en":  "I heard that this menu changes depending on the season.",
+                      "hint_chunk":  "I heard that this ~ changes depending on the season.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "menu",
+                                                  "ko":  "메뉴"
+                                              },
+                                              {
+                                                  "en":  "price",
+                                                  "ko":  "가격"
+                                              },
+                                              {
+                                                  "en":  "dish",
+                                                  "ko":  "요리"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_024",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "저는 매운 음식을 잘 못 먹어서 순한 걸로 시켰어요.",
+                      "sentence_en":  "Since I can\u0027t handle spicy food well, I ordered something mild.",
+                      "hint_chunk":  "Since I can\u0027t handle ~ well, I ordered something mild.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "spicy food",
+                                                  "ko":  "매운 음식"
+                                              },
+                                              {
+                                                  "en":  "sour food",
+                                                  "ko":  "신 음식"
+                                              },
+                                              {
+                                                  "en":  "greasy food",
+                                                  "ko":  "기름진 음식"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_025",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "이 식당은 리모델링을 해서 분위기가 완전히 달라졌어요.",
+                      "sentence_en":  "This restaurant was renovated, so the atmosphere has completely changed.",
+                      "hint_chunk":  "This ~ was renovated, so the atmosphere has completely changed.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "restaurant",
+                                                  "ko":  "식당"
+                                              },
+                                              {
+                                                  "en":  "café",
+                                                  "ko":  "카페"
+                                              },
+                                              {
+                                                  "en":  "place",
+                                                  "ko":  "장소"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_026",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "주문하기 전에 알레르기가 있는지 물어봤어요.",
+                      "sentence_en":  "They asked if I had any allergies before I ordered.",
+                      "hint_chunk":  "They asked if I had any ~ before I ordered.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "allergies",
+                                                  "ko":  "알레르기"
+                                              },
+                                              {
+                                                  "en":  "preferences",
+                                                  "ko":  "선호"
+                                              },
+                                              {
+                                                  "en":  "requests",
+                                                  "ko":  "요청"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_027",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "이 요리는 손으로 직접 만들어졌어요.",
+                      "sentence_en":  "This dish was made by hand.",
+                      "hint_chunk":  "This ~ was made by hand.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "dish",
+                                                  "ko":  "요리"
+                                              },
+                                              {
+                                                  "en":  "bread",
+                                                  "ko":  "빵"
+                                              },
+                                              {
+                                                  "en":  "dessert",
+                                                  "ko":  "디저트"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_028",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "저는 여기 자주 오다 보니까 직원들이랑 친해졌어요.",
+                      "sentence_en":  "Since I come here often, I\u0027ve gotten close with the staff.",
+                      "hint_chunk":  "Since I come here often, I\u0027ve gotten close with ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "the staff",
+                                                  "ko":  "직원들"
+                                              },
+                                              {
+                                                  "en":  "the owner",
+                                                  "ko":  "사장님"
+                                              },
+                                              {
+                                                  "en":  "the chef",
+                                                  "ko":  "셰프"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_029",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "음식이 생각보다 빨리 나와서 놀랐어요.",
+                      "sentence_en":  "I was surprised because the food came out faster than I expected.",
+                      "hint_chunk":  "I was surprised because the ~ came out faster than I expected.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "food",
+                                                  "ko":  "음식"
+                                              },
+                                              {
+                                                  "en":  "order",
+                                                  "ko":  "주문"
+                                              },
+                                              {
+                                                  "en":  "bill",
+                                                  "ko":  "계산서"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_030",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "저는 이 식당에 가려고 한 시간 동안 줄을 섰어요.",
+                      "sentence_en":  "I stood in line for an hour just to get into this restaurant.",
+                      "hint_chunk":  "I stood in line for ~ just to get into this restaurant.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "an hour",
+                                                  "ko":  "한 시간"
+                                              },
+                                              {
+                                                  "en":  "30 minutes",
+                                                  "ko":  "30분"
+                                              },
+                                              {
+                                                  "en":  "a long time",
+                                                  "ko":  "오랜 시간"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_031",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "만약 다시 온다면 다른 메뉴를 시켜볼 것 같아요.",
+                      "sentence_en":  "If I come back, I think I\u0027ll try a different menu item.",
+                      "hint_chunk":  "If I come back, I think I\u0027ll ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "try a different menu item",
+                                                  "ko":  "다른 메뉴를 시키다"
+                                              },
+                                              {
+                                                  "en":  "sit outside",
+                                                  "ko":  "밖에 앉다"
+                                              },
+                                              {
+                                                  "en":  "order more",
+                                                  "ko":  "더 시키다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_032",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "이 재료는 현지에서 직접 공수된다고 해요.",
+                      "sentence_en":  "I heard that these ingredients are sourced directly from local farms.",
+                      "hint_chunk":  "I heard that these ~ are sourced directly from local farms.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "ingredients",
+                                                  "ko":  "재료"
+                                              },
+                                              {
+                                                  "en":  "vegetables",
+                                                  "ko":  "채소"
+                                              },
+                                              {
+                                                  "en":  "seafood",
+                                                  "ko":  "해산물"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_033",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "저는 이 카페에 올 때마다 같은 걸 시켜요.",
+                      "sentence_en":  "I order the same thing every time I come to this café.",
+                      "hint_chunk":  "I order the same thing every time I ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "come to this café",
+                                                  "ko":  "이 카페에 오다"
+                                              },
+                                              {
+                                                  "en":  "eat here",
+                                                  "ko":  "여기서 먹다"
+                                              },
+                                              {
+                                                  "en":  "visit",
+                                                  "ko":  "방문하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_034",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "이 곳은 오픈한 지 얼마 안 됐는데 벌써 유명해졌어요.",
+                      "sentence_en":  "This place hasn\u0027t been open long, but it\u0027s already become famous.",
+                      "hint_chunk":  "This place hasn\u0027t been open long, but it\u0027s already ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "become famous",
+                                                  "ko":  "유명해지다"
+                                              },
+                                              {
+                                                  "en":  "gotten crowded",
+                                                  "ko":  "붐비게 되다"
+                                              },
+                                              {
+                                                  "en":  "gained popularity",
+                                                  "ko":  "인기를 얻다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_cafe_035",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "식당 / 카페",
+                      "sentence_ko":  "저는 그 리뷰를 보고 나서 여기 오기로 했어요.",
+                      "sentence_en":  "I decided to come here after I read that review.",
+                      "hint_chunk":  "I decided to come here after I ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "read that review",
+                                                  "ko":  "그 리뷰를 보다"
+                                              },
+                                              {
+                                                  "en":  "heard about it",
+                                                  "ko":  "그것에 대해 듣다"
+                                              },
+                                              {
+                                                  "en":  "saw the photos",
+                                                  "ko":  "사진을 보다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_016",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "이 옷은 온라인으로 주문했는데 사이즈가 안 맞았어요.",
+                      "sentence_en":  "I ordered this online, but the size didn\u0027t fit.",
+                      "hint_chunk":  "I ordered this online, but the ~ didn\u0027t fit.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "size",
+                                                  "ko":  "사이즈"
+                                              },
+                                              {
+                                                  "en":  "color",
+                                                  "ko":  "색깔"
+                                              },
+                                              {
+                                                  "en":  "style",
+                                                  "ko":  "스타일"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_017",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "반품하려면 영수증이 있어야 한다고 해요.",
+                      "sentence_en":  "I heard that you need a receipt to return it.",
+                      "hint_chunk":  "I heard that you need a ~ to return it.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "receipt",
+                                                  "ko":  "영수증"
+                                              },
+                                              {
+                                                  "en":  "tag",
+                                                  "ko":  "태그"
+                                              },
+                                              {
+                                                  "en":  "box",
+                                                  "ko":  "박스"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_018",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "세일이 끝나기 전에 사 놓는 게 좋을 것 같아요.",
+                      "sentence_en":  "I think it\u0027d be better to buy it before the sale ends.",
+                      "hint_chunk":  "I think it\u0027d be better to ~ before the sale ends.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "buy it",
+                                                  "ko":  "사다"
+                                              },
+                                              {
+                                                  "en":  "order it",
+                                                  "ko":  "주문하다"
+                                              },
+                                              {
+                                                  "en":  "grab one",
+                                                  "ko":  "하나 사다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_019",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "이 제품은 이미 품절돼서 재입고를 기다리고 있어요.",
+                      "sentence_en":  "This product is already sold out, so I\u0027m waiting for it to be restocked.",
+                      "hint_chunk":  "This product is already sold out, so I\u0027m waiting for it to be ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "restocked",
+                                                  "ko":  "재입고되다"
+                                              },
+                                              {
+                                                  "en":  "delivered",
+                                                  "ko":  "배송되다"
+                                              },
+                                              {
+                                                  "en":  "released",
+                                                  "ko":  "출시되다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_020",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "만약 이게 더 저렴했다면 두 개 샀을 거예요.",
+                      "sentence_en":  "If this had been cheaper, I would have bought two.",
+                      "hint_chunk":  "If this had been ~, I would have bought two.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "cheaper",
+                                                  "ko":  "더 저렴한"
+                                              },
+                                              {
+                                                  "en":  "on sale",
+                                                  "ko":  "세일 중인"
+                                              },
+                                              {
+                                                  "en":  "available",
+                                                  "ko":  "재고 있는"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_021",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "저는 충동구매를 자주 해서 문제예요.",
+                      "sentence_en":  "I impulse buy so often that it\u0027s become a problem.",
+                      "hint_chunk":  "I ~ so often that it\u0027s become a problem.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "impulse buy",
+                                                  "ko":  "충동구매하다"
+                                              },
+                                              {
+                                                  "en":  "forget things",
+                                                  "ko":  "물건을 깜빡하다"
+                                              },
+                                              {
+                                                  "en":  "procrastinate",
+                                                  "ko":  "미루다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_022",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "이 브랜드는 품질이 좋다고 소문났어요.",
+                      "sentence_en":  "I heard that this brand is known for good quality.",
+                      "hint_chunk":  "I heard that this brand is known for ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "good quality",
+                                                  "ko":  "좋은 품질"
+                                              },
+                                              {
+                                                  "en":  "fast shipping",
+                                                  "ko":  "빠른 배송"
+                                              },
+                                              {
+                                                  "en":  "great service",
+                                                  "ko":  "좋은 서비스"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_023",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "배송이 늦어져서 고객센터에 전화했어요.",
+                      "sentence_en":  "The delivery was delayed, so I called customer service.",
+                      "hint_chunk":  "The ~ was delayed, so I called customer service.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "delivery",
+                                                  "ko":  "배송"
+                                              },
+                                              {
+                                                  "en":  "order",
+                                                  "ko":  "주문"
+                                              },
+                                              {
+                                                  "en":  "refund",
+                                                  "ko":  "환불"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_024",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "이 가방은 제가 사려고 했던 색상이 없었어요.",
+                      "sentence_en":  "This bag didn\u0027t have the color I wanted to buy.",
+                      "hint_chunk":  "This ~ didn\u0027t have the color I wanted to buy.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "bag",
+                                                  "ko":  "가방"
+                                              },
+                                              {
+                                                  "en":  "shirt",
+                                                  "ko":  "셔츠"
+                                              },
+                                              {
+                                                  "en":  "shoes",
+                                                  "ko":  "신발"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_025",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "저는 세일할 때까지 기다렸다가 샀어요.",
+                      "sentence_en":  "I waited until it went on sale, and then I bought it.",
+                      "hint_chunk":  "I waited until it went on sale, and then I ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "bought it",
+                                                  "ko":  "샀다"
+                                              },
+                                              {
+                                                  "en":  "ordered it",
+                                                  "ko":  "주문했다"
+                                              },
+                                              {
+                                                  "en":  "grabbed one",
+                                                  "ko":  "하나 샀다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_026",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "이 제품은 리뷰를 보고 나서 구매했어요.",
+                      "sentence_en":  "I bought this product after reading the reviews.",
+                      "hint_chunk":  "I bought this product after ~ing the reviews.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "reading",
+                                                  "ko":  "읽다"
+                                              },
+                                              {
+                                                  "en":  "checking",
+                                                  "ko":  "확인하다"
+                                              },
+                                              {
+                                                  "en":  "watching",
+                                                  "ko":  "보다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_027",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "만약 마음에 안 들면 환불받을 수 있어요.",
+                      "sentence_en":  "If you don\u0027t like it, you can get a refund.",
+                      "hint_chunk":  "If you don\u0027t like it, you can ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "get a refund",
+                                                  "ko":  "환불받다"
+                                              },
+                                              {
+                                                  "en":  "exchange it",
+                                                  "ko":  "교환하다"
+                                              },
+                                              {
+                                                  "en":  "return it",
+                                                  "ko":  "반품하다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_028",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "저는 필요 없는 물건을 너무 많이 사는 것 같아요.",
+                      "sentence_en":  "I think I buy too many things I don\u0027t need.",
+                      "hint_chunk":  "I think I buy too many things I don\u0027t ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "need",
+                                                  "ko":  "필요하다"
+                                              },
+                                              {
+                                                  "en":  "use",
+                                                  "ko":  "쓰다"
+                                              },
+                                              {
+                                                  "en":  "wear",
+                                                  "ko":  "입다"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_029",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "이 가게는 최근에 리뉴얼돼서 완전히 달라졌어요.",
+                      "sentence_en":  "This store was recently renovated, so it\u0027s completely different.",
+                      "hint_chunk":  "This ~ was recently renovated, so it\u0027s completely different.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "store",
+                                                  "ko":  "가게"
+                                              },
+                                              {
+                                                  "en":  "mall",
+                                                  "ko":  "쇼핑몰"
+                                              },
+                                              {
+                                                  "en":  "café",
+                                                  "ko":  "카페"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_030",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "저는 중고 물건 사는 걸 좋아해요, 돈도 아끼고 환경에도 좋으니까요.",
+                      "sentence_en":  "I like buying secondhand items because it saves money and it\u0027s good for the environment.",
+                      "hint_chunk":  "I like buying ~ items because it saves money and it\u0027s good for the environment.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "secondhand",
+                                                  "ko":  "중고"
+                                              },
+                                              {
+                                                  "en":  "vintage",
+                                                  "ko":  "빈티지"
+                                              },
+                                              {
+                                                  "en":  "used",
+                                                  "ko":  "중고"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_031",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "이 옷은 한 번도 안 입었는데 사이즈가 안 맞아서 팔려고 해요.",
+                      "sentence_en":  "I\u0027m trying to sell this shirt because it doesn\u0027t fit, even though I\u0027ve never worn it.",
+                      "hint_chunk":  "I\u0027m trying to sell this ~ because it doesn\u0027t fit, even though I\u0027ve never worn it.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "shirt",
+                                                  "ko":  "셔츠"
+                                              },
+                                              {
+                                                  "en":  "jacket",
+                                                  "ko":  "자켓"
+                                              },
+                                              {
+                                                  "en":  "dress",
+                                                  "ko":  "원피스"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_032",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "이 쿠폰은 다음 주까지만 사용할 수 있다고 해요.",
+                      "sentence_en":  "I heard that this coupon can only be used until next week.",
+                      "hint_chunk":  "I heard that this ~ can only be used until next week.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "coupon",
+                                                  "ko":  "쿠폰"
+                                              },
+                                              {
+                                                  "en":  "discount code",
+                                                  "ko":  "할인코드"
+                                              },
+                                              {
+                                                  "en":  "gift card",
+                                                  "ko":  "상품권"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_033",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "저는 이 브랜드 옷을 입어본 적이 없어요.",
+                      "sentence_en":  "I\u0027ve never worn clothes from this brand.",
+                      "hint_chunk":  "I\u0027ve never worn clothes from ~.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "this brand",
+                                                  "ko":  "이 브랜드"
+                                              },
+                                              {
+                                                  "en":  "that store",
+                                                  "ko":  "저 가게"
+                                              },
+                                              {
+                                                  "en":  "this designer",
+                                                  "ko":  "이 디자이너"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_034",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "계산할 때 할인이 자동으로 적용됐어요.",
+                      "sentence_en":  "The discount was automatically applied when I checked out.",
+                      "hint_chunk":  "The ~ was automatically applied when I checked out.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "discount",
+                                                  "ko":  "할인"
+                                              },
+                                              {
+                                                  "en":  "coupon",
+                                                  "ko":  "쿠폰"
+                                              },
+                                              {
+                                                  "en":  "tax",
+                                                  "ko":  "세금"
+                                              }
+                                          ]
+                  },
+                  {
+                      "id":  "int_shop_035",
+                      "content_type":  "sentence",
+                      "level":  "중급",
+                      "category":  "쇼핑",
+                      "sentence_ko":  "만약 포인트가 더 있었다면 이걸 무료로 받을 수 있었을 거예요.",
+                      "sentence_en":  "If I had had more points, I could have gotten this for free.",
+                      "hint_chunk":  "If I had had more ~, I could have gotten this for free.",
+                      "extension_words":  [
+                                              {
+                                                  "en":  "points",
+                                                  "ko":  "포인트"
+                                              },
+                                              {
+                                                  "en":  "coupons",
+                                                  "ko":  "쿠폰"
+                                              },
+                                              {
+                                                  "en":  "cash",
+                                                  "ko":  "현금"
                                               }
                                           ]
                   }

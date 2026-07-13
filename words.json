@@ -1,5 +1,5 @@
 {
-    "words_version":  "2026-07-13-02",
+    "words_version":  "2026-07-13-03",
     "words":  [
                   {
                       "id":  "w_beg_verb_001",
@@ -7083,6 +7083,1086 @@
                       "level":  "int",
                       "example_kr":  "위험을 줄이기 위해 몇 가지 조치를 취했어.",
                       "example_en":  "We took some steps to mitigate the risk."
+                  },
+                  {
+                      "id":  "w_beg_noun_123",
+                      "word_en":  "luggage",
+                      "word_kr":  "짐",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "짐 다 챙겼어?",
+                      "example_en":  "Did you pack all your luggage?"
+                  },
+                  {
+                      "id":  "w_beg_noun_124",
+                      "word_en":  "suitcase",
+                      "word_kr":  "여행가방",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "여행가방이 너무 무거워.",
+                      "example_en":  "My suitcase is way too heavy."
+                  },
+                  {
+                      "id":  "w_beg_noun_125",
+                      "word_en":  "passport",
+                      "word_kr":  "여권",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "여권 어디 있는지 확인해봐.",
+                      "example_en":  "Check where your passport is."
+                  },
+                  {
+                      "id":  "w_beg_noun_126",
+                      "word_en":  "ticket",
+                      "word_kr":  "표",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "비행기 표 예약했어?",
+                      "example_en":  "Did you book the flight ticket?"
+                  },
+                  {
+                      "id":  "w_beg_noun_127",
+                      "word_en":  "flight",
+                      "word_kr":  "비행편",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "비행편이 갑자기 취소됐어.",
+                      "example_en":  "The flight got cancelled all of a sudden."
+                  },
+                  {
+                      "id":  "w_beg_noun_128",
+                      "word_en":  "delay",
+                      "word_kr":  "지연",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이번엔 지연이 좀 있을 것 같아.",
+                      "example_en":  "There might be a delay this time."
+                  },
+                  {
+                      "id":  "w_beg_noun_129",
+                      "word_en":  "departure",
+                      "word_kr":  "출발",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "출발 시간이 언제야?",
+                      "example_en":  "What time is the departure?"
+                  },
+                  {
+                      "id":  "w_beg_noun_130",
+                      "word_en":  "arrival",
+                      "word_kr":  "도착",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "도착 시간 확인했어?",
+                      "example_en":  "Did you check the arrival time?"
+                  },
+                  {
+                      "id":  "w_beg_noun_131",
+                      "word_en":  "destination",
+                      "word_kr":  "목적지",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이번 여행 목적지가 어디야?",
+                      "example_en":  "What\u0027s the destination for this trip?"
+                  },
+                  {
+                      "id":  "w_beg_noun_132",
+                      "word_en":  "journey",
+                      "word_kr":  "여정",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "긴 여정이었지만 재밌었어.",
+                      "example_en":  "It was a long journey, but it was fun."
+                  },
+                  {
+                      "id":  "w_beg_noun_133",
+                      "word_en":  "route",
+                      "word_kr":  "경로",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "다른 경로로 한번 가볼까?",
+                      "example_en":  "Should we try a different route?"
+                  },
+                  {
+                      "id":  "w_beg_noun_134",
+                      "word_en":  "map",
+                      "word_kr":  "지도",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "지도 좀 봐줄래?",
+                      "example_en":  "Can you check the map?"
+                  },
+                  {
+                      "id":  "w_beg_noun_135",
+                      "word_en":  "direction",
+                      "word_kr":  "방향",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "방향이 맞는지 잘 모르겠어.",
+                      "example_en":  "I\u0027m not sure if we\u0027re going in the right direction."
+                  },
+                  {
+                      "id":  "w_beg_noun_136",
+                      "word_en":  "address",
+                      "word_kr":  "주소",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "새 주소 좀 알려줄래?",
+                      "example_en":  "Can you give me your new address?"
+                  },
+                  {
+                      "id":  "w_beg_noun_137",
+                      "word_en":  "location",
+                      "word_kr":  "위치",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "정확한 위치를 몰라서 헤맸어.",
+                      "example_en":  "I got lost because I didn\u0027t know the exact location."
+                  },
+                  {
+                      "id":  "w_beg_noun_138",
+                      "word_en":  "distance",
+                      "word_kr":  "거리",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "여기서 거리가 얼마나 돼?",
+                      "example_en":  "How far is the distance from here?"
+                  },
+                  {
+                      "id":  "w_beg_noun_139",
+                      "word_en":  "apartment",
+                      "word_kr":  "아파트",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "새 아파트로 이사했어.",
+                      "example_en":  "I moved into a new apartment."
+                  },
+                  {
+                      "id":  "w_beg_noun_140",
+                      "word_en":  "furniture",
+                      "word_kr":  "가구",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "가구를 새로 좀 사야겠어.",
+                      "example_en":  "I need to buy some new furniture."
+                  },
+                  {
+                      "id":  "w_beg_noun_141",
+                      "word_en":  "appliance",
+                      "word_kr":  "가전제품",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "가전제품이 하나 고장났어.",
+                      "example_en":  "One of the appliances broke."
+                  },
+                  {
+                      "id":  "w_beg_noun_142",
+                      "word_en":  "utility",
+                      "word_kr":  "공과금",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "공과금이 이번 달에 많이 나왔어.",
+                      "example_en":  "The utility bill was high this month."
+                  },
+                  {
+                      "id":  "w_beg_noun_143",
+                      "word_en":  "maintenance",
+                      "word_kr":  "유지보수",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "건물 유지보수가 잘 되어있네.",
+                      "example_en":  "The building\u0027s maintenance is well kept up."
+                  },
+                  {
+                      "id":  "w_beg_noun_144",
+                      "word_en":  "renovation",
+                      "word_kr":  "리모델링",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "리모델링이 언제 끝나?",
+                      "example_en":  "When does the renovation finish?"
+                  },
+                  {
+                      "id":  "w_beg_noun_145",
+                      "word_en":  "inspection",
+                      "word_kr":  "점검",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "안전 점검이 다음 주에 있어.",
+                      "example_en":  "There\u0027s a safety inspection next week."
+                  },
+                  {
+                      "id":  "w_beg_noun_146",
+                      "word_en":  "repair",
+                      "word_kr":  "수리",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "수리하는 데 며칠 걸린대.",
+                      "example_en":  "The repair is going to take a few days."
+                  },
+                  {
+                      "id":  "w_beg_noun_147",
+                      "word_en":  "insurance",
+                      "word_kr":  "보험",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "보험 들어놓는 게 좋을 것 같아.",
+                      "example_en":  "It\u0027d be good to get some insurance."
+                  },
+                  {
+                      "id":  "w_beg_noun_148",
+                      "word_en":  "policy",
+                      "word_kr":  "보험 증권",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "보험 증권 내용을 다시 확인해봐.",
+                      "example_en":  "Check the policy details again."
+                  },
+                  {
+                      "id":  "w_beg_noun_149",
+                      "word_en":  "claim",
+                      "word_kr":  "보험 청구",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "보험 청구를 해야 할 것 같아.",
+                      "example_en":  "I think I need to file a claim."
+                  },
+                  {
+                      "id":  "w_beg_noun_150",
+                      "word_en":  "premium",
+                      "word_kr":  "보험료",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "보험료가 좀 올랐어.",
+                      "example_en":  "The premium went up a bit."
+                  },
+                  {
+                      "id":  "w_beg_noun_151",
+                      "word_en":  "deposit",
+                      "word_kr":  "보증금",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "보증금을 먼저 내야 해.",
+                      "example_en":  "You need to pay the deposit first."
+                  },
+                  {
+                      "id":  "w_beg_noun_152",
+                      "word_en":  "lease",
+                      "word_kr":  "임대차 계약",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "임대차 계약이 다음 달에 끝나.",
+                      "example_en":  "The lease ends next month."
+                  },
+                  {
+                      "id":  "w_beg_noun_153",
+                      "word_en":  "season",
+                      "word_kr":  "계절",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "지금이 딸기 제철이야.",
+                      "example_en":  "It\u0027s strawberry season right now."
+                  },
+                  {
+                      "id":  "w_beg_noun_154",
+                      "word_en":  "temperature",
+                      "word_kr":  "기온",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "오늘 기온이 많이 떨어졌어.",
+                      "example_en":  "The temperature dropped a lot today."
+                  },
+                  {
+                      "id":  "w_beg_noun_155",
+                      "word_en":  "rain",
+                      "word_kr":  "비",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "비가 계속 올 것 같아.",
+                      "example_en":  "It looks like it\u0027s going to keep raining."
+                  },
+                  {
+                      "id":  "w_beg_noun_156",
+                      "word_en":  "snow",
+                      "word_kr":  "눈",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "눈이 많이 왔어.",
+                      "example_en":  "It snowed a lot."
+                  },
+                  {
+                      "id":  "w_beg_noun_157",
+                      "word_en":  "storm",
+                      "word_kr":  "폭풍",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "폭풍 때문에 항공편이 취소됐어.",
+                      "example_en":  "The flight got cancelled because of the storm."
+                  },
+                  {
+                      "id":  "w_beg_noun_158",
+                      "word_en":  "wind",
+                      "word_kr":  "바람",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "바람이 진짜 세게 불어.",
+                      "example_en":  "The wind is blowing really hard."
+                  },
+                  {
+                      "id":  "w_beg_noun_159",
+                      "word_en":  "sunshine",
+                      "word_kr":  "햇빛",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "오늘 햇빛이 진짜 좋다.",
+                      "example_en":  "The sunshine is really nice today."
+                  },
+                  {
+                      "id":  "w_beg_noun_160",
+                      "word_en":  "cloud",
+                      "word_kr":  "구름",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "하늘에 구름이 하나도 없어.",
+                      "example_en":  "There isn\u0027t a single cloud in the sky."
+                  },
+                  {
+                      "id":  "w_beg_noun_161",
+                      "word_en":  "humidity",
+                      "word_kr":  "습도",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "습도가 너무 높아서 끈적끈적해.",
+                      "example_en":  "The humidity is so high it feels sticky."
+                  },
+                  {
+                      "id":  "w_beg_noun_162",
+                      "word_en":  "forecast",
+                      "word_kr":  "일기예보",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "일기예보에서 내일 비 온다고 했어.",
+                      "example_en":  "The forecast says it\u0027ll rain tomorrow."
+                  },
+                  {
+                      "id":  "w_beg_noun_163",
+                      "word_en":  "climate",
+                      "word_kr":  "기후",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이 지역 기후가 온화한 편이야.",
+                      "example_en":  "The climate in this region is fairly mild."
+                  },
+                  {
+                      "id":  "w_beg_noun_164",
+                      "word_en":  "environment",
+                      "word_kr":  "환경",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "환경을 위해 뭐라도 해야 해.",
+                      "example_en":  "We should do something for the environment."
+                  },
+                  {
+                      "id":  "w_beg_noun_165",
+                      "word_en":  "pollution",
+                      "word_kr":  "오염",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이 도시는 대기 오염이 심해.",
+                      "example_en":  "This city has a lot of air pollution."
+                  },
+                  {
+                      "id":  "w_beg_noun_166",
+                      "word_en":  "recycling",
+                      "word_kr":  "재활용",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "재활용 분리수거 좀 도와줄래?",
+                      "example_en":  "Can you help me with the recycling?"
+                  },
+                  {
+                      "id":  "w_beg_noun_167",
+                      "word_en":  "plastic",
+                      "word_kr":  "플라스틱",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "플라스틱 사용을 좀 줄이려고 해.",
+                      "example_en":  "I\u0027m trying to cut down on plastic use."
+                  },
+                  {
+                      "id":  "w_beg_noun_168",
+                      "word_en":  "trash",
+                      "word_kr":  "쓰레기",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "쓰레기통이 다 찼어.",
+                      "example_en":  "The trash can is full."
+                  },
+                  {
+                      "id":  "w_beg_noun_169",
+                      "word_en":  "container",
+                      "word_kr":  "용기",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이 용기에 남은 음식 담아줄래?",
+                      "example_en":  "Can you put the leftovers in this container?"
+                  },
+                  {
+                      "id":  "w_beg_noun_170",
+                      "word_en":  "package",
+                      "word_kr":  "소포",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "소포 하나 왔어.",
+                      "example_en":  "A package arrived."
+                  },
+                  {
+                      "id":  "w_beg_noun_171",
+                      "word_en":  "shipment",
+                      "word_kr":  "배송(품)",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "배송이 예상보다 늦어지고 있어.",
+                      "example_en":  "The shipment is running later than expected."
+                  },
+                  {
+                      "id":  "w_beg_noun_172",
+                      "word_en":  "delivery",
+                      "word_kr":  "배달",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "배달이 벌써 도착했어.",
+                      "example_en":  "The delivery already arrived."
+                  },
+                  {
+                      "id":  "w_beg_noun_173",
+                      "word_en":  "courier",
+                      "word_kr":  "택배기사",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "택배기사님이 방금 왔다 가셨어.",
+                      "example_en":  "The courier just came and left."
+                  },
+                  {
+                      "id":  "w_beg_noun_174",
+                      "word_en":  "warehouse",
+                      "word_kr":  "창고",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "물건이 창고에 보관돼 있어.",
+                      "example_en":  "The items are stored in the warehouse."
+                  },
+                  {
+                      "id":  "w_beg_noun_175",
+                      "word_en":  "inventory",
+                      "word_kr":  "재고",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "재고를 다시 확인해봐야 해.",
+                      "example_en":  "We need to check the inventory again."
+                  },
+                  {
+                      "id":  "w_beg_noun_176",
+                      "word_en":  "supplier",
+                      "word_kr":  "공급업체",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "새 공급업체를 찾고 있어.",
+                      "example_en":  "We\u0027re looking for a new supplier."
+                  },
+                  {
+                      "id":  "w_beg_noun_177",
+                      "word_en":  "vendor",
+                      "word_kr":  "판매업체",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "그 판매업체랑 계약을 맺었어.",
+                      "example_en":  "We signed a contract with that vendor."
+                  },
+                  {
+                      "id":  "w_beg_noun_178",
+                      "word_en":  "client",
+                      "word_kr":  "고객",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "오늘 새 고객 미팅이 있어.",
+                      "example_en":  "I have a meeting with a new client today."
+                  },
+                  {
+                      "id":  "w_beg_noun_179",
+                      "word_en":  "invoice",
+                      "word_kr":  "청구서",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "청구서 보내드릴게요.",
+                      "example_en":  "I\u0027ll send you the invoice."
+                  },
+                  {
+                      "id":  "w_beg_noun_180",
+                      "word_en":  "quote",
+                      "word_kr":  "견적",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "견적 좀 받아볼 수 있을까요?",
+                      "example_en":  "Could I get a quote for this?"
+                  },
+                  {
+                      "id":  "w_beg_noun_181",
+                      "word_en":  "estimate",
+                      "word_kr":  "추정치",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "대략적인 견적이라도 알려줄 수 있어?",
+                      "example_en":  "Can you give me a rough estimate?"
+                  },
+                  {
+                      "id":  "w_beg_noun_182",
+                      "word_en":  "sample",
+                      "word_kr":  "샘플",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "샘플 하나 먼저 보내드릴게요.",
+                      "example_en":  "I\u0027ll send you a sample first."
+                  },
+                  {
+                      "id":  "w_int_noun_061",
+                      "word_en":  "paradox",
+                      "word_kr":  "역설",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이건 좀 역설적인 상황이야.",
+                      "example_en":  "This is a bit of a paradox."
+                  },
+                  {
+                      "id":  "w_int_noun_062",
+                      "word_en":  "anomaly",
+                      "word_kr":  "이례적인 것",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 데이터에 이상한 값이 하나 있어.",
+                      "example_en":  "There\u0027s an anomaly in this data."
+                  },
+                  {
+                      "id":  "w_int_noun_063",
+                      "word_en":  "discrepancy",
+                      "word_kr":  "불일치",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "두 보고서 사이에 불일치가 있어.",
+                      "example_en":  "There\u0027s a discrepancy between the two reports."
+                  },
+                  {
+                      "id":  "w_int_noun_064",
+                      "word_en":  "deviation",
+                      "word_kr":  "편차",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이번 결과는 평균에서 좀 벗어났어.",
+                      "example_en":  "This result shows some deviation from the average."
+                  },
+                  {
+                      "id":  "w_int_noun_065",
+                      "word_en":  "variation",
+                      "word_kr":  "변동",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "가격에 약간의 변동이 있을 수 있어.",
+                      "example_en":  "There might be some variation in the price."
+                  },
+                  {
+                      "id":  "w_int_noun_066",
+                      "word_en":  "fluctuation",
+                      "word_kr":  "변동",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "요즘 환율 변동이 심해.",
+                      "example_en":  "There\u0027s been a lot of currency fluctuation lately."
+                  },
+                  {
+                      "id":  "w_int_noun_067",
+                      "word_en":  "correlation",
+                      "word_kr":  "상관관계",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 두 요소 사이에 상관관계가 있어 보여.",
+                      "example_en":  "There seems to be a correlation between these two factors."
+                  },
+                  {
+                      "id":  "w_int_noun_068",
+                      "word_en":  "causation",
+                      "word_kr":  "인과관계",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "상관관계가 곧 인과관계를 의미하는 건 아니야.",
+                      "example_en":  "Correlation doesn\u0027t necessarily mean causation."
+                  },
+                  {
+                      "id":  "w_int_noun_069",
+                      "word_en":  "hypothesis",
+                      "word_kr":  "가설",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이건 아직 검증되지 않은 가설일 뿐이야.",
+                      "example_en":  "This is just an unproven hypothesis."
+                  },
+                  {
+                      "id":  "w_int_noun_070",
+                      "word_en":  "premise",
+                      "word_kr":  "전제",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 주장의 전제 자체가 틀렸어.",
+                      "example_en":  "The premise of that argument is flawed."
+                  },
+                  {
+                      "id":  "w_int_noun_071",
+                      "word_en":  "proposition",
+                      "word_kr":  "제안",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 제안이 꽤 흥미로웠어.",
+                      "example_en":  "That proposition was quite interesting."
+                  },
+                  {
+                      "id":  "w_int_noun_072",
+                      "word_en":  "stance",
+                      "word_kr":  "입장",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 문제에 대한 네 입장이 뭐야?",
+                      "example_en":  "What\u0027s your stance on that issue?"
+                  },
+                  {
+                      "id":  "w_int_noun_073",
+                      "word_en":  "viewpoint",
+                      "word_kr":  "관점",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "다른 관점에서 한번 봐봐.",
+                      "example_en":  "Try looking at it from a different viewpoint."
+                  },
+                  {
+                      "id":  "w_int_noun_074",
+                      "word_en":  "dimension",
+                      "word_kr":  "차원",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 문제는 여러 차원에서 봐야 해.",
+                      "example_en":  "This issue needs to be viewed from multiple dimensions."
+                  },
+                  {
+                      "id":  "w_int_noun_075",
+                      "word_en":  "aspect",
+                      "word_kr":  "측면",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 프로젝트의 모든 측면을 고려해야 해.",
+                      "example_en":  "We need to consider every aspect of this project."
+                  },
+                  {
+                      "id":  "w_int_noun_076",
+                      "word_en":  "nuance",
+                      "word_kr":  "뉘앙스",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 표현엔 미묘한 뉘앙스가 있어.",
+                      "example_en":  "There\u0027s a subtle nuance in that expression."
+                  },
+                  {
+                      "id":  "w_int_noun_077",
+                      "word_en":  "subtlety",
+                      "word_kr":  "미묘함",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 농담의 미묘함을 이해 못 했어.",
+                      "example_en":  "I didn\u0027t get the subtlety of that joke."
+                  },
+                  {
+                      "id":  "w_int_noun_078",
+                      "word_en":  "complexity",
+                      "word_kr":  "복잡성",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 시스템의 복잡성이 생각보다 커.",
+                      "example_en":  "The complexity of this system is greater than expected."
+                  },
+                  {
+                      "id":  "w_int_noun_079",
+                      "word_en":  "simplicity",
+                      "word_kr":  "단순함",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 디자인의 단순함이 마음에 들어.",
+                      "example_en":  "I like the simplicity of this design."
+                  },
+                  {
+                      "id":  "w_int_noun_080",
+                      "word_en":  "ambiguity",
+                      "word_kr":  "애매함",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 계약서엔 애매한 부분이 좀 있어.",
+                      "example_en":  "There\u0027s some ambiguity in that contract."
+                  },
+                  {
+                      "id":  "w_int_noun_081",
+                      "word_en":  "clarity",
+                      "word_kr":  "명확성",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "설명에 좀 더 명확성이 필요해.",
+                      "example_en":  "The explanation needs more clarity."
+                  },
+                  {
+                      "id":  "w_int_noun_082",
+                      "word_en":  "consistency",
+                      "word_kr":  "일관성",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "일관성 있게 밀고 나가는 게 중요해.",
+                      "example_en":  "It\u0027s important to push forward with consistency."
+                  },
+                  {
+                      "id":  "w_int_noun_083",
+                      "word_en":  "coherence",
+                      "word_kr":  "조리",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 발표는 전체적으로 조리가 없었어.",
+                      "example_en":  "The presentation lacked overall coherence."
+                  },
+                  {
+                      "id":  "w_int_noun_084",
+                      "word_en":  "integrity",
+                      "word_kr":  "진실성",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 항상 진실성을 지켜.",
+                      "example_en":  "He always maintains his integrity."
+                  },
+                  {
+                      "id":  "w_int_noun_085",
+                      "word_en":  "credibility",
+                      "word_kr":  "신뢰성",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 소식통의 신뢰성이 의심스러워.",
+                      "example_en":  "The credibility of that source is questionable."
+                  },
+                  {
+                      "id":  "w_int_noun_086",
+                      "word_en":  "authenticity",
+                      "word_kr":  "진정성",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 작품의 진위 여부가 논란이야.",
+                      "example_en":  "The authenticity of this piece is in question."
+                  },
+                  {
+                      "id":  "w_int_noun_087",
+                      "word_en":  "legitimacy",
+                      "word_kr":  "정당성",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 선거 결과의 정당성에 의문이 제기됐어.",
+                      "example_en":  "The legitimacy of the election result has been questioned."
+                  },
+                  {
+                      "id":  "w_int_noun_088",
+                      "word_en":  "transparency",
+                      "word_kr":  "투명성",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 과정엔 좀 더 투명성이 필요해.",
+                      "example_en":  "This process needs more transparency."
+                  },
+                  {
+                      "id":  "w_int_noun_089",
+                      "word_en":  "accountability",
+                      "word_kr":  "책임감",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "누군가는 이 일에 책임을 져야 해.",
+                      "example_en":  "Someone needs to take accountability for this."
+                  },
+                  {
+                      "id":  "w_int_noun_090",
+                      "word_en":  "compliance",
+                      "word_kr":  "준수",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 규정 준수는 필수야.",
+                      "example_en":  "Compliance with this regulation is mandatory."
+                  },
+                  {
+                      "id":  "w_int_noun_091",
+                      "word_en":  "entity",
+                      "word_kr":  "실체",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 단체는 독립적인 실체로 운영돼.",
+                      "example_en":  "That organization operates as an independent entity."
+                  },
+                  {
+                      "id":  "w_int_noun_092",
+                      "word_en":  "phenomenon",
+                      "word_kr":  "현상",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이건 흔치 않은 현상이야.",
+                      "example_en":  "This is quite an unusual phenomenon."
+                  },
+                  {
+                      "id":  "w_int_noun_093",
+                      "word_en":  "mechanism",
+                      "word_kr":  "메커니즘",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 시스템이 작동하는 메커니즘을 이해해야 해.",
+                      "example_en":  "We need to understand the mechanism behind how this system works."
+                  },
+                  {
+                      "id":  "w_int_noun_094",
+                      "word_en":  "dynamics",
+                      "word_kr":  "역학관계",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "팀 내 역학관계가 좀 복잡해.",
+                      "example_en":  "The team dynamics are a bit complicated."
+                  },
+                  {
+                      "id":  "w_int_noun_095",
+                      "word_en":  "paradigm",
+                      "word_kr":  "패러다임",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이건 완전히 새로운 패러다임이야.",
+                      "example_en":  "This is a completely new paradigm."
+                  },
+                  {
+                      "id":  "w_int_noun_096",
+                      "word_en":  "spectrum",
+                      "word_kr":  "범위",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "의견이 다양한 스펙트럼으로 나뉘어져 있어.",
+                      "example_en":  "Opinions are spread across a wide spectrum."
+                  },
+                  {
+                      "id":  "w_int_noun_097",
+                      "word_en":  "threshold",
+                      "word_kr":  "한계점",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 사람의 인내심이 한계에 도달한 것 같아.",
+                      "example_en":  "He seems to have reached his threshold of patience."
+                  },
+                  {
+                      "id":  "w_int_noun_098",
+                      "word_en":  "catalyst",
+                      "word_kr":  "촉매제",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 사건이 변화의 촉매제가 됐어.",
+                      "example_en":  "That incident became a catalyst for change."
+                  },
+                  {
+                      "id":  "w_int_noun_099",
+                      "word_en":  "momentum",
+                      "word_kr":  "추진력",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "프로젝트가 이제 추진력을 얻고 있어.",
+                      "example_en":  "The project is finally gaining momentum."
+                  },
+                  {
+                      "id":  "w_int_noun_100",
+                      "word_en":  "synergy",
+                      "word_kr":  "시너지",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "두 팀이 함께 일하면 시너지가 날 거야.",
+                      "example_en":  "There will be synergy when the two teams work together."
+                  },
+                  {
+                      "id":  "w_int_noun_101",
+                      "word_en":  "leverage",
+                      "word_kr":  "영향력",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 정보를 협상에서 유리하게 활용할 수 있어.",
+                      "example_en":  "We can use this information as leverage in the negotiation."
+                  },
+                  {
+                      "id":  "w_int_noun_102",
+                      "word_en":  "equilibrium",
+                      "word_kr":  "균형",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "일과 삶 사이의 균형을 찾는 게 중요해.",
+                      "example_en":  "It\u0027s important to find equilibrium between work and life."
+                  },
+                  {
+                      "id":  "w_int_noun_103",
+                      "word_en":  "repercussion",
+                      "word_kr":  "파장",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 결정에는 심각한 파장이 따를 거야.",
+                      "example_en":  "That decision will have serious repercussions."
+                  },
+                  {
+                      "id":  "w_int_noun_104",
+                      "word_en":  "ramification",
+                      "word_kr":  "영향",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 정책의 영향을 아직 다 파악 못 했어.",
+                      "example_en":  "We haven\u0027t fully grasped the ramifications of this policy."
+                  },
+                  {
+                      "id":  "w_int_noun_105",
+                      "word_en":  "aftermath",
+                      "word_kr":  "여파",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "사고의 여파가 아직 남아있어.",
+                      "example_en":  "The aftermath of the accident is still lingering."
+                  },
+                  {
+                      "id":  "w_int_noun_106",
+                      "word_en":  "legacy",
+                      "word_kr":  "유산",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 훌륭한 유산을 남겼어.",
+                      "example_en":  "He left behind a great legacy."
+                  },
+                  {
+                      "id":  "w_int_noun_107",
+                      "word_en":  "heritage",
+                      "word_kr":  "문화 유산",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이 건물은 우리 지역의 문화 유산이야.",
+                      "example_en":  "This building is part of our region\u0027s cultural heritage."
+                  },
+                  {
+                      "id":  "w_int_noun_108",
+                      "word_en":  "trajectory",
+                      "word_kr":  "궤적",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "회사의 성장 궤적이 인상적이야.",
+                      "example_en":  "The company\u0027s growth trajectory is impressive."
+                  },
+                  {
+                      "id":  "w_int_noun_109",
+                      "word_en":  "prospect",
+                      "word_kr":  "전망",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 일자리 전망이 꽤 밝아 보여.",
+                      "example_en":  "The prospects for that job look pretty bright."
+                  },
+                  {
+                      "id":  "w_int_noun_110",
+                      "word_en":  "projection",
+                      "word_kr":  "예측",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이번 분기 매출 예측이 나왔어.",
+                      "example_en":  "The revenue projection for this quarter is out."
+                  },
+                  {
+                      "id":  "w_int_noun_111",
+                      "word_en":  "speculation",
+                      "word_kr":  "추측",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그건 그냥 추측일 뿐 확실한 게 아니야.",
+                      "example_en":  "That\u0027s just speculation, not confirmed."
+                  },
+                  {
+                      "id":  "w_int_noun_112",
+                      "word_en":  "testimony",
+                      "word_kr":  "증언",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 사람의 증언이 재판에서 중요했어.",
+                      "example_en":  "His testimony was crucial in the trial."
+                  },
+                  {
+                      "id":  "w_int_noun_113",
+                      "word_en":  "verdict",
+                      "word_kr":  "평결",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "배심원단이 아직 평결을 내리지 않았어.",
+                      "example_en":  "The jury hasn\u0027t reached a verdict yet."
+                  },
+                  {
+                      "id":  "w_int_noun_114",
+                      "word_en":  "jurisdiction",
+                      "word_kr":  "관할권",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이건 우리 관할권 밖의 문제야.",
+                      "example_en":  "This issue is outside our jurisdiction."
+                  },
+                  {
+                      "id":  "w_int_noun_115",
+                      "word_en":  "mandate",
+                      "word_kr":  "권한",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 위원회는 명확한 권한을 부여받았어.",
+                      "example_en":  "The committee was given a clear mandate."
+                  },
+                  {
+                      "id":  "w_int_noun_116",
+                      "word_en":  "quota",
+                      "word_kr":  "할당량",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "이번 달 판매 할당량을 채워야 해.",
+                      "example_en":  "We need to meet this month\u0027s sales quota."
+                  },
+                  {
+                      "id":  "w_int_noun_117",
+                      "word_en":  "subsidy",
+                      "word_kr":  "보조금",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "정부가 그 산업에 보조금을 지원해.",
+                      "example_en":  "The government provides subsidies to that industry."
+                  },
+                  {
+                      "id":  "w_int_noun_118",
+                      "word_en":  "tariff",
+                      "word_kr":  "관세",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "새로운 관세가 다음 달부터 적용돼.",
+                      "example_en":  "New tariffs go into effect next month."
+                  },
+                  {
+                      "id":  "w_int_noun_119",
+                      "word_en":  "embargo",
+                      "word_kr":  "금수조치",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "그 나라에 무역 금수조치가 내려졌어.",
+                      "example_en":  "A trade embargo was imposed on that country."
+                  },
+                  {
+                      "id":  "w_int_noun_120",
+                      "word_en":  "sanction",
+                      "word_kr":  "제재",
+                      "pos":  "명사",
+                      "level":  "int",
+                      "example_kr":  "국제사회가 제재를 가하기로 했어.",
+                      "example_en":  "The international community decided to impose sanctions."
                   }
               ]
 }

@@ -1,5 +1,5 @@
 {
-    "words_version":  "2026-07-13-03",
+    "words_version":  "2026-07-13-04",
     "words":  [
                   {
                       "id":  "w_beg_verb_001",
@@ -8163,6 +8163,636 @@
                       "level":  "int",
                       "example_kr":  "국제사회가 제재를 가하기로 했어.",
                       "example_en":  "The international community decided to impose sanctions."
+                  },
+                  {
+                      "id":  "w_int_adj_061",
+                      "word_en":  "relentless",
+                      "word_kr":  "끈질긴",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 목표를 이룰 때까지 끈질기게 밀어붙여.",
+                      "example_en":  "He\u0027s relentless until he achieves his goal."
+                  },
+                  {
+                      "id":  "w_int_adj_062",
+                      "word_en":  "tenacious",
+                      "word_kr":  "집요한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 정말 집요하게 물고 늘어져.",
+                      "example_en":  "She\u0027s incredibly tenacious about getting things done."
+                  },
+                  {
+                      "id":  "w_int_adj_063",
+                      "word_en":  "audacious",
+                      "word_kr":  "대담한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 계획은 좀 대담한 시도였어.",
+                      "example_en":  "That plan was a fairly audacious attempt."
+                  },
+                  {
+                      "id":  "w_int_adj_064",
+                      "word_en":  "shrewd",
+                      "word_kr":  "영악한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 사업 감각이 영악할 정도로 뛰어나.",
+                      "example_en":  "He has a shrewd sense for business."
+                  },
+                  {
+                      "id":  "w_int_adj_065",
+                      "word_en":  "astute",
+                      "word_kr":  "통찰력 있는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람의 통찰력 있는 지적이 도움이 됐어.",
+                      "example_en":  "His astute observation was really helpful."
+                  },
+                  {
+                      "id":  "w_int_adj_066",
+                      "word_en":  "gullible",
+                      "word_kr":  "잘 속는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 너무 잘 속아서 걱정돼.",
+                      "example_en":  "He\u0027s so gullible that it worries me."
+                  },
+                  {
+                      "id":  "w_int_adj_067",
+                      "word_en":  "naive",
+                      "word_kr":  "순진한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그렇게 생각하는 건 좀 순진한 것 같아.",
+                      "example_en":  "That\u0027s a bit naive to think."
+                  },
+                  {
+                      "id":  "w_int_adj_068",
+                      "word_en":  "savvy",
+                      "word_kr":  "능숙한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 기술적으로 되게 능숙해.",
+                      "example_en":  "She\u0027s really tech-savvy."
+                  },
+                  {
+                      "id":  "w_int_adj_069",
+                      "word_en":  "formidable",
+                      "word_kr":  "만만치 않은",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 경쟁자는 정말 만만치 않은 상대야.",
+                      "example_en":  "That competitor is a truly formidable opponent."
+                  },
+                  {
+                      "id":  "w_int_adj_070",
+                      "word_en":  "ruthless",
+                      "word_kr":  "무자비한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람 사업에서는 정말 무자비해.",
+                      "example_en":  "He\u0027s absolutely ruthless in business."
+                  },
+                  {
+                      "id":  "w_int_adj_071",
+                      "word_en":  "callous",
+                      "word_kr":  "냉담한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그런 냉담한 반응은 예상 못 했어.",
+                      "example_en":  "I didn\u0027t expect such a callous reaction."
+                  },
+                  {
+                      "id":  "w_int_adj_072",
+                      "word_en":  "apathetic",
+                      "word_kr":  "무관심한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 결과에 완전히 무관심해 보여.",
+                      "example_en":  "He seems completely apathetic about the outcome."
+                  },
+                  {
+                      "id":  "w_int_adj_073",
+                      "word_en":  "empathetic",
+                      "word_kr":  "공감하는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 항상 공감을 잘 해줘.",
+                      "example_en":  "He\u0027s always so empathetic."
+                  },
+                  {
+                      "id":  "w_int_adj_074",
+                      "word_en":  "altruistic",
+                      "word_kr":  "이타적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람의 행동은 정말 이타적이었어.",
+                      "example_en":  "His actions were truly altruistic."
+                  },
+                  {
+                      "id":  "w_int_adj_075",
+                      "word_en":  "egotistical",
+                      "word_kr":  "자기중심적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 좀 자기중심적으로 행동해.",
+                      "example_en":  "He tends to act a bit egotistical."
+                  },
+                  {
+                      "id":  "w_int_adj_076",
+                      "word_en":  "narcissistic",
+                      "word_kr":  "자기애가 강한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람의 자기애가 좀 지나친 것 같아.",
+                      "example_en":  "His narcissistic tendencies seem a bit much."
+                  },
+                  {
+                      "id":  "w_int_adj_077",
+                      "word_en":  "hypocritical",
+                      "word_kr":  "위선적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그렇게 말하는 건 좀 위선적이지 않아?",
+                      "example_en":  "Isn\u0027t it a bit hypocritical to say that?"
+                  },
+                  {
+                      "id":  "w_int_adj_078",
+                      "word_en":  "manipulative",
+                      "word_kr":  "조종하려드는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 사람을 조종하려는 경향이 있어.",
+                      "example_en":  "He tends to be manipulative with people."
+                  },
+                  {
+                      "id":  "w_int_adj_079",
+                      "word_en":  "deceptive",
+                      "word_kr":  "기만적인",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 광고는 좀 기만적이야.",
+                      "example_en":  "That advertisement is pretty deceptive."
+                  },
+                  {
+                      "id":  "w_int_adj_080",
+                      "word_en":  "transparent",
+                      "word_kr":  "투명한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "회사가 좀 더 투명하게 운영됐으면 좋겠어.",
+                      "example_en":  "I wish the company were more transparent."
+                  },
+                  {
+                      "id":  "w_int_adj_081",
+                      "word_en":  "unyielding",
+                      "word_kr":  "굽히지 않는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람의 입장은 정말 굽히지 않았어.",
+                      "example_en":  "His position remained completely unyielding."
+                  },
+                  {
+                      "id":  "w_int_adj_082",
+                      "word_en":  "steadfast",
+                      "word_kr":  "변함없는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람의 지지는 변함없었어.",
+                      "example_en":  "His support remained steadfast."
+                  },
+                  {
+                      "id":  "w_int_adj_083",
+                      "word_en":  "prudent",
+                      "word_kr":  "신중한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "돈 문제는 신중하게 결정하는 게 좋아.",
+                      "example_en":  "It\u0027s wise to be prudent about money matters."
+                  },
+                  {
+                      "id":  "w_int_adj_084",
+                      "word_en":  "frugal",
+                      "word_kr":  "검소한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 돈 쓰는 데 되게 검소해.",
+                      "example_en":  "He\u0027s very frugal with money."
+                  },
+                  {
+                      "id":  "w_int_adj_085",
+                      "word_en":  "extravagant",
+                      "word_kr":  "사치스러운",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 파티는 너무 사치스러웠어.",
+                      "example_en":  "That party was way too extravagant."
+                  },
+                  {
+                      "id":  "w_int_adj_086",
+                      "word_en":  "meager",
+                      "word_kr":  "부족한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "월급이 너무 부족해서 살기 힘들어.",
+                      "example_en":  "My salary is too meager to live comfortably."
+                  },
+                  {
+                      "id":  "w_int_adj_087",
+                      "word_en":  "abundant",
+                      "word_kr":  "풍부한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "이 지역은 자원이 풍부해.",
+                      "example_en":  "This region has abundant resources."
+                  },
+                  {
+                      "id":  "w_int_adj_088",
+                      "word_en":  "ample",
+                      "word_kr":  "충분한",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "준비할 시간은 충분히 있었어.",
+                      "example_en":  "There was ample time to prepare."
+                  },
+                  {
+                      "id":  "w_int_adj_089",
+                      "word_en":  "discerning",
+                      "word_kr":  "안목 있는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람은 안목이 정말 뛰어나.",
+                      "example_en":  "He has a really discerning eye."
+                  },
+                  {
+                      "id":  "w_int_adj_090",
+                      "word_en":  "perceptive",
+                      "word_kr":  "통찰력 있는",
+                      "pos":  "형용사",
+                      "level":  "int",
+                      "example_kr":  "그 사람의 통찰력 있는 질문이 도움이 됐어.",
+                      "example_en":  "Her perceptive question really helped."
+                  },
+                  {
+                      "id":  "w_beg_verb_153",
+                      "word_en":  "type",
+                      "word_kr":  "타이핑하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 문서 좀 타이핑해줄래?",
+                      "example_en":  "Can you type up this document?"
+                  },
+                  {
+                      "id":  "w_beg_verb_154",
+                      "word_en":  "print",
+                      "word_kr":  "프린트하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이거 프린트 좀 해줄래?",
+                      "example_en":  "Can you print this out?"
+                  },
+                  {
+                      "id":  "w_beg_verb_155",
+                      "word_en":  "scan",
+                      "word_kr":  "스캔하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 서류 좀 스캔해줄래?",
+                      "example_en":  "Can you scan this document?"
+                  },
+                  {
+                      "id":  "w_beg_verb_156",
+                      "word_en":  "copy",
+                      "word_kr":  "복사하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이거 하나 더 복사해줄래?",
+                      "example_en":  "Can you make another copy of this?"
+                  },
+                  {
+                      "id":  "w_beg_verb_157",
+                      "word_en":  "save",
+                      "word_kr":  "저장하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "작업한 거 저장했어?",
+                      "example_en":  "Did you save your work?"
+                  },
+                  {
+                      "id":  "w_beg_verb_158",
+                      "word_en":  "delete",
+                      "word_kr":  "삭제하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 파일 지워도 돼?",
+                      "example_en":  "Can I delete this file?"
+                  },
+                  {
+                      "id":  "w_beg_verb_159",
+                      "word_en":  "upload",
+                      "word_kr":  "업로드하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "사진 좀 올려줄래?",
+                      "example_en":  "Can you upload the photos?"
+                  },
+                  {
+                      "id":  "w_beg_verb_160",
+                      "word_en":  "download",
+                      "word_kr":  "다운로드하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 앱 다운로드했어?",
+                      "example_en":  "Did you download this app?"
+                  },
+                  {
+                      "id":  "w_beg_verb_161",
+                      "word_en":  "install",
+                      "word_kr":  "설치하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 프로그램 설치해야 해.",
+                      "example_en":  "I need to install this program."
+                  },
+                  {
+                      "id":  "w_beg_verb_162",
+                      "word_en":  "update",
+                      "word_kr":  "업데이트하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "앱 업데이트해야 할 것 같아.",
+                      "example_en":  "I think I need to update the app."
+                  },
+                  {
+                      "id":  "w_beg_verb_163",
+                      "word_en":  "charge",
+                      "word_kr":  "충전하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "핸드폰 충전 좀 해야겠어.",
+                      "example_en":  "I need to charge my phone."
+                  },
+                  {
+                      "id":  "w_beg_verb_164",
+                      "word_en":  "plug",
+                      "word_kr":  "꽂다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "여기다 충전기 좀 꽂아줄래?",
+                      "example_en":  "Can you plug the charger in here?"
+                  },
+                  {
+                      "id":  "w_beg_verb_165",
+                      "word_en":  "unplug",
+                      "word_kr":  "뽑다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "쓰기 전에 이거 뽑아놔.",
+                      "example_en":  "Unplug this before you use it."
+                  },
+                  {
+                      "id":  "w_beg_verb_166",
+                      "word_en":  "sign",
+                      "word_kr":  "서명하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "여기 서명해주세요.",
+                      "example_en":  "Please sign here."
+                  },
+                  {
+                      "id":  "w_beg_verb_167",
+                      "word_en":  "record",
+                      "word_kr":  "녹음하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 강의 녹음해도 될까요?",
+                      "example_en":  "Can I record this lecture?"
+                  },
+                  {
+                      "id":  "w_beg_verb_168",
+                      "word_en":  "film",
+                      "word_kr":  "촬영하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "우리 이 장면 촬영하자.",
+                      "example_en":  "Let\u0027s film this scene."
+                  },
+                  {
+                      "id":  "w_beg_verb_169",
+                      "word_en":  "broadcast",
+                      "word_kr":  "방송하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 경기 생중계로 방송돼.",
+                      "example_en":  "This game is being broadcast live."
+                  },
+                  {
+                      "id":  "w_beg_verb_170",
+                      "word_en":  "publish",
+                      "word_kr":  "출판하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람 곧 책을 출판할 거래.",
+                      "example_en":  "I heard she\u0027s going to publish a book soon."
+                  },
+                  {
+                      "id":  "w_beg_verb_171",
+                      "word_en":  "edit",
+                      "word_kr":  "편집하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 글 좀 편집해줄 수 있어?",
+                      "example_en":  "Can you edit this article?"
+                  },
+                  {
+                      "id":  "w_beg_verb_172",
+                      "word_en":  "translate",
+                      "word_kr":  "번역하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 문장 좀 번역해줄래?",
+                      "example_en":  "Can you translate this sentence?"
+                  },
+                  {
+                      "id":  "w_beg_verb_173",
+                      "word_en":  "interpret",
+                      "word_kr":  "통역하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "회의 때 통역해줄 사람이 필요해.",
+                      "example_en":  "We need someone to interpret during the meeting."
+                  },
+                  {
+                      "id":  "w_beg_verb_174",
+                      "word_en":  "pronounce",
+                      "word_kr":  "발음하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 단어 어떻게 발음해?",
+                      "example_en":  "How do you pronounce this word?"
+                  },
+                  {
+                      "id":  "w_beg_verb_175",
+                      "word_en":  "spell",
+                      "word_kr":  "철자를 말하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이름 철자 좀 말해줄래?",
+                      "example_en":  "Can you spell your name for me?"
+                  },
+                  {
+                      "id":  "w_beg_verb_176",
+                      "word_en":  "memorize",
+                      "word_kr":  "암기하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "이 문장 다 외워야 해.",
+                      "example_en":  "I need to memorize this whole sentence."
+                  },
+                  {
+                      "id":  "w_beg_verb_177",
+                      "word_en":  "review",
+                      "word_kr":  "복습하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "시험 전에 다시 복습해야겠어.",
+                      "example_en":  "I need to review before the exam."
+                  },
+                  {
+                      "id":  "w_beg_verb_178",
+                      "word_en":  "study",
+                      "word_kr":  "공부하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "오늘 밤에 공부 좀 해야 해.",
+                      "example_en":  "I need to study tonight."
+                  },
+                  {
+                      "id":  "w_beg_verb_179",
+                      "word_en":  "teach",
+                      "word_kr":  "가르치다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "나한테 이거 좀 가르쳐줄래?",
+                      "example_en":  "Can you teach me this?"
+                  },
+                  {
+                      "id":  "w_beg_verb_180",
+                      "word_en":  "learn",
+                      "word_kr":  "배우다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 새로운 언어를 배우고 있어.",
+                      "example_en":  "I\u0027ve been learning a new language lately."
+                  },
+                  {
+                      "id":  "w_beg_verb_181",
+                      "word_en":  "graduate",
+                      "word_kr":  "졸업하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "다음 달에 졸업해.",
+                      "example_en":  "I\u0027m graduating next month."
+                  },
+                  {
+                      "id":  "w_beg_verb_182",
+                      "word_en":  "hire",
+                      "word_kr":  "고용하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "새 직원을 고용할 계획이야.",
+                      "example_en":  "We\u0027re planning to hire a new employee."
+                  },
+                  {
+                      "id":  "w_beg_adv_092",
+                      "word_en":  "frequently",
+                      "word_kr":  "자주",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 여기 자주 와.",
+                      "example_en":  "I come here frequently these days."
+                  },
+                  {
+                      "id":  "w_beg_adv_093",
+                      "word_en":  "hopefully",
+                      "word_kr":  "바라건대",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "바라건대 내일은 날씨가 좋았으면 좋겠어.",
+                      "example_en":  "Hopefully the weather will be nice tomorrow."
+                  },
+                  {
+                      "id":  "w_beg_adv_094",
+                      "word_en":  "fortunately",
+                      "word_kr":  "다행히",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "다행히 아무도 다치지 않았어.",
+                      "example_en":  "Fortunately, no one got hurt."
+                  },
+                  {
+                      "id":  "w_beg_adv_095",
+                      "word_en":  "naturally",
+                      "word_kr":  "당연히",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "그야 당연히 걱정되지.",
+                      "example_en":  "Naturally, I\u0027m worried about that."
+                  },
+                  {
+                      "id":  "w_beg_adv_096",
+                      "word_en":  "certainly",
+                      "word_kr":  "확실히",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "그건 확실히 좋은 생각이야.",
+                      "example_en":  "That\u0027s certainly a good idea."
+                  },
+                  {
+                      "id":  "w_beg_adv_097",
+                      "word_en":  "truly",
+                      "word_kr":  "진심으로",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "네가 도와줘서 진심으로 고마워.",
+                      "example_en":  "I\u0027m truly grateful for your help."
+                  },
+                  {
+                      "id":  "w_beg_adv_098",
+                      "word_en":  "really",
+                      "word_kr":  "정말로",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "이거 정말로 맛있다.",
+                      "example_en":  "This is really delicious."
+                  },
+                  {
+                      "id":  "w_beg_adv_099",
+                      "word_en":  "quite",
+                      "word_kr":  "꽤",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "이거 꽤 어렵네.",
+                      "example_en":  "This is quite difficult."
+                  },
+                  {
+                      "id":  "w_beg_adv_100",
+                      "word_en":  "rather",
+                      "word_kr":  "차라리",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "나는 집에 있는 게 낫겠어.",
+                      "example_en":  "I\u0027d rather stay home."
+                  },
+                  {
+                      "id":  "w_beg_adv_101",
+                      "word_en":  "fairly",
+                      "word_kr":  "꽤",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "이 결과는 꽤 공평해 보여.",
+                      "example_en":  "This result seems fairly fair."
                   }
               ]
 }

@@ -1,68 +1,878 @@
 {
-  "words_version": "2026-07-12-01",
-  "words": [
-    {
-      "id": "w_beg_verb_001",
-      "word_en": "give up",
-      "word_kr": "포기하다",
-      "pos": "동사",
-      "level": "beg",
-      "example_kr": "한번 시작했으면 포기하지 마.",
-      "example_en": "Once you start, don't give up."
-    },
-    {
-      "id": "w_beg_verb_002",
-      "word_en": "look forward to",
-      "word_kr": "기대하다",
-      "pos": "동사",
-      "level": "beg",
-      "example_kr": "주말이 정말 기대돼.",
-      "example_en": "I really look forward to the weekend."
-    },
-    {
-      "id": "w_beg_noun_001",
-      "word_en": "opportunity",
-      "word_kr": "기회",
-      "pos": "명사",
-      "level": "beg",
-      "example_kr": "이건 정말 좋은 기회야.",
-      "example_en": "This is a great opportunity."
-    },
-    {
-      "id": "w_beg_noun_002",
-      "word_en": "deadline",
-      "word_kr": "마감일",
-      "pos": "명사",
-      "level": "beg",
-      "example_kr": "마감일이 내일이야.",
-      "example_en": "The deadline is tomorrow."
-    },
-    {
-      "id": "w_beg_adj_001",
-      "word_en": "confident",
-      "word_kr": "자신감 있는",
-      "pos": "형용사",
-      "level": "beg",
-      "example_kr": "너는 좀 더 자신감을 가져야 해.",
-      "example_en": "You need to be more confident."
-    },
-    {
-      "id": "w_beg_phr_001",
-      "word_en": "put off",
-      "word_kr": "미루다",
-      "pos": "구동사",
-      "level": "beg",
-      "example_kr": "계속 미루지 마.",
-      "example_en": "Stop putting it off."
-    },
-    {
-      "id": "w_beg_adv_001",
-      "word_en": "eventually",
-      "word_kr": "결국",
-      "pos": "부사",
-      "level": "beg",
-      "example_kr": "결국엔 다 잘 될 거야.",
-      "example_en": "Everything will work out eventually."
-    }
-  ]
+    "words_version":  "2026-07-13-01",
+    "words":  [
+                  {
+                      "id":  "w_beg_verb_001",
+                      "word_en":  "give up",
+                      "word_kr":  "포기하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "한번 시작했으면 포기하지 마.",
+                      "example_en":  "Once you start, don\u0027t give up."
+                  },
+                  {
+                      "id":  "w_beg_verb_002",
+                      "word_en":  "look forward to",
+                      "word_kr":  "기대하다",
+                      "pos":  "동사",
+                      "level":  "beg",
+                      "example_kr":  "주말이 정말 기대돼.",
+                      "example_en":  "I really look forward to the weekend."
+                  },
+                  {
+                      "id":  "w_beg_noun_001",
+                      "word_en":  "opportunity",
+                      "word_kr":  "기회",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이건 정말 좋은 기회야.",
+                      "example_en":  "This is a great opportunity."
+                  },
+                  {
+                      "id":  "w_beg_noun_002",
+                      "word_en":  "deadline",
+                      "word_kr":  "마감일",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "마감일이 내일이야.",
+                      "example_en":  "The deadline is tomorrow."
+                  },
+                  {
+                      "id":  "w_beg_adj_001",
+                      "word_en":  "confident",
+                      "word_kr":  "자신감 있는",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "너는 좀 더 자신감을 가져야 해.",
+                      "example_en":  "You need to be more confident."
+                  },
+                  {
+                      "id":  "w_beg_phr_001",
+                      "word_en":  "put off",
+                      "word_kr":  "미루다",
+                      "pos":  "구동사",
+                      "level":  "beg",
+                      "example_kr":  "계속 미루지 마.",
+                      "example_en":  "Stop putting it off."
+                  },
+                  {
+                      "id":  "w_beg_adv_001",
+                      "word_en":  "eventually",
+                      "word_kr":  "결국",
+                      "pos":  "부사",
+                      "level":  "beg",
+                      "example_kr":  "결국엔 다 잘 될 거야.",
+                      "example_en":  "Everything will work out eventually."
+                  },
+                  {
+                      "id":  "w_beg_noun_063",
+                      "word_en":  "exercise",
+                      "word_kr":  "운동",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 운동을 거의 안 했어.",
+                      "example_en":  "I haven\u0027t done much exercise lately."
+                  },
+                  {
+                      "id":  "w_beg_noun_064",
+                      "word_en":  "diet",
+                      "word_kr":  "식단",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 식단 조절하고 있어.",
+                      "example_en":  "I\u0027ve been watching my diet lately."
+                  },
+                  {
+                      "id":  "w_beg_noun_065",
+                      "word_en":  "hobby",
+                      "word_kr":  "취미",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "네 취미가 뭐야?",
+                      "example_en":  "What\u0027s your hobby?"
+                  },
+                  {
+                      "id":  "w_beg_noun_066",
+                      "word_en":  "skill",
+                      "word_kr":  "기술",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "그 기술 배우는 데 오래 걸렸어.",
+                      "example_en":  "It took a long time to learn that skill."
+                  },
+                  {
+                      "id":  "w_beg_noun_067",
+                      "word_en":  "talent",
+                      "word_kr":  "재능",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람은 진짜 재능이 있어.",
+                      "example_en":  "He really has a lot of talent."
+                  },
+                  {
+                      "id":  "w_beg_noun_068",
+                      "word_en":  "career",
+                      "word_kr":  "경력",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "경력을 좀 바꿔볼까 생각 중이야.",
+                      "example_en":  "I\u0027m thinking about changing my career."
+                  },
+                  {
+                      "id":  "w_beg_noun_069",
+                      "word_en":  "degree",
+                      "word_kr":  "학위",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람은 경영학 학위가 있어.",
+                      "example_en":  "He has a degree in business."
+                  },
+                  {
+                      "id":  "w_beg_noun_070",
+                      "word_en":  "major",
+                      "word_kr":  "전공",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "네 전공이 뭐였어?",
+                      "example_en":  "What was your major?"
+                  },
+                  {
+                      "id":  "w_beg_noun_071",
+                      "word_en":  "semester",
+                      "word_kr":  "학기",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이번 학기 진짜 바빴어.",
+                      "example_en":  "This semester was really busy."
+                  },
+                  {
+                      "id":  "w_beg_noun_072",
+                      "word_en":  "grade",
+                      "word_kr":  "성적",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이번 시험 성적이 꽤 좋아.",
+                      "example_en":  "My grade on this exam was pretty good."
+                  },
+                  {
+                      "id":  "w_beg_noun_073",
+                      "word_en":  "exam",
+                      "word_kr":  "시험",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "다음 주에 시험이 있어.",
+                      "example_en":  "I have an exam next week."
+                  },
+                  {
+                      "id":  "w_beg_noun_074",
+                      "word_en":  "lecture",
+                      "word_kr":  "강의",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "그 강의 진짜 지루했어.",
+                      "example_en":  "That lecture was really boring."
+                  },
+                  {
+                      "id":  "w_beg_noun_075",
+                      "word_en":  "classmate",
+                      "word_kr":  "반 친구",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "그 반 친구랑 아직도 연락해.",
+                      "example_en":  "I still keep in touch with that classmate."
+                  },
+                  {
+                      "id":  "w_beg_noun_076",
+                      "word_en":  "teacher",
+                      "word_kr":  "선생님",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "우리 선생님 진짜 좋으셔.",
+                      "example_en":  "My teacher is really nice."
+                  },
+                  {
+                      "id":  "w_beg_noun_077",
+                      "word_en":  "professor",
+                      "word_kr":  "교수",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "그 교수님 수업이 꽤 유명해.",
+                      "example_en":  "That professor\u0027s class is pretty famous."
+                  },
+                  {
+                      "id":  "w_beg_noun_078",
+                      "word_en":  "course",
+                      "word_kr":  "수업",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이번 학기에 새 수업 하나 들어.",
+                      "example_en":  "I\u0027m taking a new course this semester."
+                  },
+                  {
+                      "id":  "w_beg_noun_079",
+                      "word_en":  "subject",
+                      "word_kr":  "과목",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "제일 좋아하는 과목이 뭐야?",
+                      "example_en":  "What\u0027s your favorite subject?"
+                  },
+                  {
+                      "id":  "w_beg_noun_080",
+                      "word_en":  "topic",
+                      "word_kr":  "주제",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이 주제로 발표할 거야.",
+                      "example_en":  "I\u0027m going to present on this topic."
+                  },
+                  {
+                      "id":  "w_beg_noun_081",
+                      "word_en":  "project",
+                      "word_kr":  "프로젝트",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이 프로젝트 마감이 다음 주야.",
+                      "example_en":  "This project\u0027s deadline is next week."
+                  },
+                  {
+                      "id":  "w_beg_noun_082",
+                      "word_en":  "report",
+                      "word_kr":  "보고서",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "보고서 다 작성했어?",
+                      "example_en":  "Have you finished the report?"
+                  },
+                  {
+                      "id":  "w_beg_noun_083",
+                      "word_en":  "email",
+                      "word_kr":  "이메일",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이메일 확인해봤어?",
+                      "example_en":  "Did you check your email?"
+                  },
+                  {
+                      "id":  "w_beg_noun_084",
+                      "word_en":  "text",
+                      "word_kr":  "문자",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "문자 하나 보냈는데 답장이 없어.",
+                      "example_en":  "I sent a text but haven\u0027t gotten a reply."
+                  },
+                  {
+                      "id":  "w_beg_noun_085",
+                      "word_en":  "message",
+                      "word_kr":  "메시지",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "메시지 하나 남겨줄래?",
+                      "example_en":  "Can you leave a message?"
+                  },
+                  {
+                      "id":  "w_beg_noun_086",
+                      "word_en":  "reminder",
+                      "word_kr":  "알림",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "알림 하나 설정해놨어.",
+                      "example_en":  "I set a reminder for it."
+                  },
+                  {
+                      "id":  "w_beg_noun_087",
+                      "word_en":  "password",
+                      "word_kr":  "비밀번호",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "비밀번호를 까먹었어.",
+                      "example_en":  "I forgot my password."
+                  },
+                  {
+                      "id":  "w_beg_noun_088",
+                      "word_en":  "account",
+                      "word_kr":  "계정",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "계정을 새로 만들었어.",
+                      "example_en":  "I made a new account."
+                  },
+                  {
+                      "id":  "w_beg_noun_089",
+                      "word_en":  "device",
+                      "word_kr":  "기기",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "이 기기 좀 오래됐어.",
+                      "example_en":  "This device is pretty old."
+                  },
+                  {
+                      "id":  "w_beg_noun_090",
+                      "word_en":  "battery",
+                      "word_kr":  "배터리",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "배터리가 거의 다 됐어.",
+                      "example_en":  "My battery is almost dead."
+                  },
+                  {
+                      "id":  "w_beg_noun_091",
+                      "word_en":  "charger",
+                      "word_kr":  "충전기",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "충전기 좀 빌려줄 수 있어?",
+                      "example_en":  "Can I borrow your charger?"
+                  },
+                  {
+                      "id":  "w_beg_noun_092",
+                      "word_en":  "wifi",
+                      "word_kr":  "와이파이",
+                      "pos":  "명사",
+                      "level":  "beg",
+                      "example_kr":  "여기 와이파이 진짜 느려.",
+                      "example_en":  "The wifi here is really slow."
+                  },
+                  {
+                      "id":  "w_beg_adj_062",
+                      "word_en":  "tall",
+                      "word_kr":  "키가 큰",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람 키가 진짜 커.",
+                      "example_en":  "He\u0027s really tall."
+                  },
+                  {
+                      "id":  "w_beg_adj_063",
+                      "word_en":  "short",
+                      "word_kr":  "짧은",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 바지 나한테 좀 짧아.",
+                      "example_en":  "These pants are a bit short on me."
+                  },
+                  {
+                      "id":  "w_beg_adj_064",
+                      "word_en":  "tired",
+                      "word_kr":  "피곤한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "오늘 좀 피곤하다.",
+                      "example_en":  "I\u0027m a bit tired today."
+                  },
+                  {
+                      "id":  "w_beg_adj_065",
+                      "word_en":  "hungry",
+                      "word_kr":  "배고픈",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "나 지금 너무 배고파.",
+                      "example_en":  "I\u0027m so hungry right now."
+                  },
+                  {
+                      "id":  "w_beg_adj_066",
+                      "word_en":  "thirsty",
+                      "word_kr":  "목마른",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "목말라서 물 좀 마셔야겠어.",
+                      "example_en":  "I\u0027m thirsty, I need some water."
+                  },
+                  {
+                      "id":  "w_beg_adj_067",
+                      "word_en":  "full",
+                      "word_kr":  "배부른",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "배불러서 더는 못 먹겠어.",
+                      "example_en":  "I\u0027m too full to eat any more."
+                  },
+                  {
+                      "id":  "w_beg_adj_068",
+                      "word_en":  "sick",
+                      "word_kr":  "아픈",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 좀 몸이 안 좋아.",
+                      "example_en":  "I\u0027ve been feeling sick lately."
+                  },
+                  {
+                      "id":  "w_beg_adj_069",
+                      "word_en":  "healthy",
+                      "word_kr":  "건강한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 건강 관리 열심히 하고 있어.",
+                      "example_en":  "I\u0027ve been trying to stay healthy lately."
+                  },
+                  {
+                      "id":  "w_beg_adj_070",
+                      "word_en":  "weak",
+                      "word_kr":  "약한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "다리에 힘이 없어.",
+                      "example_en":  "My legs feel weak."
+                  },
+                  {
+                      "id":  "w_beg_adj_071",
+                      "word_en":  "strong",
+                      "word_kr":  "강한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람 생각보다 힘이 세.",
+                      "example_en":  "He\u0027s stronger than he looks."
+                  },
+                  {
+                      "id":  "w_beg_adj_072",
+                      "word_en":  "heavy",
+                      "word_kr":  "무거운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 가방 너무 무거워.",
+                      "example_en":  "This bag is so heavy."
+                  },
+                  {
+                      "id":  "w_beg_adj_073",
+                      "word_en":  "light",
+                      "word_kr":  "가벼운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 노트북 생각보다 가벼워.",
+                      "example_en":  "This laptop is lighter than I thought."
+                  },
+                  {
+                      "id":  "w_beg_adj_074",
+                      "word_en":  "old",
+                      "word_kr":  "오래된",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 건물 꽤 오래됐어.",
+                      "example_en":  "This building is pretty old."
+                  },
+                  {
+                      "id":  "w_beg_adj_075",
+                      "word_en":  "young",
+                      "word_kr":  "어린",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "그 사람 나이보다 어려 보여.",
+                      "example_en":  "He looks younger than his age."
+                  },
+                  {
+                      "id":  "w_beg_adj_076",
+                      "word_en":  "new",
+                      "word_kr":  "새로운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이거 완전 새 거야.",
+                      "example_en":  "This is brand new."
+                  },
+                  {
+                      "id":  "w_beg_adj_077",
+                      "word_en":  "fresh",
+                      "word_kr":  "신선한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 야채 진짜 신선해.",
+                      "example_en":  "These vegetables are really fresh."
+                  },
+                  {
+                      "id":  "w_beg_adj_078",
+                      "word_en":  "warm",
+                      "word_kr":  "따뜻한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "오늘 날씨 좀 따뜻하네.",
+                      "example_en":  "It\u0027s a bit warm today."
+                  },
+                  {
+                      "id":  "w_beg_adj_079",
+                      "word_en":  "cold",
+                      "word_kr":  "차가운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "물이 너무 차가워.",
+                      "example_en":  "The water is too cold."
+                  },
+                  {
+                      "id":  "w_beg_adj_080",
+                      "word_en":  "hot",
+                      "word_kr":  "뜨거운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 국물 너무 뜨거워.",
+                      "example_en":  "This soup is too hot."
+                  },
+                  {
+                      "id":  "w_beg_adj_081",
+                      "word_en":  "cool",
+                      "word_kr":  "선선한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "저녁엔 좀 선선해.",
+                      "example_en":  "It gets a bit cool in the evening."
+                  },
+                  {
+                      "id":  "w_beg_adj_082",
+                      "word_en":  "wet",
+                      "word_kr":  "젖은",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "밖에 나갔다가 옷이 다 젖었어.",
+                      "example_en":  "My clothes got all wet from going outside."
+                  },
+                  {
+                      "id":  "w_beg_adj_083",
+                      "word_en":  "dry",
+                      "word_kr":  "건조한",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "요즘 날씨가 너무 건조해.",
+                      "example_en":  "The weather\u0027s been really dry lately."
+                  },
+                  {
+                      "id":  "w_beg_adj_084",
+                      "word_en":  "dirty",
+                      "word_kr":  "더러운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "신발이 완전 더러워졌어.",
+                      "example_en":  "My shoes got totally dirty."
+                  },
+                  {
+                      "id":  "w_beg_adj_085",
+                      "word_en":  "bright",
+                      "word_kr":  "밝은",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 방 되게 밝다.",
+                      "example_en":  "This room is really bright."
+                  },
+                  {
+                      "id":  "w_beg_adj_086",
+                      "word_en":  "dark",
+                      "word_kr":  "어두운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "밖이 벌써 어두워졌어.",
+                      "example_en":  "It\u0027s already dark outside."
+                  },
+                  {
+                      "id":  "w_beg_adj_087",
+                      "word_en":  "loud",
+                      "word_kr":  "시끄러운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "음악 소리가 너무 시끄러워.",
+                      "example_en":  "The music is way too loud."
+                  },
+                  {
+                      "id":  "w_beg_adj_088",
+                      "word_en":  "soft",
+                      "word_kr":  "부드러운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 베개 진짜 부드러워.",
+                      "example_en":  "This pillow is really soft."
+                  },
+                  {
+                      "id":  "w_beg_adj_089",
+                      "word_en":  "hard",
+                      "word_kr":  "어려운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 문제 진짜 어렵다.",
+                      "example_en":  "This problem is really hard."
+                  },
+                  {
+                      "id":  "w_beg_adj_090",
+                      "word_en":  "smooth",
+                      "word_kr":  "매끄러운",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "피부가 진짜 매끄럽네.",
+                      "example_en":  "Your skin is so smooth."
+                  },
+                  {
+                      "id":  "w_beg_adj_091",
+                      "word_en":  "rough",
+                      "word_kr":  "거친",
+                      "pos":  "형용사",
+                      "level":  "beg",
+                      "example_kr":  "이 나무 표면이 좀 거칠어.",
+                      "example_en":  "This wood surface is a bit rough."
+                  },
+                  {
+                      "id":  "w_int_phrasal_031",
+                      "word_en":  "take on",
+                      "word_kr":  "맡다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "이번엔 새로운 프로젝트를 하나 맡기로 했어.",
+                      "example_en":  "I\u0027ve decided to take on a new project this time."
+                  },
+                  {
+                      "id":  "w_int_phrasal_032",
+                      "word_en":  "take up",
+                      "word_kr":  "시작하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "요즘 요가를 새로 시작했어.",
+                      "example_en":  "I recently took up yoga."
+                  },
+                  {
+                      "id":  "w_int_phrasal_033",
+                      "word_en":  "turn into",
+                      "word_kr":  "변하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "간단한 대화가 결국 논쟁으로 변해버렸어.",
+                      "example_en":  "The simple conversation turned into an argument."
+                  },
+                  {
+                      "id":  "w_int_phrasal_034",
+                      "word_en":  "turn up",
+                      "word_kr":  "나타나다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람 결국 늦게라도 나타났어.",
+                      "example_en":  "He turned up late, but he showed up."
+                  },
+                  {
+                      "id":  "w_int_phrasal_035",
+                      "word_en":  "wind up",
+                      "word_kr":  "결국 ~하게 되다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "결국 계획보다 훨씬 오래 걸리게 됐어.",
+                      "example_en":  "We wound up taking much longer than planned."
+                  },
+                  {
+                      "id":  "w_int_phrasal_036",
+                      "word_en":  "work through",
+                      "word_kr":  "해결해나가다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "이 문제를 차근차근 해결해나가야 해.",
+                      "example_en":  "We need to work through this problem step by step."
+                  },
+                  {
+                      "id":  "w_int_phrasal_037",
+                      "word_en":  "zero in on",
+                      "word_kr":  "집중하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "우리는 가장 중요한 이슈에 집중했어.",
+                      "example_en":  "We zeroed in on the most important issue."
+                  },
+                  {
+                      "id":  "w_int_phrasal_038",
+                      "word_en":  "bring about",
+                      "word_kr":  "초래하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 정책이 큰 변화를 초래했어.",
+                      "example_en":  "That policy brought about major changes."
+                  },
+                  {
+                      "id":  "w_int_phrasal_039",
+                      "word_en":  "bring down",
+                      "word_kr":  "무너뜨리다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "이 스캔들이 결국 회사를 무너뜨릴 수도 있어.",
+                      "example_en":  "This scandal could end up bringing down the company."
+                  },
+                  {
+                      "id":  "w_int_phrasal_040",
+                      "word_en":  "build up",
+                      "word_kr":  "쌓다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "몇 년에 걸쳐서 신뢰를 쌓아왔어.",
+                      "example_en":  "We\u0027ve built up trust over several years."
+                  },
+                  {
+                      "id":  "w_int_phrasal_041",
+                      "word_en":  "burn out",
+                      "word_kr":  "번아웃되다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "이렇게 계속 일하면 결국 번아웃될 거야.",
+                      "example_en":  "You\u0027ll eventually burn out if you keep working like this."
+                  },
+                  {
+                      "id":  "w_int_phrasal_042",
+                      "word_en":  "call for",
+                      "word_kr":  "요구하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "이 상황은 좀 더 신중한 대응을 요구해.",
+                      "example_en":  "This situation calls for a more careful response."
+                  },
+                  {
+                      "id":  "w_int_phrasal_043",
+                      "word_en":  "catch on",
+                      "word_kr":  "유행하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 트렌드가 생각보다 빨리 유행하기 시작했어.",
+                      "example_en":  "That trend caught on faster than expected."
+                  },
+                  {
+                      "id":  "w_int_phrasal_044",
+                      "word_en":  "clamp down on",
+                      "word_kr":  "단속하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "정부가 그 문제를 단속하기 시작했어.",
+                      "example_en":  "The government started to clamp down on the issue."
+                  },
+                  {
+                      "id":  "w_int_phrasal_045",
+                      "word_en":  "close down",
+                      "word_kr":  "폐쇄하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 가게 결국 문을 닫았대.",
+                      "example_en":  "I heard that store ended up closing down."
+                  },
+                  {
+                      "id":  "w_int_phrasal_046",
+                      "word_en":  "come down to",
+                      "word_kr":  "결국 ~에 달려있다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "결국 이건 시간 문제로 귀결되는 것 같아.",
+                      "example_en":  "It really comes down to a matter of time."
+                  },
+                  {
+                      "id":  "w_int_phrasal_047",
+                      "word_en":  "come through",
+                      "word_kr":  "도와주다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "위기의 순간에 그 사람이 우릴 도와줬어.",
+                      "example_en":  "He came through for us in a moment of crisis."
+                  },
+                  {
+                      "id":  "w_int_phrasal_048",
+                      "word_en":  "cut off",
+                      "word_kr":  "끊다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람이 갑자기 연락을 끊었어.",
+                      "example_en":  "He suddenly cut off contact."
+                  },
+                  {
+                      "id":  "w_int_phrasal_049",
+                      "word_en":  "cut down on",
+                      "word_kr":  "줄이다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "요즘 야식을 좀 줄이려고 하고 있어.",
+                      "example_en":  "I\u0027ve been trying to cut down on late-night snacks."
+                  },
+                  {
+                      "id":  "w_int_phrasal_050",
+                      "word_en":  "dwell on",
+                      "word_kr":  "곱씹다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "지나간 일을 너무 곱씹지 마.",
+                      "example_en":  "Try not to dwell on what already happened."
+                  },
+                  {
+                      "id":  "w_int_phrasal_051",
+                      "word_en":  "ease off",
+                      "word_kr":  "완화되다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "이제 좀 스트레스가 완화된 것 같아.",
+                      "example_en":  "The stress seems to be easing off a bit."
+                  },
+                  {
+                      "id":  "w_int_phrasal_052",
+                      "word_en":  "fall for",
+                      "word_kr":  "속아넘어가다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "그 사람 완전히 그 속임수에 넘어갔어.",
+                      "example_en":  "He completely fell for that trick."
+                  },
+                  {
+                      "id":  "w_int_phrasal_053",
+                      "word_en":  "follow through",
+                      "word_kr":  "끝까지 해내다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "이번엔 계획을 끝까지 해낼 거야.",
+                      "example_en":  "This time, I\u0027m going to follow through on the plan."
+                  },
+                  {
+                      "id":  "w_int_phrasal_054",
+                      "word_en":  "gear up",
+                      "word_kr":  "준비하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "다음 발표를 위해 준비하고 있어.",
+                      "example_en":  "We\u0027re gearing up for the next presentation."
+                  },
+                  {
+                      "id":  "w_int_phrasal_055",
+                      "word_en":  "get by",
+                      "word_kr":  "그럭저럭 살아가다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "지금 월급으로 겨우 그럭저럭 살아가고 있어.",
+                      "example_en":  "I\u0027m barely getting by on my current salary."
+                  },
+                  {
+                      "id":  "w_int_phrasal_056",
+                      "word_en":  "give in",
+                      "word_kr":  "굴복하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "결국 그 사람 요구에 굴복했어.",
+                      "example_en":  "I eventually gave in to his demands."
+                  },
+                  {
+                      "id":  "w_int_phrasal_057",
+                      "word_en":  "hold up",
+                      "word_kr":  "지연시키다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "교통 체증 때문에 회의가 지연됐어.",
+                      "example_en":  "The meeting was held up because of traffic."
+                  },
+                  {
+                      "id":  "w_int_phrasal_058",
+                      "word_en":  "iron out",
+                      "word_kr":  "해결하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "세부 사항은 다음 회의에서 해결하자.",
+                      "example_en":  "Let\u0027s iron out the details at the next meeting."
+                  },
+                  {
+                      "id":  "w_int_phrasal_059",
+                      "word_en":  "lash out",
+                      "word_kr":  "화풀이하다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "스트레스 받을 때마다 괜히 주변 사람들한테 화풀이해.",
+                      "example_en":  "He lashes out at people around him whenever he\u0027s stressed."
+                  },
+                  {
+                      "id":  "w_int_phrasal_060",
+                      "word_en":  "line up",
+                      "word_kr":  "준비해놓다",
+                      "pos":  "구동사",
+                      "level":  "int",
+                      "example_kr":  "다음 주 일정을 미리 준비해놨어.",
+                      "example_en":  "I\u0027ve lined up the schedule for next week."
+                  }
+              ]
 }
